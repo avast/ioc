@@ -1,6 +1,6 @@
 # IOC for Clipsa
 
-Malware analysis and more technical informations at <https://decoded.avast.io/janrubin/clipsa---multipurpose-password-stealer/>
+Malware analysis and more technical informations at <https://decoded.avast.io/janrubin/clipsa-multipurpose-password-stealer/>
 
 
 ### Table of Contents
