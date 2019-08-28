@@ -1,0 +1,8 @@
+http://servicesx.gearhostpreview[.]com/data.asmx
+http://systemservicex.azurewebsites[.]net/data.asmx
+http://adobereader.azurewebsites[.]net/data.asmx
+http://gcmedservice.azurewebsites[.]net/Scripts.asmx
+alhussienweb.ddns[.]net
+ftp://waws-prod-am2-253.ftp.azurewebsites.windows[.]net/site/wwwroot
+ftp://waws-prod-sn1-071.ftp.azurewebsites.windows[.]net/site/wwwroot/
+ftp://ftp.gear[.]host/site/wwwroot/
