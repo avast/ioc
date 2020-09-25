@@ -1,4 +1,4 @@
-MD 0x02 - Device time
+CMD 0x02 - Device time
 CMD 0x05 - Wifi network
 CMD 0x07 - Wifi password
 CMD 0x0B
