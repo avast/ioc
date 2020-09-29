@@ -26,6 +26,6 @@ CMD 0x4C - Carafe
 CMD 0x4E - Set mode
 CMD 0x4F - Model
 CMD 0x64 - Device info - used to check firmware version
-CMD 0x69 - Set Wifi Power?
+CMD 0x69 - Set Wifi Power?    <0x69> <RFPOWER 0-82 in steps of 0.25dBm><0x7E>
 CMD 0x6A - Wifi firmware version
 CMD 0x6D - Firmware update sta
