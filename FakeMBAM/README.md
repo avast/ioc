@@ -7,7 +7,7 @@ Malware analysis and more technical information at <https://decoded.avast.io/jan
 * [Samples (SHA-256)](#samples-sha-256)
 * [Network indicators](#network-indicators)
 * [File names](#file-names)
-* [Registry keys](#registry-keys)
+* [Registry](#registry)
 
 
 ## Samples (SHA-256)
@@ -124,7 +124,7 @@ http://dl.cloudnetbytes[.]com/3/mbsetup.exe
 %ProgramData%\Package\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\SearchApp.exe
 ```
 
-## Registry keys
+## Registry
 ```
 HKLM\SOFTWARE\Wow6432Node\Malwarebytes\LicenseKey
 HKLM\SOFTWARE\Malwarebytes\LicenseKey
