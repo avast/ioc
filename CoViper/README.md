@@ -1,12 +1,12 @@
 # IoC for CoViper
 
-Malware analysis and more technical informations at <https://decoded.avast.io/janrubin/coviper-locking-down-computers-during-lockdown/>
+Malware analysis and more technical information at <https://decoded.avast.io/janrubin/coviper-locking-down-computers-during-lockdown/>
 
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)
 * [File names](#file-names)
-* [Registy keys](#registry-keys)
+* [Registry keys](#registry-keys)
 
 
 ## Samples (SHA-256)

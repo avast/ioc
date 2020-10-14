@@ -1,13 +1,13 @@
 # IOC for Clipsa
 
-Malware analysis and more technical informations at <https://decoded.avast.io/janrubin/clipsa-multipurpose-password-stealer/>
+Malware analysis and more technical information at <https://decoded.avast.io/janrubin/clipsa-multipurpose-password-stealer/>
 
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)
 * [Network indicators](#network-indicators)
 * [File names](#file-names)
-* [Registy keys](#registry-keys)
+* [Registry keys](#registry-keys)
 * [Semaphores](#semaphores)
 
 
