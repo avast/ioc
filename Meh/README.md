@@ -1,6 +1,6 @@
 # IoC for Meh
 
-Malware analysis and more technical informations at <https://decoded.avast.io/janrubin/complex-obfuscation-meh/>
+Malware analysis and more technical information at <https://decoded.avast.io/janrubin/complex-obfuscation-meh/>
 
 
 ### Table of Contents
@@ -10,7 +10,7 @@ Malware analysis and more technical informations at <https://decoded.avast.io/ja
 
 
 ## Samples (SHA-256)
-#### CoViper binary and related files
+#### Meh binary and related files
 ```
 94c2479d0a222ebdce04c02f0b0e58ec433b62299c9a537a31090bb75a33a06e - Initial AutoIt script
 43bfa7e8b83b54b18b6b48365008b2588a15ccebb3db57b2b9311f257e81f34c - Stage 1 - Dropper
