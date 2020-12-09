@@ -7,6 +7,7 @@ Malware analysis and more technical information at <https://decoded.avast.io/lui
 * [Samples (SHA-256)](#samples-sha-256)
 * [Network indicators](#network-indicators)
 
+## Samples (SHA-256)
 ### Backdoor PolPo
 ```
 1EC731E955957FD06C42692BAE06C2EC13A39FE206ED65A5F145AE26D561C6BC
