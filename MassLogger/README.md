@@ -82,12 +82,10 @@ jaleel.rehman@osaimiengineering.com.sa
 
 ```
 
-```
 #### HTTP
 ```
 hxxps://bradbo[.]life/mass/?/upload
 hxxps://www.med-star[.]gr/panel/?/login
 hxxps://server295[.]web-hosting[.]com
-
 
 ```
