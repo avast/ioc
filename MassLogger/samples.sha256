@@ -1,16 +1,3 @@
-# IoC for MassLogger
-
-Malware analysis and more technical information at 
-
-
-### Table of Contents
-* [Samples (SHA-256)](#samples-sha-256)
-* [Network indicators](#network-indicators)
-
-
-## Samples (SHA-256)
-#### MassLogger binary and related files
-```
 56cdab11e53a0e5874133e04e90e5829f9d28a3cfd215a5f9e98c3b146bb3c1a
 c5e4e3626c2df21cb71de5713203c3155481ac3a4e33642466b5c7fc8176bab2
 1ddfb935de736c5e8bd07d909d08cfdf105cf45fbfd46801ff65d9bc0cf51ca7
@@ -50,38 +37,3 @@ e32e29a9e0c222af6a2daa4cfc99df98d996f53fdf4f4d451021bb57fec68a83
 245e470d00a4da06a576ddee4bf9c0f03a8bb1084f2059b19c988d8bd7e78b7c
 49b58c17a00fcc1f2f5b54d7ea4a51de450357771cc796b1c0ec2511bfebb234
 e0e6e90b952c07f8b8793b47d13fec103295cc5f299774686c4e09761226640d
-
-```
-
-## Network indicators
-#### FTP
-```
-fxp://alvorkitecenter[.]com
-fxp://med-star[.]gr
-fxp://ftp.ayudasaudiovisuales[.]com
-fxp://st05[.]net
-fxp://ecurs[.]ro
-
-```
-#### SMTP
-```
-pop@bals.gq
-rakplant@emirates.net.ae
-adonilifranky@gmail.com
-rakplant@eim.ae
-Williamslucy570@gmail.com
-henryresult@yandex.com
-info@beljemi.com
-nwamalog@hisensetech.ml
-nwama@hisensetech.ml
-jaleel.rehman@osaimiengineering.com.sa
-
-```
-
-#### HTTP
-```
-hxxps://bradbo[.]life/mass/?/upload
-hxxps://www.med-star[.]gr/panel/?/login
-hxxps://server295[.]web-hosting[.]com
-
-```
