@@ -1,6 +1,6 @@
 # IoC for MassLogger
 
-Malware analysis and more technical information at 
+Malware analysis and more technical information at https://decoded.avast.io/anhho/masslogger-v3-a-net-stealer-with-serious-obfuscation/
 
 
 ### Table of Contents
