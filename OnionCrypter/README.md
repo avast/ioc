@@ -4,7 +4,7 @@ Malware analysis and more technical information at <https://decoded.avast.io/oni
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)
-* [Events](#Events)
+* [Event names](#event-names)
 
 ## Samples (SHA-256)
 #### OnionCrypter binary and related files
@@ -16,4 +16,27 @@ Malware analysis and more technical information at <https://decoded.avast.io/oni
 8B85A4D9DF1140D25F11914EC4E429C505BD97551EDE19197D2B795C44770AFE
 75E692519607C2E58A3E4F5606D17262D4387D8EEA92FAB9C11C64C4A6035FBC
 846DCC9BCDC5C6103B2979FF93F4E1789B63827413B2FE56B1362129DF069DAF
+```
+## Event names
+```
+BkColor
+LTZEXYEvent
+Menulapkievent
+Strolls
+Xstore
+alerts
+cross
+cueevn
+denfers
+doroga
+frols
+kikers
+labs
+lifecicled
+milsin
+parames
+rastrevn
+svet
+vvti
+zadvl
 ```
