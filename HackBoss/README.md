@@ -1,6 +1,6 @@
 # IOC for HackBoss
 
-Malware analysis and more technical information at <TODO>
+Malware analysis and more technical information at <https://decoded.avast.io/romanalinkeova/hackboss-a-cryptocurrency-stealing-malware-distributed-through-telegram/>
 
 
 ### Table of Contents
