@@ -5,7 +5,7 @@ More technical informations at <https://decoded.avast.io/davidzimmer/reusing-vb6
 ### Table of Contents
 
 | Folder name             | Description
-|-------------------------|--------------------------------
+|:------------------------|:-------------------------------
 | firstTest               | simple return value from pcode
 | globalVar               | setup/test mem to handle global variables
 | structs                 | passing structs from C to pcode 
