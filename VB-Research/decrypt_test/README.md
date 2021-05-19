@@ -1,0 +1,1 @@
+Replicates ripping a decryption function from a malware and reusing it on our own from a C host with our own data.
