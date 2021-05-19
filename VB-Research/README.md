@@ -17,6 +17,7 @@ More technical informations at <https://decoded.avast.io/davidzimmer/reusing-vb6
 | decrypt_test            | ripping a decryptor from a pcode exe and calling directly with complex prototype 
 | getVarData              | c host returns different types of variant data from callback to pcode.
 | decrypt_benchmark       | rc4 benchmarking apps in c/pcode and straight C
+| complex_globals         | sets complex global variables from C
 
 All samples were compiled using VB6 and VS 2008.
 
