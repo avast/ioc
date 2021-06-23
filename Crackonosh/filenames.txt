@@ -1,0 +1,14 @@
+C:\Windows\System32\7B296FC0-376B-497d-B013-58F4D9633A22-5P-1.B5841A4C-A289-439d-8115-50AB69CD450
+C:\Windows\System32\7B296FC0-376B-497d-B013-58F4D9633A22-5P-1.B5841A4C-A289-439d-8115-50AB69CD450B
+C:\Windows\System32\StartupCheckLibrarry.dll
+UserAccountControlSettingsDevice.dat
+C:\Windows\System32\diskdriver.exe
+C:\Windows\System32\install.vbs
+C:\Windows\System32\maintenance.vbs
+C:\Windows\System32\serviceinstaller.exe
+C:\Windows\System32\serviceinstaller.msi
+C:\Windows\System32\startupcheck.vbs
+C:\Windows\System32\windfn.exe
+C:\Windows\System32\winrmsrv.exe
+C:\Windows\System32\winscomrssrv.dll
+C:\Windows\System32\wksprtcli.dll
