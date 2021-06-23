@@ -1,6 +1,6 @@
 # IOC for Crackonosh
 
-Malware analysis and more technical informations at <https://decoded.avast.io/danielbenes/crackonosh-a-new-malware-distributed-in-cracked-software>
+Malware analysis and more technical informations at <https://decoded.avast.io/danielbenes/crackonosh-a-new-malware-distributed-in-cracked-software/>
 
 
 ### Table of Contents
