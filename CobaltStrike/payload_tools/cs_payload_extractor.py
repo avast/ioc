@@ -11,15 +11,15 @@ import cs_payload_parser as csp
 VERSION = 1.0
 # Regex patterns for default CS encoding
 FILE_TYPE_PATTERNS = [
+    ['raw_payload', b'\xFC\xE8\x89\x00\x00\x00\x60\x89|\xFC\x48\x83\xE4\xF0\xE8\xC8\x00'],
+    ['xored_payload', b'\x10[\x00-\xFF]{1}\x00\x00[\x00-\xFF]{3}\x00[\x00-\xFF]{4}\x61\x61\x61\x61'],
+    ['xored_beacon', b'\xFC\xE8.\x00\x00\x00.{,32}\xEB[\x27\x2B].\x8B.\x00?\x83.\x04\x55?\x8B.\x00?\x31.\x83.\x04|\xFC\x48\x83\xE4\xF0\xEB\x33\x5D\x8B\x45\x00\x48\x83\xC5\x04\x8B\x4D\x00\x31\xC1\x48'],
     ['raw_hex', b'[a-fA-F0-9]{255,}'],
     ['raw_hex_array', b'(0x[a-fA-F0-9]{2}([;,\.]\s)?){255,}'],
     ['raw_hex_veil', rb'(\\x[a-fA-F0-9]{2}){255,}'],
     ['raw_dec_array',rb'([0-9\-]{1,4},(\s_\n)?[0-9\-]{1,4},?){255,}'],
     ['raw_chr_array', b'([aArR"&y\s]{5,})?(Chr\([0-9\-]{1,4}\)&("[a-zA-Z0-9\s]{1,}"&)?(\s_\n)?){32,}'],
-    ['raw_base64', b'(?:[A-Za-z0-9+/]{4}){128,}(?:[A-Za-z0-9+/][AQgw]==|[A-Za-z0-9+/]{2}[AEIMQUYcgkosw048]=)?'],
-    ['raw_payload', b'\xFC\xE8\x89\x00\x00\x00\x60\x89|\xFC\x48\x83\xE4\xF0\xE8\xC8\x00'],
-    ['xored_payload', b'\x10[\x00-\xFF]{1}\x00\x00[\x00-\xFF]{3}\x00[\x00-\xFF]{4}\x61\x61\x61\x61'],
-    ['xored_beacon', b'\xFC\xE8.\x00\x00\x00.{,32}\xEB[\x27\x2B].\x8B.\x00?\x83.\x04\x55?\x8B.\x00?\x31.\x83.\x04|\xFC\x48\x83\xE4\xF0\xEB\x33\x5D\x8B\x45\x00\x48\x83\xC5\x04\x8B\x4D\x00\x31\xC1\x48']
+    ['raw_base64', b'(?:[A-Za-z0-9+/]{4}){128,}(?:[A-Za-z0-9+/][AQgw]==|[A-Za-z0-9+/]{2}[AEIMQUYcgkosw048]=)?']
 ]
 # Default XOR key used in encoding postprocess
 DEFAULT_CS_XOR_KEY = 0x23
@@ -273,7 +273,7 @@ def main():
     p = Path(sys.argv[1])
     # extract and parse file
     if p.is_file():
-        print('\n%s\n[*] Extracting file..' % HR)
+        print('[*] Extracting file..')
         d = extract_payload(p)
         if d:
             print('[*] Parsing file..')
