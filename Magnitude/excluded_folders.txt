@@ -1,0 +1,20 @@
+If the folder name contains one of the following strings as a substring (case-insensitively) Magniber avoids encrypting it (and any subfolders).
+
+documents and settings
+appdata
+local settings
+sample music
+sample pictures
+sample videos
+tor browser
+recycle
+windows
+boot
+intel
+msocache
+perflogs
+program files
+programdata
+recovery
+system volume information
+winnt
