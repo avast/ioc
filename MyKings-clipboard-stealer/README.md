@@ -5,7 +5,7 @@ Malware analysis and more technical information at <https://decoded.avast.io/jan
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)
 * [Mutex names](#mutex-names)
-* [C&Cs and logging servers](#c\&cs-and-logging-servers)
+* [C&Cs and logging servers](#c-&-cs-and-logging-servers)
 * [Yandex disk links](#yandex-disk-links)
 * [Wallet addresses](#wallet-addresses)
 ## Samples (SHA-256)
