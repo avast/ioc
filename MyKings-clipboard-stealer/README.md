@@ -7,7 +7,7 @@ Malware analysis and more technical information at <https://decoded.avast.io/jan
 * [Mutex names](#mutex-names)
 * [C&Cs and logging servers](#c&cs-and-logging-servers)
 * [Yandex disk links](#yandex-disk-links)
-* [Wallet addresses](#walet-addresses)
+* [Wallet addresses](#wallet-addresses)
 ## Samples (SHA-256)
 #### MyKings clipboard stealer binary and related files
 ```
@@ -60,7 +60,7 @@ https://steamcommunity[.]com/tradeoffer/new/?partner=121845838&token=advSgAXy
 ```
 
 ## Wallet addresses
-````
+```
 0x039fd537a61e4a7f28e43740fe29ac84443366f6
 0x6a1A2C1081310a237Cd328B5d7e702CB80Bd2078
 12cZKjNqqxcFovghD5N7fgPNMLFZeLZc3u
