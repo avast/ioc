@@ -7,6 +7,7 @@ belong to multiple cryptocurrencies.
 <br/>
 <br/>
 Example input:
+
 ```
 {
 	"wallet_address" :
@@ -23,6 +24,7 @@ Example input:
 ```
 <br/>
 Script can be run from console with following command:
+
 ```
 > wallet_gain.py -if ./wallets_tagged.json -of ./wallet_gains.json
 ```
