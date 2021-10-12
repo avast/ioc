@@ -2,8 +2,8 @@
 
 Data received should be in a json format where wallet addresses are objects containing information
 about them. Information must contain "currency" with a correct tag, because script queries only
-one API based on that tag. The "currency" is a list in a case when one address may belong to multiple
-cryptocurrencies.
+one API at a time based on that tag. The "currency" is a list in a case when one address may
+belong to multiple cryptocurrencies.
 <br/>
 <br/>
 Example input:
