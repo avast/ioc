@@ -75,6 +75,7 @@ dmt-sys[.]net/index.php?
 up-dmt[.]net/index.php?
 sys-dmt[.]net/index.php?
 x-demeter[.]com/index.php?
+x-dmt[.]net/index.php?P
 walmirlima[.]com.br/wp-content/themes/epico/proxy.php?
 atlas[.]med.br/wp-content/themes/twentysixteen/proxy.php?
 apoiodesign[.]com/language/overrides/p.php?
@@ -88,6 +89,11 @@ is[.]gd/Lg5g13?V=29
 tiny[.]one/96czm3nk?v=28
 is[.]gd/WRxGba?V=27
 is[.]gd/3d5eWS?V=26
+is[.]gd/GgGf9z?v=v25.0
+is[.]gd/wvJ6Dd?v=v23.0
+is[.]gd/B7n1xY?v=v21.0
+is[.]gd/y0fFL5?v=v19.0
+is[.]gd/PsGIhU?v=v18.0
 ```
 
 #### CnC Servers
