@@ -2,7 +2,7 @@
 
 ### Table of Contents
 * [IoCs](#IoCs)
-* [Source Code](#event-names)
+* [Source Code](#Source-Code-files)
 
 ## Samples (SHA-256)
 #### National Games of China incident related files
