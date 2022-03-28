@@ -11,7 +11,7 @@ Malware analysis and more technical informations at <https://decoded.avast.io/th
 
 
 ## Samples (SHA-256)
-#### Clipsa binary and related files
+#### Binary and related files
 ```
 85FA43C3F84B31FBE34BF078AF5A614612D32282D7B14523610A13944AADAACB - C:\Windows\System32\wlbsctrl.dll
 ```
