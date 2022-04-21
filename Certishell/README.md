@@ -1,4 +1,4 @@
-# IOC for malware_family_name
+# IOC for Certishell
 
 Malware analysis and more technical informations at <https://decoded.avast.io/danielbenes/warez-users-fell-for-certishell/>
 
