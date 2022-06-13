@@ -1,5 +1,8 @@
 # IoC for Syslogk Kernel Rootkit hiding Rekoobe
 
+Malware analysis and more technical informations:  
+<https://decoded.avast.io/janneduchal/linux-threat-hunting---syslogk---a-kernel-rootkit-found-under-development-in-the-wild/>
+
 ### Table of Contents
 * [IoCs](#IoCs)
 * [Source Code of our research tools](#Source-Code-of-our-research-tools)
