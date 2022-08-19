@@ -2,8 +2,7 @@
 
 Manjusaka is web based imitation of the Cobalt Strike framework.
 
-More info: <https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html>
-Manjusaka github: <https://github.com/YDHCUI/manjusaka>
+More info: <https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html>  Manjusaka github: <https://github.com/YDHCUI/manjusaka>
 
 ### Table of Contents
 * [Framework content unpacking](#framework-content-unpacking)
