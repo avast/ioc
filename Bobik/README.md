@@ -2,7 +2,7 @@
 Malware analysis and more technical information at [https://decoded.avast.io/martinchlumecky/bobik](https://decoded.avast.io/martinchlumecky/bobik)
 
 ## DDoS Targets
-Examples of captured XML config files are stored in the [XML_configs](/XML_configs) folder.
+Examples of captured XML config files are stored in the [XML_configs](https://github.com/avast/ioc/tree/master/Bobik/XML_configs) folder.
 
 The targeted hosts are listed in the [targets.txt](targets.txt) file. A complete analysis of the Bobiks’ targets is in the [targets.xlsx](targets.xlsx) file.
 
