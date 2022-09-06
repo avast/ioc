@@ -1601,6 +1601,7 @@ check.cambridge.ua
 company.shodennik.ua
 courses.prometheus.org.ua
 datahub.eso.lt
+do.mlt.gov.ua
 education.umj.com.ua
 eso.lt
 learn.lifeschool.org.ua
@@ -1616,4 +1617,25 @@ www.equinox.lt
 www.licatrans.lt
 www.mathema.me
 www.tirola.lt
+
+22-09-06
+----------------------
+auth.cdu.edu.ua
+back.libera.school
+cdo.org.ua
+chat.cdo.org.ua
+check.cambridge.ua
+company.shodennik.ua
+courses.prometheus.org.ua
+do.mlt.gov.ua
+education.umj.com.ua
+learn.lifeschool.org.ua
+libera.school
+osvita.diia.gov.ua
+school.angstremua.com
+school.meridian.com.ua
+ukr.voshozdenieschool.com.ua
+vumonline.ua
+www.athens.kiev.ua
+www.mathema.me
  
