@@ -2,9 +2,7 @@
 
 Manjusaka is web based imitation of the Cobalt Strike framework.
 
-
-
-More info: <a href="https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html" target="_blank">Talos blogpost</a>
+More info: <https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html>
 <br/>
 Manjusaka github: <https://github.com/YDHCUI/manjusaka>
 
@@ -24,7 +22,7 @@ Each data blob start with header:
 ```
 1F 8B 08 00 00 00 00 00 00 FF
 ```
-The last two hardcoded data blobs a EXE and ELF binaries.
+Up to v04 the last two hardcoded data blobs are EXE and ELF binaries, since v05 all EXE and ELF binaries are stored inside plugins folder.
 
 #### Payloads unpacking example:
 1. Parse payload data blobs and remove header (20 chars)
@@ -57,6 +55,8 @@ y0MW5jt0EkawUK5kkl12/Zh446aeMzbHG7OsVOfqu/m_XtCR229uKgZbQeD5Ct/fxfGJGaYN1_6nNv2X
 0306BSKBqnqKtMQqgSXM/hLj4wvVVJLyBCaJB_8M0/stfbGsFZXgNkPwZKLqRe/MIFhigzePSeV5d_RmfC5 - ELF v03 (dev) 
 654gijPAUkEazJpjD9NU/gDuHF1xfdp91Sf6SYQHX/vsnn7ekg0TKXWiOScF0D/Sam0sQmfyCaDC8qCfYx5 - ELF v03
 erRGOJVHe87XgmyOVwHD/BpxVvpyDXtLddyWFd8N9/oYwdpsmFEDX92XJURLUz/bbXY8CvkDMriB32dI6SX - EXE v03
+GnBKocLwvWZnC_UmIr-r/6P-OzFbQ79oYyyaDRHV4/8tmFwxcSdccmpfsZc3hb/w4-6IRPpuBfuahzPcL52 - ELF v04
+NPWAdPbWmnXr0a6gD7Kz/TtnYdOyCjvcCQuZ9GiDr/FCmOi8A066RPC6SOWvaM/CpW7O0s8aQ2BFVdfebTJ - ELF v05
 ```
 
 ## Binaries PDB
@@ -86,16 +86,29 @@ fb5835f42d5611804aaa044150a20b13dcf595d91314ebef8cf6810407d85c64 - ELF v03 upx
 ff20333d38f7affbfde5b85d704ee20cd60b519cb57c70e0cf5ac1f65acf91a6 - ELF v03 unpacked
 3581d99feb874f65f53866751b7874c106b5ce65a523972ef6a736844209043c - EXE v03 upx
 6082bf26bcc07bf299a88eaa0272022418b12156cd987adfdff9fa1517afcf3d - EXE v03 unpacked
+14dfb43a1782b0b8d93c3d67d63b6c786b0a223bc50c3ec68106bd18d43652a4 - ELF v04 upx
+4a0f47132867c12a6d009e43812729a1bb41f4eb83472ac352fc5b20fe937bef - ELF v04 unpacked
+bb1b7d506559c783ed747da461f58ea5256ba0a083768ae6aa1a2325017c4387 - ELF v05 upx
+bd0e09e9ee4db74ada6433f00024a543f799046c15f635216ca4ae5e1f0c42e2 - ELF v05 unpacked
 ```
 #### Hardcoded payload Rust binaries
 ```
 0063e5007566e0a7e8bfd73c4628c6d140b332df4f9afbb0adcf0c832dd54c2b - ELF v01, v02
 d5918611b1837308d0c6d19bff4b81b00d4f6a30c1240c00a9e0a9b08dde1412 - ELF v03 (dev)
 0a5174b5181fcd6827d9c4a83e9f0423838cbb5a6b23d012c3ae414b31c8b0da - ELF v03
+63e7f6fa89faa88b346d0cceddf2ef2e3ebf5d5828aa0087663c227422041db7 - ELF v04
+4eb337c12f0e0ee73b3209bed4b819719c4af9f63f3e81dbc3bbf06212450f1c - ELF v05
+400855b63b8452221869630c58b7ab03373dabf77c0f10df635e746c13f98ea9 - ELF v05
+443abf66039c6686b50e5091ac218810798a21884aa6bc0d5b6dd8782b0311a8 - ELF v05
 6839180bc3a2404e629c108d7e8c8548caf9f8249bbbf658b47c00a15a64758f - EXE v01
 cd0c75638724c0529cc9e7ca0a91d2f5d7221ef2a87b65ded2bc1603736e3b5d - EXE v02
 76eb9af0e2f620016d63d38ddb86f0f3f8f598b54146ad14e6af3d8f347dd365 - EXE v03 (dev)
 2b174d417a4e43fd6759c64512faa88f4504e8f14f08fd5348fff51058c9958f - EXE v03
+377bacba69d2bec770599ab21a202b574b92fb431fc35bbdf39080025d6cf2d6 - EXE v04
+51857882d1202e72c0cf18ff21de773c2a31ee68ff28385f968478401c5ab4bb - EXE v05
+86c633467ba7981d3946a63184dbfabce587b571f761b3eb1e3e43f6b1df6f2c - EXE v05
+e07aa10f19574a856a4ac389a3ded96f2d78f41f939935dd678811bd12b5bd03 - EXE v05
+9e7144540430d97de38a2adcef16ad43e23c91281462b135fcc56cafc2f34160 - EXE v05
 ```
 #### ITW payload Rust binaries
 ```
