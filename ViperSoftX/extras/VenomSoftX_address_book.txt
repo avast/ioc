@@ -1,0 +1,107 @@
+{
+    '^1[a-km-zA-HJ-NP-Z1-9]{25,34}$': {
+        'coin': ['BTC', 'BCH'],
+        'address': '1L8EBHDeiHeumtcpcroaxBceXnWFiYU5dh',
+        'network': ['BTC', 'BCH']
+    },
+    '^3[a-km-zA-HJ-NP-Z1-9]{25,34}$': {
+        'coin': ['BTC', 'BCH'],
+        'address': '32Wx3dsHCCxyJZLwseFYkgeFqVk16tCCcF',
+        'network': ['BTC', 'BCH']
+    },
+    '^bc1q[0-9A-Za-z]{37,62}$': {
+        'coin': ['BTC'],
+        'address': 'bc1qxgz2g8kn2kg0wqqrmctyxu5n925pnwphzlehaw',
+        'network': ['BTC']
+    },
+    '^bc1p[0-9A-Za-z]{37,62}$': {
+        'coin': ['BTC'],
+        'address': 'bc1qxgz2g8kn2kg0wqqrmctyxu5n925pnwphzlehaw',
+        'network': ['BTC']
+    },
+    '^((bitcoincash:)?(q|p)[a-z0-9]{41})$': {
+        'coin': ['BCH'],
+        'address': 'qqh3g98z60rdl05044xxt7gkgncezmdfy5tja99z53',
+        'network': ['BCH']
+    },
+    '^((BITCOINCASH:)?(Q|P)[A-Z0-9]{41})$': {
+        'coin': ['BCH'],
+        'address': 'qqh3g98z60rdl05044xxt7gkgncezmdfy5tja99z53',
+        'network': ['BCH']
+    },
+    '^(0x)[0-9A-Fa-f]{40}$': {
+        'coin': ['BTC', 'BCH', 'BNB', 'DOGE', 'ETH', 'XRP', 'USDT', 'SOL', 'ATOM', 'DOT', 'XTZ', 'ZEC', 'ADA', 'ZIL'],
+        'address': '0x12507F83Dde59C206ec400719dF80D015D9D17B6',
+        'network': ['BSC', 'ETH', 'ARBITRUM', 'AVAXC', 'MATIC']
+    },
+    '^(bnb1)[0-9a-z]{38}$': {
+        'coin': ['BTC', 'BCH', 'BNB', 'DOGE', 'ETH', 'XRP', 'USDT', 'KAVA', 'ATOM', 'DOT', 'XTZ', 'ZEC', 'ADA'],
+        'address': 'bnb1u64a2n3jhw4yh73s84rc58v8wxrwp7r8jwakpr',
+        'network': ['BNB']
+    },
+    '^[48][a-zA-Z|\\d]{94}([a-zA-Z|\\d]{11})?$': {
+        'coin': ['XMR'],
+        'address': '475WGyX8zvFFCUR9ufThrNRtJmzmU13gqH9GV2WgAjbR7FgRVCWzokdfVf2hqvRbDBaMzBm1zpDiBTpBgxLt6d7nAdEEhC4',
+        'network': ['XMR']
+    },
+    '^[X|7][0-9A-Za-z]{33}$': {
+        'coin': ['DASH'],
+        'address': 'XdxTmTFuHrcHnQQhfweAnHtExFB5BXmU1z',
+        'network': ['DASH']
+    },
+    '^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$': {
+        'coin': ['DOGE'],
+        'address': 'DUUNTm23sVwLyiw27WW9ZPT9XfiWhB1Cvf',
+        'network': ['DOGE']
+    },
+    '^r[1-9A-HJ-NP-Za-km-z]{25,34}$': {
+        'coin': ['XRP'],
+        'address': 'rpzn8Ax7Kz1A4Yi8KqvzV43KYsa59SH2Aq',
+        'network': ['XRP']
+    },
+    '^T[1-9A-HJ-NP-Za-km-z]{33}$': {
+        'coin': ['USDT'],
+        'address': 'TDJLMdJWPrKNMHuxgpQL8QPYgvdXTnWJao',
+        'network': ['TRX']
+    },
+    '^(kava1)[0-9a-z]{38}$': {
+        'coin': ['KAVA'],
+        'address': 'kava1emxzwjw84e0re7awgue9kp4gseesyqrttg69sm',
+        'network': ['KAVA']
+    },
+    '^(cosmos1)[0-9a-z]{38}$': {
+        'coin': ['ATOM'],
+        'address': 'cosmos1mcah8lel6rxhlqsyrzpm8237cqcuzgyw70nm6f',
+        'network': ['ATOM']
+    },
+    '^(tz[1,2,3])[a-zA-Z0-9]{33}$': {
+        'coin': ['XTZ'],
+        'address': 'tz1g6rcQAgtdZc8PNUaTUzrDD8PYuCeVj4mb',
+        'network': ['XTZ']
+    },
+    '^(t)[A-Za-z0-9]{34}$': {
+        'coin': ['ZEC'],
+        'address': 't1XjiZx8EydDDRuLisoYyVifcSFb96a3YBj',
+        'network': ['ZEC']
+    },
+    '^(([0-9A-Za-z]{57,59})|([0-9A-Za-z]{100,104}))$': {
+        'coin': ['ADA'],
+        'address': 'addr1q9c27w7u4uh55sfp64ahtrnj44jkthpe7vyqgcpt73z9lrq7fw3juld8k2ksz2p82tv45j8yc5wzqmr4ladxyt0vjxrsf33mjk',
+        'network': ['ADA']
+    },
+    'zil1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{38}': {
+        'coin': ['ZIL'],
+        'address': 'zil1aw3kyrymt52pq2e4xwzusdfce9e5tmewvshdrm',
+        'network': ['ZIL']
+    },
+    '^[1-9A-HJ-NP-Za-km-z]{32,44}$': {
+        'coin': ['USDT', 'SOL'],
+        'address': '7j5bxiFPSsScScBEjLj9qud5Yc2CqXGmembX3hQBdFTd',
+        'network': ['SOL']
+    },
+    '^(1)[0-9a-z-A-Z]{44,50}$': {
+        'coin': ['DOT'],
+        'address': '122zNSYNN2TSR2H5wBCX16Yyvq7qLFWo1d6Lvw2t9CNxMxt1',
+        'network': ['DOT']
+    }
+};
