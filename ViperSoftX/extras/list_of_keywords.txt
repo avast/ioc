@@ -1,0 +1,19 @@
+Keywords for monitoring opened windows
+----------------
+binance
+coinbase
+blockchain
+voyager
+blockfi
+coindesk
+etoro
+kucoin
+citi
+paxful
+paypal
+huobi
+poloniex
+bittrex
+kraken
+bitfinex
+bitstamp

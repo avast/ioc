@@ -1,0 +1,41 @@
+List of checked locations for cryptocurrency related theft
+----------------
+%ProgramFiles%\Binance
+%ProgramFiles%\Bitcoin
+%ProgramFiles%\Ledger Live
+
+%ProgramFiles(x86)%\Electrum
+
+%appdata%\Armory
+%appdata%\Atomic Wallet
+%appdata%\Bitcoin
+%appdata%\DELTA
+%appdata%\Electrum
+%appdata%\Exodus
+%appdata%\Guarda
+%appdata%\Jaxx Liberty
+%appdata%\Ledger Live
+%appdata%\TREZOR Bridge
+%appdata%\binance
+%appdata%\com.liberty.jaxx
+
+%localappdata%\Blockstream Green
+%localappdata%\BraveSoftware\Brave-Browser\User Data\Default\Extensions\aeachknmefphepccionboohckonoeemg
+%localappdata%\BraveSoftware\Brave-Browser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne
+%localappdata%\BraveSoftware\Brave-Browser\User Data\Default\Extensions\fhbohimaelbohpjbbldcngcnapndodjp
+%localappdata%\BraveSoftware\Brave-Browser\User Data\Default\Extensions\hnfanknocfeofbddgcijnmhnfnkdnaad
+%localappdata%\BraveSoftware\Brave-Browser\User Data\Default\Extensions\nkbihfbeogaeaoehlefnkodbefgpgknn
+%localappdata%\BraveSoftware\Brave-Browser\User Data\Default\Extensions\nlbmnnijcnlegkjjpcfjclmcfggfefdm
+%localappdata%\Coinomi
+%localappdata%\Docker
+%localappdata%\Google\Chrome\User Data\Default\Extensions\aeachknmefphepccionboohckonoeemg
+%localappdata%\Google\Chrome\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne
+%localappdata%\Google\Chrome\User Data\Default\Extensions\fhbohimaelbohpjbbldcngcnapndodjp
+%localappdata%\Google\Chrome\User Data\Default\Extensions\hnfanknocfeofbddgcijnmhnfnkdnaad
+%localappdata%\Google\Chrome\User Data\Default\Extensions\nkbihfbeogaeaoehlefnkodbefgpgknn
+%localappdata%\Google\Chrome\User Data\Default\Extensions\nlbmnnijcnlegkjjpcfjclmcfggfefdm
+%localappdata%\Microsoft\Edge\User Data\Default\Extensions\ejbalbakoplchlghecdalmeeeajnimhm
+%localappdata%\Microsoft\Edge\User Data\Default\Extensions\gmcoclageakkbkbbflppkbpjcbkcfedg
+%localappdata%\Programs\Trezor Suite
+%localappdata%\Programs\atomic
+%localappdata%\exodus

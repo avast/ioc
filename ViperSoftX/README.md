@@ -1,0 +1,71 @@
+# IoC for ViperSoftX and VenomSoftX
+
+Malware analysis and more technical information at <https://decoded.avast.io/janrubin/vipersoftx-hiding-in-system-logs-and-spreading-venomsoftx>
+
+### Table of Contents
+* [Samples (SHA-256)](#samples-sha-256)
+* [C&Cs](#cnc)
+* [Wallet addresses](#wallet-addresses)
+## Samples (SHA-256)
+#### ViperSoftX binary and related files
+```
+e1dc058fc8282acb95648c1ee6b0bc36b0d6b5e6853d4f602df5549e67d6d11a
+0bad2617ddb7586637ad81aaa32912b78497daf1f69eb9eb7385917b2c8701c2
+0cb5c69e8e85f44725105432de551090b28530be8948cc730e4b0d901748ff6f
+23b9075dac7dbf712732bb81ecd2c21259f384eb79ae8fdebe29b7c5a12d0519
+5c5202ed975d6647bd157ea494d0a09aac41d686bcf39b16a870422fa77a9add
+```
+#### VenomSoftX binary and related files
+```
+3fe448df20c8474730415f07d05bef3011486ec1e070c67683c5034ec76a2fcb
+0de9a23f88b9b7bda3da989dce7ad014112d88100dceaabca072d6672522be26
+1d6845c7b92d6eb70464a35b6075365872c0ae40890133f4d7dd17ea066f8481
+7107ab14a1760c6dccd25bf5e22221134a23401595d10c707f023f8ca5f1b854
+ddee23e2bfd6b9d57569076029371e6e686b801131b6b503e7444359d9d8d813
+947215a1c401522d654e1d1d241e4c8ee44217dacd093b814e7f38d4c9db0289
+7b75c1150ef10294c5b9005dbcd2ee6795423ec20c512eb16c8379b6360b6c98
+d7dfc84af13f49e2a242f60804b70f82efff7680cddf07f412667f998143fe9c
+4da1352e3415faa393e4d088b5d54d501c8d2a9be9af1362ca5cc0a799204b37
+705deecbbb6fd4855df3de254057c90150255c947b0fb985ea1e0f923f75a95f
+```
+
+## C&Cs
+```
+api.private-chatting[.]com
+apps-analyser[.]com
+wmail-blog[.]com
+wmail-service[.]com
+```
+
+## Wallet addresses
+```
+0x12507F83Dde59C206ec400719dF80D015D9D17B6
+0x884467182849bA788ba89300e176ebe11624C882
+122zNSYNN2TSR2H5wBCX16Yyvq7qLFWo1d6Lvw2t9CNxMxt1
+1L8EBHDeiHeumtcpcroaxBceXnWFiYU5dh
+1Pqkb4MZwKzgSNkaX32wMwg95D9NfW9vZX
+32Wx3dsHCCxyJZLwseFYkgeFqVk16tCCcF
+3JvBvRuBfYvB6MjzMornj9EQpxhq9W7vXP
+475WGyX8zvFFCUR9ufThrNRtJmzmU13gqH9GV2WgAjbR7FgRVCWzokdfVf2hqvRbDBaMzBm1zpDiBTpBgxLt6d7nAdEEhC4
+48qx1krgEGzdcSacbmZdioNwXxW6r43yFSJDKPWZb3wsK9pYhajHNyE5FujWo1NxVwEBvGebS7biW9mjMEWdMevqMGmDJ6x
+7j5bxiFPSsScScBEjLj9qud5Yc2CqXGmembX3hQBdFTd$
+DDxhfK5wbJkRN25mAbBYk3ND4xLjiMRyNq
+DUUNTm23sVwLyiw27WW9ZPT9XfiWhB1Cvf
+TDJLMdJWPrKNMHuxgpQL8QPYgvdXTnWJao
+XdxTmTFuHrcHnQQhfweAnHtExFB5BXmU1z
+Xtwj8uGx77NYBUki1UCPvEhe4kHYi6yWng
+addr1q9c27w7u4uh55sfp64ahtrnj44jkthpe7vyqgcpt73z9lrq7fw3juld8k2ksz2p82tv45j8yc5wzqmr4ladxyt0vjxrsf33mjk
+bc1qn6ype8u5kgj672mvsez9wz9wt9wk22tzd5vprp
+bc1qxgz2g8kn2kg0wqqrmctyxu5n925pnwphzlehaw
+bnb1u64a2n3jhw4yh73s84rc58v8wxrwp7r8jwakpr
+bnb1vmwl54jxj9yvsgz33xtyuvqnurdjy2raqnttkq
+cosmos1mcah8lel6rxhlqsyrzpm8237cqcuzgyw70nm6f
+kava1emxzwjw84e0re7awgue9kp4gseesyqrttg69sm
+qq9yrhef7csy3yzgxgs0rvkvez440mk53gv8ulyu6a
+qqh3g98z60rdl05044xxt7gkgncezmdfy5tja99z53
+rH6dyKWNpcvFz6fQ4ohyDbevSxcxdxfSmz
+rpzn8Ax7Kz1A4Yi8KqvzV43KYsa59SH2Aq
+t1XjiZx8EydDDRuLisoYyVifcSFb96a3YBj
+tz1g6rcQAgtdZc8PNUaTUzrDD8PYuCeVj4mb
+zil1aw3kyrymt52pq2e4xwzusdfce9e5tmewvshdrm
+```
