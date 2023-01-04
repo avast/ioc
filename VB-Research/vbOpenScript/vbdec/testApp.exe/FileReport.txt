@@ -1,0 +1,42 @@
+----------------------------------
+VB Exe Info
+----------------------------------
+VB Version: 6
+VBStartOffset= 0
+FormCount= 1
+CompileType= Native
+----------------------------------
+VB Project Infomation
+----------------------------------
+ProjectTitle= Project1
+ProjectName= Project1
+ExeName= testApp
+HelpFile= 
+ExternalComponentCount= 0
+----------------------------------
+Object List
+----------------------------------
+Form1
+Class1
+Class2
+----------------------------------
+External Ocx List
+----------------------------------
+
+----------------------------------
+Api List
+----------------------------------
+1 Api Calls  - 1 Dlls
+
+	kernel32
+		GetCurrentThreadId                      @ 401E04
+
+----------------------------------
+Controls Guids
+----------------------------------
+Parent Form, Control Name, GUID
+Form1 , List1 , {33AD4F10-6699-11CF-B70C-00AA0060D393}
+Form1 , Form , {33AD4F38-6699-11CF-B70C-00AA0060D393}
+Form1 , Text1 , {33AD4EE0-6699-11CF-B70C-00AA0060D393}
+Class1 , Class , {FCFB3D1F-A0FA-1068-A738-08002B3371B5}
+Class2 , Class , {FCFB3D1F-A0FA-1068-A738-08002B3371B5}

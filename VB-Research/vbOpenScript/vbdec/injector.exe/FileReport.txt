@@ -1,0 +1,105 @@
+----------------------------------
+VB Exe Info
+----------------------------------
+VB Version: 6
+VBStartOffset= 0
+FormCount= 1
+CompileType= Native
+----------------------------------
+VB Project Infomation
+----------------------------------
+ProjectTitle= injector
+ProjectName= injector
+ExeName= injector
+HelpFile= 
+ExternalComponentCount= 0
+----------------------------------
+Object List
+----------------------------------
+frmMain
+CFileSystem2
+clsCmnDlg
+modSubclass
+CSubclass2
+CWindow
+----------------------------------
+External Ocx List
+----------------------------------
+
+----------------------------------
+Api List
+----------------------------------
+26 Api Calls  - 5 Dlls
+
+	user32
+		CallWindowProcA                         @ 406168
+		GetWindowLongA                          @ 406120
+		SetWindowLongA                          @ 4060D8
+		GetForegroundWindow                     @ 404E48
+		IsWindow                                @ 404A70
+		SendMessageA                            @ 404A2C
+
+	kernel32
+		GetTickCount                            @ 405084
+		lstrcatA                                @ 404D00
+		RtlMoveMemory                           @ 4049D8
+		CloseHandle                             @ 404990
+		DebugBreak                              @ 404934
+		ResumeThread                            @ 4048F0
+		CreateProcessA                          @ 4048A8
+		VirtualAllocEx                          @ 404860
+		GetProcAddress                          @ 404818
+		GetModuleHandleA                        @ 4047D0
+		CreateRemoteThread                      @ 404768
+		WriteProcessMemory                      @ 40471C
+		OpenProcess                             @ 4046D0
+		Sleep                                   @ 40468C
+
+	ole32.dll
+		CoTaskMemFree                           @ 404DFC
+
+	shell32
+		SHGetPathFromIDList                     @ 404DA4
+		SHBrowseForFolder                       @ 404D58
+
+	comdlg32.dll
+		ChooseColorA                            @ 404CAC
+		GetSaveFileNameA                        @ 404C64
+		GetOpenFileNameA                        @ 404C18
+
+----------------------------------
+Controls Guids
+----------------------------------
+Parent Form, Control Name, GUID
+frmMain , List1 , {33AD4F10-6699-11CF-B70C-00AA0060D393}
+frmMain , Form , {33AD4F38-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuUpdateConfig , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuCaptures , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuClearPidList , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuUpdateAll , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , lblDll , {33AD4ED8-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuSuspend , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuFind , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuPopup , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuResume , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuTerminate , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , Label7 , {33AD4ED8-6699-11CF-B70C-00AA0060D393}
+frmMain , Label1 , {33AD4ED8-6699-11CF-B70C-00AA0060D393}
+frmMain , Label2 , {33AD4ED8-6699-11CF-B70C-00AA0060D393}
+frmMain , Label3 , {33AD4ED8-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuProcess , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , cmdStart , {33AD4EF0-6699-11CF-B70C-00AA0060D393}
+frmMain , cmdSendIPC , {33AD4EF0-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuLoadSampleApiLog , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , mnuKillAll , {33AD4F68-6699-11CF-B70C-00AA0060D393}
+frmMain , txtDll , {33AD4EE0-6699-11CF-B70C-00AA0060D393}
+frmMain , txtArgs , {33AD4EE0-6699-11CF-B70C-00AA0060D393}
+frmMain , txtExe , {33AD4EE0-6699-11CF-B70C-00AA0060D393}
+frmMain , txtIPCCmd , {33AD4EE0-6699-11CF-B70C-00AA0060D393}
+frmMain , cmdBrowse , {33AD4EF1-6699-11CF-B70C-00AA0060D393}
+frmMain , sc , {CE6C35D1-1F61-414D-AE57-226CB7A5A9A2}
+frmMain , txtIPCHwnd , {33AD4EE0-6699-11CF-B70C-00AA0060D393}
+CFileSystem2 , Class , {FCFB3D1F-A0FA-1068-A738-08002B3371B5}
+clsCmnDlg , Class , {FCFB3D1F-A0FA-1068-A738-08002B3371B5}
+CSubclass2 , Class , {FCFB3D1F-A0FA-1068-A738-08002B3371B5}
+CWindow , Class , {FCFB3D1F-A0FA-1068-A738-08002B3371B5}
