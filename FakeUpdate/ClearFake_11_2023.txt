@@ -1,0 +1,42 @@
+IoC list
+======
+ClearFake compromised domains:
+hxxps://bombay.com[.ar/Error404.html
+hxxps://ultracomb.com[.ar/Error404.html
+hxxp://limpiadorpucho.com[.mx
+hxxps://coacalco.gob[.mx/
+hxxps://navarro.gob[.ar/
+hxxps://pruebasbonsai.com[.ar
+hxxps://pnt.info[.pl/
+
+ClearFake download domains:
+hxxps://ilogicinstitute[.]com/temp/ChromiumEngine[.]zip
+hxxps://my[.]hoqer[.]com/temp/WebModuleBrowser[.]zip
+hxxps://chapasanpedro[.]com/temp/ChromiumModule[.]zip
+hxxps://usesoft[.]net/temp/EngineChromium[.]zip
+hxxps://calzadosiris[.]com/temp/EngineWebViewModule[.]zip
+hxxps://ingenieriainsitu[.]com/temp/WebViewEngine[.]zip
+hxxps://paolomorettifurs[.]com/temp/EngineChromium[.]zip
+hxxps://www[.]fefoncrecer[.]com/temp/Installer[.]zip
+hxxps://autoscuola-momo[.]ch/temp/EngineInstall[.]zip
+hxxps://tcastro[.]com/temp/ChromiumEngine[.]zip
+hxxps://www[.]steadyrun[.]com/temp/ChromiumViewer[.]zip
+hxxps://moussedanslabouche[.]com/EngineInstall[.]zip
+hxxps://my[.]hoqer[.]com/temp/WebModuleBrowser[.]zip
+
+ClearFake redirection:
+hxxps://chromiumengine[.space/get.html
+hxxps://chromiumbase[.site/get.html
+hxxps://chromiumtxt[.space/get.html
+hxxps://basechromium[.space/get.html
+
+ZgRAT shas:
+1b9b598e7d462b7a33f10b3069499dcfe2c7766467ca809d1de27a032ebdcb92
+5ca97ce21b4cd86e8ebc51123bd1db41ea22e5f1ce4a95b157a72dda156be8b3
+2109a8e7bd274d0b7e5b161deb83c8447489f3f4028689fae2822631b0915e86
+a74eac511b493af0d46f59cdc014b5dd75ab4139564710f8d48cdbd385c50d70
+a7382872a48a55f433257999b847b4ba8c26bfa1a565a819967a410033aa346d
+fed84cb878af8b1e62366d36f3543db076777bf1146e60e0390705d1f1e6f919
+8d6228888ab362d30eb769e05ae59ef384b497af383ecdada987abfced5e47ae
+6bd4834fbdd26025f6dfce2f12f09498d45190b8b836d609e4b2cfa7815f85d9
+0858a05c3893b044515b36f28fe9edd0dac44fae5f3a22076a23ea6d583c5eae
