@@ -145,7 +145,7 @@ C:\Users\Administrator.WIN7-2021OVWRCZ\.cargo\registry\src\mirrors.ustc.edu.cn-
 C:\Users\root\.cargo\registry\src\mirrors.ustc.edu.cn-
 /root/.cargo/registry/src/mirrors.ustc.edu.cn-
 ```
-#### Github
+#### GitHub
 ```
 h5[.]qianxin[.]com
 https[:]//weixin[.]qq[.]com/g/AQYAAEoVSAjZ35xwIeusxAmY6Qm2wKXvvjp6Ed7stK2OrUIl-a6Czezgc4QYv6GS
