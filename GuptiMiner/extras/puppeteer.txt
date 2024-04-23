@@ -1,0 +1,944 @@
+=== puppeteer ===
+
+00e8bc065f6f61ff73ce6e3894cef3444290f3187d24adb44ce3e40bbf1265ba
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+01e7815a561031fe449de0d3593a37dd45889bd80957bc86907299d6bafbb842
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+03b5892f114604ee2677de259112004f706ddaab08bdbd74194e04598d297d0b
+	RC2_key: Microsoft.com
+	Timestamp: 5E436889 (2020-02-12 02:52:57)
+	dynamic_host: r.guterman.net
+	dynamic_host: www.acmeautoleasing.net
+	dynamic_mutex: Global\SLDV11
+	mutex: Global\SLDV11
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+073de0dd6a2d05ec971984255b84e51e8b40fa26356ef4865fe4bbd04809c27b
+	RC2_key: Microsoft.com
+	Timestamp: 5CA30D04 (2019-04-02 07:19:32)
+	cleanup: updll3.dll
+	dynamic_host: dl.sneakerhost.com
+	dynamic_host: m.indpendant.com
+	dynamic_mutex: Global\SLDV014
+	mutex: Global\SLDV014
+	type: IMAGE_FILE_MACHINE_AMD64
+0908dc4be50c507d45bf8a5c2e87fda7025caa0a5778ab72fa931521c1eabf35
+	Timestamp: 652568B6 (2023-10-10 15:07:34)
+	backdoor: net group "domain computers" /domain
+	dynamic_host: p.cbacontrols.com
+	dynamic_mutex: Global\Tue Oct 10 08:07:11 2023
+	mutex: Global\Tue Oct 10 08:07:11 2023
+	type: IMAGE_FILE_MACHINE_I386
+0b4892173f04c8f516fda8e3047983ff7e21bb2e61c9a3e74d90a9dfd57cac6b
+	Timestamp: 5F89409A (2020-10-16 06:41:30)
+	dynamic_host: b.guterman.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV13
+	mutex: Global\SLDV13
+	type: IMAGE_FILE_MACHINE_I386
+	url: guterman.net
+0ddbe6eea02d85fa29653df1e900ec02cb3d1962591b56f8c739d41fc19fffbf
+	mutex: Global\Thu Aug 10 03:25:11 2023
+	type: wiped_pe_header
+0e15a731ae760a65aa73359d26ad53c97bde202663a72bcba808143078ed005f
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+0e55a978e50a1966a4c06f241b033ef1baa1b38a2b027d4e72fb407c44999437
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+0eb93f2215164539aa275f6e78937700f4ce187194946d47a05b61d095b57fe0
+	Timestamp: 5DF86193 (2019-12-17 05:03:15)
+	mutex: Global\SLDV024
+	type: IMAGE_FILE_MACHINE_AMD64
+0f6f9bed970f2b373de41110e04ce2d361673d44a452d60b2f84453db38e67b1
+	RC2_key: Microsoft.com
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: wiped_pe_header
+	url: bramco.net
+0fb6fdd0cd00a3ba1f0fd5c64aab96a5f710642572408e6867eb0ea5cfa45646
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+12974702c9edf1d400247e75e4ded1afb14cdacddd724b7b9e4ed590cd7ac327
+	RC2_key: Microsoft.com
+	Timestamp: 5E39375D (2020-02-04 09:20:29)
+	dynamic_mutex: Global\SLDV10
+	mutex: Global\SLDV10
+	overlay_size: 393
+	type: IMAGE_FILE_MACHINE_AMD64
+14c2a91c97545f1873da407baad0fb7fa334f211eb224472d0f4c798ccf51fba
+	RC2_key: Microsoft.com
+	Timestamp: 6447F28D (2023-04-25 15:32:29)
+	dynamic_host: m.sifraco.com
+	dynamic_host: www.widgeonhill.com
+	dynamic_mutex: Global\Tue Apr 25 08:32:05 2023
+	mutex: Global\Tue Apr 25 08:32:05 2023
+	overlay_size: 1024
+	type: IMAGE_FILE_MACHINE_AMD64
+155c978faa587d1c4daf8b8fa6cebffe76f6e86b87ac4dba01e055a331c653ba
+	RC2_key: Microsoft.com
+	Timestamp: 6447F28D (2023-04-25 15:32:29)
+	dynamic_host: m.sifraco.com
+	dynamic_host: www.widgeonhill.com
+	dynamic_mutex: Global\Tue Apr 25 08:32:05 2023
+	mutex: Global\Tue Apr 25 08:32:05 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+181c5f27f22cd4174cd8cc666e02f85e36149247f1778684c582af130b90439b
+	mutex: Global\Thu Aug 10 03:25:11 2023
+	type: wiped_pe_header
+19279dd1deae40d141105349525f11bd1a9e5b0eb017a1b6ada3fd75fa72c5a1
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+196ee32b59265e0a6000665896b00772854a2bb4207a7346a898c51cd00a3b9f
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+1c0707e320d179e17a74bb21ed8fee2aad76ad950ed7b764ec87ba90c5e1232a
+	RC2_key: Microsoft.com
+	Timestamp: 5E5C2A14 (2020-03-01 21:33:08)
+	dynamic_host: p.guterman.net
+	dynamic_host: www.acmeautoleasing.net
+	dynamic_mutex: Global\SLDV13
+	mutex: Global\SLDV13
+	type: IMAGE_FILE_MACHINE_I386
+	url: guterman.net
+1c31d06cbdf961867ec788288b74bee0db7f07a75ae06d45d30355c0bc7b09fe
+	Timestamp: 5E659467 (2020-03-09 00:57:11)
+	dynamic_mutex: Global\SLDV17
+	mutex: Global\SLDV17
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+1c4aa00667e9e5da5cc4ff862962d450c4aeab2785a3e0f295e901265382a42d
+	Timestamp: 604FA57C (2021-03-15 18:20:44)
+	dynamic_host: r.bramco.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV26
+	mutex: Global\SLDV26
+	overlay_size: 512
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+1d843ce54d5b4254932fca729d7231e0bb68906637dc0cd78ca6d4a6df6a7d33
+	RC2_key: Microsoft.com
+	Timestamp: 5E394994 (2020-02-04 10:38:12)
+	dynamic_host: r.guterman.net
+	dynamic_host: www.acmeautoleasing.net
+	dynamic_mutex: Global\SLDV10
+	mutex: Global\SLDV10
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+1da58c38357a85c4aaa13611ae985fadb78da9d58f17ce84dced232cf4ffa156
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+1dc0be7a13142b6f370c03c6db4ec6f50c27cc3a1a7e112589342ce646ee2b4e
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+1e09444afcb6edfff6c4dc7a7aa087d37322f83cb4d9fb73ac31ed14543df834
+	Timestamp: 600ECFEF (2021-01-25 14:04:31)
+	dynamic_host: r.bramco.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV22
+	mutex: Global\SLDV22
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+1f7ab16cef3b117476f06cb80018fe93dfb23c36ad3c1481adefe84214b9eef9
+	Timestamp: 623AEE97 (2022-03-23 09:55:35)
+	dynamic_host: p.kompro.net
+	dynamic_mutex: Global\Tue Mar 23 02:37:32 2021
+	mutex: Global\Tue Mar 23 02:37:32 2021
+	type: IMAGE_FILE_MACHINE_I386
+1fbc562b08637a111464ba182cd22b1286a185f7cfba143505b99b07313c97a4
+	Timestamp: 603CC54F (2021-03-01 10:43:27)
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV23
+	mutex: Global\SLDV23
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+22a99ac08016e2c00e67c34d4dce9332369e315c2ce9cce8c26f4969a3875c18
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+2482a5b13c0f15648775ec26672846a84bd1e4d3dce546b51fee342c2863837b
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+256a1292206219ec4e98a1a812cbc83ab9f005a30eadf891fee0f28f83ab396e
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+25e445a18cdd68e4b6fa65cf386901d439697e7ff38d3dcd905e2a386861f8e1
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+272a635852004da3940c881b22a6b1b808626b998635b1e5e35b2544fa6322a1
+	Timestamp: 60C730FA (2021-06-14 10:35:38)
+	dynamic_host: r.cbacontrols.com
+	dynamic_mutex: Global\Mon Jun 14 03:22:57 2021
+	mutex: Global\Mon Jun 14 03:22:57 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+280d1e1ab4ed3f619a726710b050bc4e0a961d387b0b3fd49acb3ca0d7aac737
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+2bd43f0f3a7aea7d33d8b8ff38619c51c2f83a8670e3a7840f62b45ec2f094ad
+	Timestamp: 63EDF9B0 (2023-02-16 09:38:56)
+	dynamic_host: r.cbacontrols.com
+	dynamic_mutex: Global\Wed Feb 15 10:21:13 2023
+	mutex: Global\Wed Feb 15 10:21:13 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+2fb726405a4314443e93933636c46d98af1497a63bde697c474fa952345f863b
+	Timestamp: 5F3C9B56 (2020-08-19 03:24:06)
+	dynamic_host: r.insomniaccinema.com
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV15
+	mutex: Global\SLDV15
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+33d73604b981912ec0541c6bf8ba80cb8efae2482683a7ba42acfbcb06060dbc
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+364984e8d62eb42fd880755a296bd4a93cc071b9705c1f1b43e4c19dd84adc65
+	Timestamp: 5C8B7968 (2019-03-15 10:07:36)
+	cleanup: updll3.dll3
+	dynamic_host: m.indpendant.com
+	dynamic_mutex: Global\SLDV01
+	mutex: Global\SLDV01
+	type: IMAGE_FILE_MACHINE_AMD64
+3ad8a103de995660adfddf2f1be11745b570bba20c468e2c2ca875a7ef9bc47e
+	RC2_key: Microsoft.com
+	Timestamp: 5E39375D (2020-02-04 09:20:29)
+	dynamic_host: r.istrength.net
+	dynamic_host: www.breedbackfp.com
+	dynamic_mutex: Global\SLDV10
+	mutex: Global\SLDV10
+	type: IMAGE_FILE_MACHINE_AMD64
+3ce7f8c66bf39b67c9b3d86d77d3ff773a682013213c71a99747406f3589693c
+	RC2_key: Microsoft.com
+	Timestamp: 5E5C2A2A (2020-03-01 21:33:30)
+	dynamic_host: r.guterman.net
+	dynamic_host: www.acmeautoleasing.net
+	dynamic_mutex: Global\SLDV13
+	mutex: Global\SLDV13
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+40abd042512e22812e40842ba5fb7b5104034e76c245a26a941180dc38e5de36
+	Timestamp: 652568B6 (2023-10-10 15:07:34)
+	backdoor: net group "domain computers" /domain
+	dynamic_host: p.cbacontrols.com
+	dynamic_mutex: Global\Tue Oct 10 08:07:11 2023
+	mutex: Global\Tue Oct 10 08:07:11 2023
+	overlay_size: 512
+	type: IMAGE_FILE_MACHINE_I386
+40e65a3cb214e1ff134347c1d5c502921564df083fd7353d6a7a9c660647178e
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+418a382278e0390a3292d0042b5676f205134257f4fc2b775db6c32c35f74eb1
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+43a463f7a9a5bc968052e1cc09cd8dfbc4c0154cf93b5410470681623ad774fa
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	dynamic_host: r.sifraco.com
+	dynamic_host: www.bascap.net
+	dynamic_mutex: Global\Wed Mar  1 01:29:48 2023
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+448097ea0e839af1537079628c2e08d6d6e69e67c225a9db0cc61f4ca3489b9c
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+44d4f13db91f690e9a419c9e68c157863f65d183e45c1253b6c0647d9ac09b6c
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+487624b44b43dacb45fd93d03e25c9f6d919eaa6f01e365bb71897a385919ddd
+	Timestamp: 655CF177 (2023-11-21 18:05:43)
+	dynamic_host: m.korkyt.net
+	dynamic_mutex: Global\Thu Nov  2 08:21:56 2023
+	mutex: Global\Thu Nov  2 08:21:56 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+49c84411a050356cebbaaaa0fd61e9babf8d0ad895d42adfe58e0f239ebc7437
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	dynamic_mutex: Global\Wed Mar  1 01:29:48 2023
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+4a276bed38b5f79f203339cb57a7e931fa8343ad61dc3069324e23dc03a680df
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+4c943b1f9773c9f99acddb00f809ba260cb0b637863ba4b7029a64246f8edf80
+	Timestamp: 60B7B6C2 (2021-06-02 16:50:10)
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: csims
+4dfd082eee771b7801b2ddcea9680457f76d4888c64bb0b45d4ea616f0a47f21
+	RC2_key: Microsoft.com
+	Timestamp: 5D16DD30 (2019-06-29 03:38:24)
+	backdoor: net group "domain computers" /domain
+	cleanup: updll3.dll
+	dynamic_host: dl.sneakerhost.com
+	dynamic_host: m.indpendant.com
+	dynamic_mutex: Global\SLDV017
+	mutex: Global\SLDV017
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: airequipment.net
+50f072c5c089b0b87d3f4cd452b45701e9a98c5ecd7fe012a434aac84f13c980
+	Timestamp: 645B9E76 (2023-05-10 13:39:02)
+	mutex: Global\Wed May 10 06:38:46 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+51ee17a1f36c0eb3afe9e242ceb9bd8ec27b6cac03e07c53b15d603ff46f038b
+	Timestamp: 64D4BC28 (2023-08-10 10:30:00)
+	dynamic_mutex: Global\Thu Aug 10 03:25:11 2023
+	mutex: Global\Thu Aug 10 03:25:11 2023
+	overlay_size: 512
+	type: IMAGE_FILE_MACHINE_I386
+53ab78a902d3d858b1101abd6f7745f310c1043b7a35c1aaa34d88cd66e6dce9
+	Timestamp: 5E16C976 (2020-01-09 06:34:30)
+	backdoor: net group "domain computers" /domain
+	dynamic_host: p.guterman.net
+	dynamic_mutex: Global\SLDV04
+	mutex: Global\SLDV04
+	type: IMAGE_FILE_MACHINE_I386
+	url: airequipment.net
+	url: guterman.net
+5628c3bf55ee51b8a8a2ee161a6464896bb5cd9ba2c3675b9f131547e1109641
+	RC2_key: Microsoft.com
+	Timestamp: 5DF8A1A0 (2019-12-17 09:36:32)
+	dynamic_mutex: Global\SLDV02
+	mutex: Global\SLDV02
+	overlay_size: 393
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+570973ea724bdccc0a57fe6bd07fd556fd1f820f375a0486a0862bf201a26ab3
+	Timestamp: 64D4BBDC (2023-08-10 10:28:44)
+	dynamic_host: m.satchmos.net
+	dynamic_mutex: Global\Thu Aug 10 03:25:11 2023
+	mutex: Global\Thu Aug 10 03:25:11 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+593fda2ef5068125bfd197f0b6b71f012e3a446e26bdf959628e8ec0334da145
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+59845d750b00f4b7a2d9de5b8006d641aab87bc46ca6776eaa9448a432ac07a4
+	RC2_key: Microsoft.com
+	Timestamp: 611403A0 (2021-08-11 17:06:40)
+	dynamic_host: p.insomniaccinema.com
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Wed Aug 11 09:16:37 2021
+	mutex: Global\Wed Aug 11 09:16:37 2021
+	type: IMAGE_FILE_MACHINE_I386
+598c916c37b148742ae3bb652ea184ab5c395f7a207952ccf70da71f8214f78e
+	RC2_key: Microsoft.com
+	Timestamp: 60532E50 (2021-03-18 10:41:20)
+	dynamic_host: r.csims.net
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Wed Mar 17 03:22:09 2021
+	mutex: Global\Wed Mar 17 03:22:09 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+	url: csims
+5b52761e9785271be81c703c777ed7e0e1d57001fe0c19f9d866852486495afb
+	Timestamp: 61D5D2E9 (2022-01-05 17:18:33)
+	dynamic_host: r.cbacontrols.com
+	dynamic_mutex: Global\Wed Jan  5 09:15:56 2022
+	mutex: Global\Wed Jan  5 09:15:56 2022
+	type: IMAGE_FILE_MACHINE_AMD64
+5c1e759cce8c7b9dbf285c9df9c2e83ec8ca237e7e2b42300f7adc8ac48b7e5e
+	RC2_key: Microsoft.com
+	Timestamp: 5E5C2A2A (2020-03-01 21:33:30)
+	dynamic_mutex: Global\SLDV13
+	mutex: Global\SLDV13
+	overlay_size: 393
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+636c3dab16cee11f0cfa627f3df3d13f0df73306fdc1d78f9d373210bb1b853f
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+66a453d07b810d7eb3466bc7fb90575e5f2c699a6578d4320822235a483c9f89
+	Timestamp: 604FA58C (2021-03-15 18:21:00)
+	dynamic_host: p.bramco.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV26
+	mutex: Global\SLDV26
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+67043559b1bf13aa158f9d938671e49bfd7eaa6ab060c854789a1012301abc3c
+	Timestamp: 655CF177 (2023-11-21 18:05:43)
+	dynamic_host: m.korkyt.net
+	dynamic_mutex: Global\Thu Nov  2 08:21:56 2023
+	mutex: Global\Thu Nov  2 08:21:56 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+6ad7bddda1115d3095378c566fcacbe78ba59692805c8a79cf5d5d8b48417f77
+	RC2_key: Microsoft.com
+	Timestamp: 6114038B (2021-08-11 17:06:19)
+	dynamic_host: r.insomniaccinema.com
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Wed Aug 11 09:16:37 2021
+	mutex: Global\Wed Aug 11 09:16:37 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+6cbdd883bd20d29c9c880c2c7bf56db42120cbbbd79705347a0f5fec3dc893b5
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+6f8ab3443d48142e1efc1fe3cbb0d0bc11885018405561a4a16dbd758897f53a
+	Timestamp: 623AEED0 (2022-03-23 09:56:32)
+	dynamic_host: r.kompro.net
+	dynamic_mutex: Global\Tue Mar 23 02:37:32 2021
+	mutex: Global\Tue Mar 23 02:37:32 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+73ccc9183ca701ea915ce000c02a65000c5abe3cb023393a3b12d68be90f32af
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1C17 (2023-03-01 09:34:15)
+	dynamic_host: espcomp.net
+	dynamic_host: r.sifraco.com
+	dynamic_mutex: Global\Wed Mar  1 01:29:48 2023
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+792fed543f9e88b3580d5cf5262757488a66643710f239bb8a8d2e4e9a95bf7a
+	Timestamp: 600ECFDA (2021-01-25 14:04:10)
+	dynamic_host: p.bramco.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV22
+	mutex: Global\SLDV22
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+7cfd8192d340cdc12c0c693680ce141293fa5d4c5655e12c82c31436c2190d22
+	RC2_key: Microsoft.com
+	Timestamp: 605DDD50 (2021-03-26 13:10:40)
+	dynamic_host: r.csims.net
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Fri Mar 26 06:10:27 2021
+	mutex: Global\Fri Mar 26 06:10:27 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+	url: csims
+7d74ec4f35f54fae700006b1fd3a146757f9a58c018843208bc2406daaca9fdb
+	Timestamp: 60C9C297 (2021-06-16 09:21:27)
+	dynamic_host: r.bramco.net
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+823e5dfe9a07d2c52116ad813d4c48e9b7e8073db0036242b2f951ec18629cd1
+	Timestamp: 6161664C (2021-10-09 09:52:12)
+	dynamic_host: r.bramco.net
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+8366a2b206e59e7f89c448eb021b0823d7550a350254d4a4ca7f6fee41da481c
+	Timestamp: 64D4BBDC (2023-08-10 10:28:44)
+	mutex: Global\Thu Aug 10 03:25:11 2023
+	overlay_size: 1015808
+	type: IMAGE_FILE_MACHINE_AMD64
+850d6b12822ccf752e7c9fb07c0eeda38d9da91287c734f365ee9d7dfe87ac3a
+	RC2_key: Microsoft.com
+	Timestamp: 6114EC28 (2021-08-12 09:38:48)
+	dynamic_host: r.insomniaccinema.com
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Thu Aug 12 02:07:58 2021
+	mutex: Global\Thu Aug 12 02:07:58 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+86b8be6736ea19a671974349571c04725b223984ae1b255712376ec2de6b84fd
+	Timestamp: 64D4BC28 (2023-08-10 10:30:00)
+	dynamic_mutex: Global\Thu Aug 10 03:25:11 2023
+	mutex: Global\Thu Aug 10 03:25:11 2023
+	type: IMAGE_FILE_MACHINE_I386
+8742ce176b3cdfaa212e97a98b855c9c3deb5d292e26911bef49bf5fc91b606c
+	Timestamp: 604FA57C (2021-03-15 18:20:44)
+	dynamic_mutex: Global\SLDV26
+	mutex: Global\SLDV26
+	overlay_size: 393
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+8774622ffeb82472856fde24985b7e4148927b7c2b26d52ae0328a06d64fbfa0
+	RC2_key: Microsoft.com
+	Timestamp: 611638EE (2021-08-13 09:18:38)
+	dynamic_host: p.bramco.net
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Fri Aug 13 02:17:49 2021
+	mutex: Global\Fri Aug 13 02:17:49 2021
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+8bd87ad7b1148c3020b8663591b991c3333f19f9ffe355736186ec1cf1514c45
+	RC2_key: Microsoft.com
+	Timestamp: 5CA30D04 (2019-04-02 07:19:32)
+	cleanup: updll3.dll
+	dynamic_host: dl.sneakerhost.com
+	dynamic_host: m.indpendant.com
+	dynamic_mutex: Global\SLDV014
+	mutex: Global\SLDV014
+	overlay_size: 1024
+	type: IMAGE_FILE_MACHINE_AMD64
+8ce1ecdefd64066b901d39c91978a27c233346600a5736bd785bc73e754dbc3a
+	RC2_key: Microsoft.com
+	Timestamp: 6447F28D (2023-04-25 15:32:29)
+	mutex: Global\Tue Apr 25 08:32:05 2023
+	overlay_size: 2506752
+	type: IMAGE_FILE_MACHINE_AMD64
+8e2b89216cf6c3b5ae55a1a0eed310a8cf9b2eb14db90750744995c8577cd85e
+	RC2_key: Microsoft.com
+	Timestamp: 607D8F4A (2021-04-19 14:10:18)
+	dynamic_host: r.kompro.net
+	dynamic_host: www.edgesync.net
+	dynamic_mutex: Global\Mon Apr 19 06:03:17 2021
+	mutex: Global\Mon Apr 19 06:03:17 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+8ee5c850558209b4532c73ba5cce6b071ddbcf610a5ea5c37691eeb38d7b46f5
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+908151ddee11b5200871595ec40148ce2c08bed608529c150e94b22e9115fef3
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+914f6f6bc5d351726546a269100949431077bbf13f7262ef484795382a77de9a
+	Timestamp: 604FA57C (2021-03-15 18:20:44)
+	dynamic_host: r.bramco.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV26
+	mutex: Global\SLDV26
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+94f1c7bc6708cc6b4bde83239c6d5cb5e36499903d75ab0d8d663c3b41125d3c
+	RC2_key: Microsoft.com
+	Timestamp: 6446901D (2023-04-24 14:20:13)
+	dynamic_host: r.sifraco.com
+	dynamic_host: www.widgeonhill.com
+	dynamic_mutex: Global\Mon Apr 24 07:19:54 2023
+	mutex: Global\Mon Apr 24 07:19:54 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+94fb53590bd3f4a7d53742988c5a83e39a08c475f71124afc114c57acb4adcfd
+	RC2_key: Microsoft.com
+	Timestamp: 611685CF (2021-08-13 14:46:39)
+	dynamic_host: p.bramco.net
+	dynamic_host: www.desmoinesreg.com
+	dynamic_mutex: Global\Fri Aug 13 02:22:55 2021
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+9538d89551a36879f0bdb530cd56a2eab5a0d9bd7ed51d4eb8c9a73c755ce769
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+9571d8688702a8a9ccf92c100d2b808930074833c33d4355e4f7fe2805b02f5a
+	RC2_key: Microsoft.com
+	Timestamp: 5DF8A1A0 (2019-12-17 09:36:32)
+	dynamic_host: r.guterman.net
+	dynamic_host: www.acmeautoleasing.net
+	dynamic_mutex: Global\SLDV02
+	mutex: Global\SLDV02
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: guterman.net
+95bea0562efc8fa3e43361c56ef0a20b5675f2121ac163c83e666dc493c00f6e
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+95feddb84a42dab8119676b4317a7b5576296617f483271023ad4a71c73d9448
+	RC2_key: Microsoft.com
+	Timestamp: 6447F28D (2023-04-25 15:32:29)
+	mutex: Global\Tue Apr 25 08:32:05 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+9836663b04ec62e112d7e821d1992516d6701d5a37c97d56d4bdd472dc4643b2
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+98aebd99e0fa1c4f69fbe0bceba64470e31793c6c2cc9e64d0a47ba5ca41df80
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	dynamic_host: r.sifraco.com
+	dynamic_host: www.bascap.net
+	dynamic_mutex: Global\Wed Mar  1 01:29:48 2023
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+9a7278e8db656feeff257e05925344f2403de45e60c6267f3d6018b37ef5544d
+	Timestamp: 6046330C (2021-03-08 14:22:04)
+	dynamic_host: r.bramco.net
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV25
+	mutex: Global\SLDV25
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+9d1037c35c24527fcb1cb09c7171984307a56098b43b1d3367acc7b32b04b216
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+9e401a2dd3487c1d1ad46567aef56b40273f11ff8a6d7bac9406aacd8a4a07dd
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+a0bc7b441a1a9f602e8d6c7e04f6e15841eb31a19867622f8c0852a7214467ae
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+a137df47fcd9fea5ae2c8e9107c8bf4d060b092ecfef84b23d29a2cea2ac1928
+	Timestamp: 652568F4 (2023-10-10 15:08:36)
+	backdoor: net group "domain computers" /domain
+	dynamic_host: m.cbacontrols.com
+	dynamic_mutex: Global\Tue Oct 10 08:07:11 2023
+	mutex: Global\Tue Oct 10 08:07:11 2023
+	overlay_size: 1024
+	type: IMAGE_FILE_MACHINE_AMD64
+a2ee522e7d2656c212d80cac14ffffa48aca241a86434565ce34fbf5d0218bcc
+	RC2_key: Microsoft.com
+	Timestamp: 611638CA (2021-08-13 09:18:02)
+	dynamic_host: r.bramco.net
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Fri Aug 13 02:17:49 2021
+	machine_type: IMAGE_FILE_MACHINE_AMD64
+	mutex: Global\Fri Aug 13 02:17:49 2021
+	type: 523
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+a707395de967df05b59aef3aa4ef789a4ff372a987b7d3ae5c56d12c47f2726a
+	RC2_key: Microsoft.com
+	Timestamp: 607D8F60 (2021-04-19 14:10:40)
+	dynamic_host: p.kompro.net
+	dynamic_host: www.edgesync.net
+	dynamic_mutex: Global\Mon Apr 19 06:03:17 2021
+	mutex: Global\Mon Apr 19 06:03:17 2021
+	type: IMAGE_FILE_MACHINE_I386
+a8caa2bff412bc695ea7863e49ac7cc2777634429605c4b1b74d7601ca6f08db
+	RC2_key: Microsoft.com
+	Timestamp: 6447F28D (2023-04-25 15:32:29)
+	dynamic_host: www.widgeonhill.com
+	dynamic_mutex: Global\Tue Apr 25 08:32:05 2023
+	mutex: Global\Tue Apr 25 08:32:05 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+a9bc23644b8da0f522d8de3cc76ed5d1ee746cbe87ee3ff3b44cf3aa6f0e2af0
+	RC2_key: Microsoft.com
+	Timestamp: 623C4F0E (2022-03-24 10:59:26)
+	dynamic_host: r.kompro.net
+	dynamic_host: www.espcomp.net
+	dynamic_mutex: Global\Thu Mar 24 03:57:52 2022
+	mutex: Global\Thu Mar 24 03:57:52 2022
+	type: IMAGE_FILE_MACHINE_AMD64
+aa1b1c5c4ff7575f3029baf16f14fd6d47a7b81f253d3155fa4a34648055c756
+	Timestamp: 60B7B6A6 (2021-06-02 16:49:42)
+	dynamic_host: p.csims.net
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_I386
+	url: csims
+aeb5270a9da29cd11b98b203f5316ef74f7b89ec22ae20ed3050e3082cdecd80
+	Timestamp: 640F334A (2023-03-13 14:29:30)
+	dynamic_host: m.sifraco.com
+	dynamic_mutex: Global\Mon Mar 13 07:29:11 2023
+	mutex: Global\Mon Mar 13 07:29:11 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+afddfee9658a39429efb67ef33ef7743e82c143e265cc10b06d4c5ea1b31430b
+	Timestamp: 5E6DD58B (2020-03-15 07:13:15)
+	dynamic_host: r.insomniaccinema.com
+	dynamic_mutex: Global\LOADPERF_MUTEX
+	dynamic_mutex: Global\SLDV13
+	mutex: Global\SLDV13
+	type: IMAGE_FILE_MACHINE_AMD64
+b02c869c15840dce09882a0d3c5d0b2f3415221ea73d971b95ff3ccaa33884dd
+	Timestamp: 63F91B9D (2023-02-24 20:18:37)
+	dynamic_host: r.sifraco.com
+	dynamic_mutex: Global\Thu Feb 23 08:37:09 2023
+	mutex: Global\Thu Feb 23 08:37:09 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+b08b140961f5e1b3714b1a24fd67e904b3c0125ac58f7191e3630e8713886b07
+	RC2_key: Microsoft.com
+	Timestamp: 6114EC87 (2021-08-12 09:40:23)
+	dynamic_host: p.insomniaccinema.com
+	dynamic_host: w.gesucht.net
+	dynamic_mutex: Global\Thu Aug 12 02:07:58 2021
+	mutex: Global\Thu Aug 12 02:07:58 2021
+	type: IMAGE_FILE_MACHINE_I386
+b14f42701ee9df43fc9b186b0b641440f0988f3686db8e1067ba191dfd6e4aaf
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+b280a43721b7d94aaf5e296b59756381faef680c11c6a25348854c0f41f617d7
+	Timestamp: 5E16C976 (2020-01-09 06:34:30)
+	backdoor: net group "domain computers" /domain
+	dynamic_mutex: Global\SLDV04
+	mutex: Global\SLDV04
+	overlay_size: 955
+	type: IMAGE_FILE_MACHINE_I386
+	url: airequipment.net
+	url: guterman.net
+b4f9b5b54525084561120116cf07b1da75d2919d3fecc74485a4c1a7cca9d1f4
+	Timestamp: 645B9E76 (2023-05-10 13:39:02)
+	dynamic_host: m.troudet.com
+	dynamic_mutex: Global\Wed May 10 06:38:46 2023
+	mutex: Global\Wed May 10 06:38:46 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+ba3e893dded89227f6d3d5b57ece0c5453532a4111b292f303956e0848e94e07
+	Timestamp: 60B7B6A6 (2021-06-02 16:49:42)
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	overlay_size: 955
+	type: IMAGE_FILE_MACHINE_I386
+	url: csims
+bad721323b4ab5282c0f0b97315aff122d05ae26588b9e4c8ad28f5aac3e34fb
+	Timestamp: 605C51F0 (2021-03-25 09:03:44)
+	dynamic_host: r.csims.net
+	dynamic_mutex: Global\Thu Mar 25 02:03:14 2021
+	mutex: Global\Thu Mar 25 02:03:14 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+	url: csims
+baef22a9ac48d18a83cbc2e9a009d6356f43295e40e102a5941752cc4d6ba0b0
+	RC2_key: Microsoft.com
+	dynamic_host: w.gesucht.net
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: wiped_pe_header
+	url: bramco.net
+bc33bd4a1642936f9066df73d5e7407d4ec15bdc6f266a574859dd0ca30e76f1
+	Timestamp: 60B7B6C2 (2021-06-02 16:50:10)
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: csims
+bcf8b7515bef7f167ba7388cc021d33bfea0b8d6b50bee1e72ac90e663ab3062
+	RC2_key: Microsoft.com
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: wiped_pe_header
+	url: bramco.net
+bd09ea8ee8bdf6f72556732184e27d92875e2d16077430631fac307eb011bf5f
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+bd2ea1bad58a55deb854d6d859dc2b283e9bfea64d41ad57badbfe8b730e817a
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+bdec71316c5bf74969082aab2121d93bee59d14978eb4882067f3e6ce2ecc76c
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+bf22112d088b077cc5e2b8ef9325bd6b18a0fb7341ac7d1330dd7b5fa68783ec
+	Timestamp: 5E16C9A2 (2020-01-09 06:35:14)
+	backdoor: net group "domain computers" /domain
+	dynamic_host: r.guterman.net
+	dynamic_mutex: Global\SLDV04
+	mutex: Global\SLDV04
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: airequipment.net
+	url: guterman.net
+bfd2603d9fad8e707bed2fd05bb0209db2618a46ca0a873f0631f94570ffd4cd
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+c048a93e2591023a60e79a4eeaaafad4402c5b79be048ecb8fd1e1fcab32dcff
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1B2B (2023-03-01 09:30:19)
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+c11c5176ceb34d511bcac3c3ed012ffac174d179084d38f86cf8f31518b8c2db
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+c15a539b006341391e4ac6db09d4f15e6f0a4ed141418deed60b119c266d3c66
+	RC2_key: Microsoft.com
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: wiped_pe_header
+	url: bramco.net
+c34c1dfc481968ebec37f5617e5190d679b0d9fb04060a916060f57d9c59de38
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+c433816cf00c6406f0a1c892636c4d6499f690feb797777f3eabf73555ba4c07
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+c640621f089bb2ac6bd95c8a6f6f5f2793ff3a9f857d6b2a701f946580564cc4
+	RC2_key: Microsoft.com
+	Timestamp: 5DFAEAA5 (2019-12-19 03:12:37)
+	dynamic_host: p.guterman.net
+	dynamic_host: www.acmeautoleasing.net
+	dynamic_mutex: Global\SLDV02
+	mutex: Global\SLDV02
+	type: IMAGE_FILE_MACHINE_I386
+	url: guterman.net
+cc94d328e8961451f1976a871f7d8d44d0f50a62e53c000bc1d231e3e09df024
+	Timestamp: 60C9C2A6 (2021-06-16 09:21:42)
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+cfddbddb99db4eecc9d4724ef42444bafab895c20ef43907e9fee9ca5036c13e
+	Timestamp: 6161665D (2021-10-09 09:52:29)
+	dynamic_host: p.bramco.net
+	dynamic_mutex: Global\Wed Jun  2 09:43:03 2021
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+d02ede31e8cbf212acb7ea0141a58a20634cedeec3cf988b4c2337d6ec46228d
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: wiped_pe_header
+	url: bramco.net
+d83183c3233df4a121ab1238386632d06c8aa3019b8afcef5397d5138663fe23
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+da8c00e48c5721bf2c3cb7beb85e8f9f1afc55c22bd88a513708cf6f475ed073
+	mutex: Global\SLDV024
+	type: wiped_pe_header
+db7d6e77d19c86c47e77d9a9149aaaa806b5ed78074ed731bc9bb29996365475
+	Timestamp: 655CF177 (2023-11-21 18:05:43)
+	dynamic_host: m.korkyt.net
+	dynamic_mutex: Global\Thu Nov  2 08:21:56 2023
+	mutex: Global\Thu Nov  2 08:21:56 2023
+	overlay_size: 512
+	type: IMAGE_FILE_MACHINE_AMD64
+e0bb1b9e70d4dc09f0f15a5030b760be890c090096d86293f6cb7d38a9f7b114
+	Timestamp: 5E659483 (2020-03-09 00:57:39)
+	dynamic_host: p.guterman.net
+	dynamic_mutex: Global\SLDV17
+	mutex: Global\SLDV17
+	type: IMAGE_FILE_MACHINE_I386
+	url: guterman.net
+e0e41b26a7e191fb356f57dccda9dd1e8ac3f5b6cafe4211e89b1d1381854743
+	RC2_key: Microsoft.com
+	dynamic_host: w.gesucht.net
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: wiped_pe_header
+	url: bramco.net
+e2b6cfd3c50ecbecefa7088936029e29e6191357205a4911e81777d3dba4c295
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	dynamic_host: r.bramco.net
+	dynamic_host: www.desmoinesreg.com
+	dynamic_mutex: Global\Fri Aug 13 02:22:55 2021
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+e68c99d0426d5227d7e4288d8eaf91d888ae5ac4e027ed4f9a72b7c5cce41f42
+	RC2_key: Microsoft.com
+	Timestamp: 5E394977 (2020-02-04 10:37:43)
+	dynamic_mutex: Global\SLDV10
+	mutex: Global\SLDV10
+	type: IMAGE_FILE_MACHINE_I386
+	url: guterman.net
+e82ea9432cee56ad43a76e96fe191ef1b1c2d59c3097911ab1f67d219a27ef36
+	Timestamp: 5E16C9A2 (2020-01-09 06:35:14)
+	backdoor: net group "domain computers" /domain
+	dynamic_mutex: Global\SLDV04
+	mutex: Global\SLDV04
+	overlay_size: 905
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: airequipment.net
+	url: guterman.net
+e8d5b9d5993ca1c357c9dc3cad6266f03af0baf8378c43f4c54c987dceb0512c
+	Timestamp: 60C62513 (2021-06-13 15:32:35)
+	dynamic_host: p.cbacontrols.com
+	dynamic_mutex: Global\Sun Jun 13 08:22:07 2021
+	mutex: Global\Sun Jun 13 08:22:07 2021
+	type: IMAGE_FILE_MACHINE_I386
+f0ccfcb5d49d08e9e66b67bb3fedc476fdf5476a432306e78ddaaba4f8e3bbc4
+	Timestamp: 652568F4 (2023-10-10 15:08:36)
+	backdoor: net group "domain computers" /domain
+	dynamic_host: m.cbacontrols.com
+	dynamic_mutex: Global\Tue Oct 10 08:07:11 2023
+	mutex: Global\Tue Oct 10 08:07:11 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+f2271b550fcd03e63f3b8b3f3e0b13d9e2ee3e05ca25ffa899b3995830418a4a
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+f31fbab5396c2dc852e700332a7a90dd63ee3144e820e94ee412d977c40b7606
+	Timestamp: 60B7B6C2 (2021-06-02 16:50:10)
+	mutex: Global\Wed Jun  2 09:43:03 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: csims
+f3de56ce7c1461b671539ebe4eda9b01172befd4ff0e5651a90adefa7f886b32
+	RC2_key: Microsoft.com
+	Timestamp: 63FF1C17 (2023-03-01 09:34:15)
+	dynamic_host: espcomp.net
+	dynamic_host: r.sifraco.com
+	dynamic_mutex: Global\Wed Mar  1 01:29:48 2023
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: IMAGE_FILE_MACHINE_AMD64
+f65fd09f4f759d241d457c7198c60c38901e989423ce1f7fc127e689d71adbba
+	dynamic_host: cs.espcomp.net
+	dynamic_host: r.kompro.net
+	dynamic_mutex: Global\Thu Apr  1 02:21:51 2021
+f9d7ebea938311627b05572a47049b70ef1628ecd442bd71b8ab53d90d68d7aa
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	overlay_size: 2514944
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+fb094d0f47aa54773d18c2e7fd576f67db0f699d010d33964e5e3fda2d2369bf
+	Timestamp: 605C525B (2021-03-25 09:05:31)
+	dynamic_host: p.csims.net
+	dynamic_mutex: Global\Thu Mar 25 02:03:14 2021
+	mutex: Global\Thu Mar 25 02:03:14 2021
+	type: IMAGE_FILE_MACHINE_I386
+	url: bramco.net
+	url: csims
+fc225ca2330ef2e641a9f0934fef12edf019d22a96e4baa66810aa3cecc9e878
+	RC2_key: Microsoft.com
+	mutex: Global\Wed Mar  1 01:29:48 2023
+	type: wiped_pe_header
+fdc83e899b7c5e68e263ae9ad5edd1a43cdd1f3cb04d86663986ac8f8eadd108
+	RC2_key: Microsoft.com
+	Timestamp: 6116861F (2021-08-13 14:47:59)
+	mutex: Global\Fri Aug 13 02:22:55 2021
+	type: IMAGE_FILE_MACHINE_AMD64
+	url: bramco.net
+ff1129559c3fe1838b11ef21b5352c3ab0ae0310476c57e7f0ab299fd7d3f757
+	Timestamp: 61D5D2BA (2022-01-05 17:17:46)
+	dynamic_host: p.cbacontrols.com
+	dynamic_mutex: Global\Wed Jan  5 09:15:56 2022
+	mutex: Global\Wed Jan  5 09:15:56 2022
+	type: IMAGE_FILE_MACHINE_I386
