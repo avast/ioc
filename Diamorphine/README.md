@@ -1,0 +1,92 @@
+# IoC for Diamorphine
+
+Avast's full new Diamorphine variant report is available at <https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/>
+
+### Table of Contents
+* [YARA](#yara)
+* [Hash of the new Diamorphine variant](#hash-of-the-new-diamorphine-variant)
+* [VirusTotal query](#virustotal-query)
+* [Hash of other Diamorphine samples](#hash-of-other-diamorphine-samples)
+
+
+## YARA
+
+```
+import "elf"
+import "magic"
+rule diamorphine_sequences
+{
+    meta:
+        reference = "https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/"
+    strings:
+        $s00 = "hacked_kill"
+
+        $s10 = "is_invisible"
+        $s11 = "get_syscall_table_bf"
+    condition: 
+        magic.type() contains "ELF" and
+        elf.type == elf.ET_REL and
+        (
+            $s00 or
+            all of ($s1*)
+        )
+}
+```
+
+## Hash of the new Diamorphine variant
+```
+067194bb1a70e9a3d18a6e4252e9a9c881ace13a6a3b741e9f0ec299451c2090
+```
+
+## VirusTotal query
+[(content:hacked_kill OR (content:is_invisible AND content:get_syscall_table_bf)) AND type:elf AND tag:relocatable](https://www.virustotal.com/gui/search/(content%253Ahacked_kill%2520OR%2520(content%253Ais_invisible%2520AND%2520content%253Aget_syscall_table_bf))%2520AND%2520type%253Aelf%2520AND%2520tag%253Arelocatable/files)
+
+## Hash of other Diamorphine samples
+```
+a931bc92999eeefdcb79bf6dc294608cb825b2d8f2627b1b3ab0b71e74d8d835
+f79eb2930012ac45e4c4434f8559e0bc40fa269b51fcc297ca4b78c2b61bfcb7
+29913a342bca81ec1084c9abc1c6be8d431d0da40fadba465a3ca3481193904b
+a158fc3982b8ccbec4655b9a3017eba167e0f0bb61f78f870898a51f7f6076bb
+8b7eaea5fc2f184ad9ef6abf069bdb78d42662c891b09c3c6a9d4899526b17c8
+4114d57edae1d877d62d8b5642bd93cfb457b12cf657d53a185e37d09ae51891
+954a5905607d1bd1160b6471a36679af9aa57a5fbf777751f68492ecc54d45e1
+6d388ee0ee34d5ec409c55cee65b8d65aacbfb7f3bf207db47e3fef0d7860877
+400f3a425ed047442d87ab96e7469f63c6dbc78424771eb2e4b9c305ea44d0b6
+91d9421125adceb27e5e40f27a8da6cb5de8971b2e8d081a18020a6c0b44e453
+dc04f28eb0e7485998f951784a3d5fdcdc97ec882560d92335370f1e13391ff2
+86fd81bc2c9ddbe98a490f3aa4ae4c8d7e8e0c0284d4a6a257ccf1ce07620d27
+1936270dc97c4e2e7bbdfd0c337ed1acdf72df6dc9598b396f6fdf4c0ad8f904
+b627725d7f4ee5b969c200c65d61123027df30a8f2b5930c7df5bfbe8a613f6b
+370fff5098eda6b9ec9ae942c1ce32098e07d7e91d4a5c6e978d8bb22747e6df
+5bc5883c31f7e1432663d2f277d6cb2c849cfc1e095bca27bd5d17ff11229fed
+d00771a4fd8f314417441d76812466c0a84ab053a8e5960037526d0ff4cba37d
+ad32f4fb7b8e475db9ff62cc9e02773b9209297fd08e00a5edfed65f55f14986
+073e0ff3fb262d593ef267aef53fe54558301a95b184f39602941535840f4383
+12d6326bd7e7bc8e81e0e161b5537096847253076334bca8c16a3c3f4c2c0e5b
+ddfdb25d6a30a6d63c705e25e818553fb21ee89f3b988aae7b65c10eec805a1b
+c2b0588ff7a6d5790cbd5587fc307e6b36a618ccc90c47264b4e1bcc0a549931
+a136834b0c72b3eb3c4371c522ac2927a84edebed847581df0a1a02525d4787e
+7506367dc20bedbb7f7518654e0700a92c46ee9bb9a53e00676791fc8e692453
+afe0498385984eca996d17b37851fdf9213910426f4841da29c6d9c33e98e013
+351d0bdab940e0195dd3c5e5da61ea4d46a0cce34a8ea9f78e27b1d233a2486f
+9ba2a5fcc9ab9b229c7d7a139dd1768858738ed3f4ff0e07e23bc59a90418ea1
+69e144206b607522da3b571823f93125d121065ba55c0ead651696a48e92bdcf
+0d0de2151d7fcd14b1bdb64dab802e2290a5a130ba7ed7db6a6e4d5b5b095463
+e029e90d6767f2b84e9e2d618db105573404d4f09eece52734b9faae5fc25c2c
+b0c4456420e0d650912a99acc9fe4d4eeee9f75921facafc718c2c82ea0365b5
+1fdda23de5a1dbfb70698f2b548c80c1d2967cb0f8d9bba41d64131aaa7532a3
+76c01ef5aaef29e2894beddd8f23726b75f6a8d335499333b60a0e3815de5b2e
+d947b70347ce1f0088b107a3344c033cdd666782e7b382cd4bccb64724a28575
+8bf0ddff6d2921257fbd3a3791c72fc1ebc7347a84ab4bf0298085d91e5ef0d5
+12360ddc28cfa104377d7c7a92a190933c424c3dd407b65f7b69b1b5c67dca1b
+be8e8ef049dedc7c56e7d61f4f50a0ed324a42e1b1febe66aea77156bc6f02a0
+00c17f9a99667dee908071f1db43ffdf675ea5158537dd2cd499ffd0885e621a
+04d54cb31129a459033adcbe68aa5eaec6130be1c8d2db3773177440f4644449
+4d258c019e80afb4f98c331db100fd06fb883a09fc743c17d34a181af977c2cc
+62ce718a453150b388dd9fb761b8c344a6b071ead691aa85cd6ef82b723c87b1
+1d4d3d8e089dcca348bb4a5115ee2991575c70584dce674da13b738dd0d6ff98
+6436303b20b2836d08595a90cfd82806c6dce16f33964aa4749a86b343d0abbb
+1a9382e491598fea6f418427f36a0e127135ed4886adc846b3339e0505284971
+92903e07b834a2be2b78e95d7161a09b71c0b8f7f8ffae760a4173bf2289de94
+d45ab8d1b0d15e923b26634d6d79bb89e132cc36e56ec902db2f0147ed31efa4
+```
