@@ -17,7 +17,7 @@ import "magic"
 rule diamorphine_sequences
 {
     meta:
-        reference = "https://decoded.avast.io/?p=8646"
+        reference = "https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/"
     strings:
         $s00 = "hacked_kill"
 
