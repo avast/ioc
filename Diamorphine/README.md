@@ -1,6 +1,6 @@
 # IoC for Diamorphine
 
-Avast's full new Diamorphine variant report is available at <https://decoded.avast.io/?p=8646>
+Avast's full new Diamorphine variant report is available at <https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/>
 
 ### Table of Contents
 * [YARA](#yara)
