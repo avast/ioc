@@ -1,6 +1,6 @@
 # IoC for Diamorphine
 
-Avast's full new Diamorphine variant report is available at <https://decoded.avast.io/>
+Avast's full new Diamorphine variant report is available at <https://decoded.avast.io/?p=8646>
 
 ### Table of Contents
 * [YARA](#yara)
@@ -17,7 +17,7 @@ import "magic"
 rule diamorphine_sequences
 {
     meta:
-        reference = "https://decoded.avast.io/"
+        reference = "https://decoded.avast.io/?p=8646"
     strings:
         $s00 = "hacked_kill"
 
