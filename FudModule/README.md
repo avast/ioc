@@ -1,5 +1,6 @@
 # IoC for FudModule
 
+GenDigital's full FudModule v3 report is available at <https://www.gendigital.com/blog/preview/lazarus-fudmodule>
 Avast's full FudModule report is available at <https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/>
 
 ### Table of Contents
@@ -31,6 +32,32 @@ rule fudmodule_v2_sequences
     condition:
         2 of them
 }
+
+rule fudmodule_v3_sequences
+{
+	meta:
+		author = "Luigino Camastra, GenDigital"
+		reference = "https://www.gendigital.com/blog/preview/lazarus-fudmodule"
+	strings:
+		$s00 = "Success." // 0x14001acf0
+		$s01 = "remote_exec failed." // 0x14001ad00
+		$s02 = "init_env failed." // 0x14001ac90
+		$s03 = "GetGodMode failed" // 0x14001acc0
+		$s04 = "RemoteDllExecute passed." // 0x14001b268
+		$s05 = "CreateRemoteProcess passed." // 0x14001b220
+		$s06 = "GetSystemHandle passed." // 0x14001b208
+		$s07 = "SuspendDefender skipped." // 0x14001b1b8
+		$s08 = "DisableUserEtwSource (%d/%d) passed." // 0x14001b180
+		$s09 = "EtwpHostSiloState is Null." // 0x14001b140
+		$s10 = "Get EtwpHostSiloState failed." // 0x14001b160
+		
+		$h00 = { 8A 44 0E ?? 41 32 C4 88 01 B0 0D 48 FF C1 41 F6 }
+		$h01 = { 4? 8B DF 4? 8D 47 D0 4? C1 E0 10 4? C1 E3 10 4? }
+		$h02 = { B? 05 00 00 00 4? 81 E3 FF FF 0F 00 4? 33 D8 4C }
+	condition:
+		3 of them
+}
+
 ```
 
 ## Targeted ETW Provider GUIDs
