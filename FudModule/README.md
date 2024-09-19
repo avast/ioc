@@ -1,6 +1,6 @@
 # IoC for FudModule
 
-GenDigital's full FudModule v3 report is available at <https://www.gendigital.com/blog/preview/lazarus-fudmodule>
+GenDigital's full FudModule v3 report is available at <https://www.gendigital.com/blog/news/innovation/lazarus-fudmodule-v3>
 Avast's full FudModule report is available at <https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/>
 
 ### Table of Contents
