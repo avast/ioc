@@ -1,0 +1,85 @@
+\AppData\Local\360Browser\Browser\User Data
+\AppData\Local\360Chrome\Chrome\User Data
+\AppData\Local\7Star\7Star\User Data
+\AppData\Local\Amigo\User\User Data
+\AppData\Local\AOL\AOL Shield\User Data
+\AppData\Local\AVAST Software\Browser\User Data
+\AppData\Local\Baidu\BaiduBrowser\User Data
+\AppData\Local\Battle.net
+\AppData\Local\BitTorrent\Maelstrom
+\AppData\Local\Blisk\User Data
+\AppData\Local\BraveSoftware\Brave-Browser-Nightly\User Data
+\AppData\Local\BraveSoftware\Brave-Browser\User Data
+\AppData\Local\CatalinaGroup\Citrio\User Data
+\AppData\Local\CCleaner Browser\User Data
+\AppData\Local\CentBrowser\User Data
+\AppData\Local\Chedot\User Data
+\AppData\Local\Chromium\User Data
+\AppData\Local\Chromodo\User Data
+\AppData\Local\CocCoc\Browser\User Data
+\AppData\Local\ColibriBrowser
+\AppData\Local\Comodo\Dragon\User Data
+\AppData\Local\Comodo\User Data
+\AppData\Local\Coowon\Coowon
+\AppData\Local\Coowon\Coowon\User Data
+\AppData\Local\CryptoTab Browser
+\AppData\Local\Element Browser\User Data
+\AppData\Local\Elements Browser\User Data
+\AppData\Local\Epic Privacy Browser\User Data
+\AppData\Local\Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+\AppData\Local\GhostBrowser
+\AppData\Local\Globus VPN\User Data
+\AppData\Local\Google(x86)\Chrome\User Data
+\AppData\Local\Google\Chrome\User Data
+\AppData\Local\Iridium\User Data
+\AppData\Local\K-Melon\User Data
+\AppData\Local\Kinza\User Data
+\AppData\Local\Kometa\User Data
+\AppData\Local\liebao\User Data
+\AppData\Local\Mail.Ru\Atom\User Data
+\AppData\Local\MapleStudio\ChromePlus
+\AppData\Local\MapleStudio\ChromePlus\User Data
+\AppData\Local\Maxthon\User Data
+\AppData\Local\Maxthon3\User Data
+\AppData\Local\Microsoft\Edge\User Data
+\AppData\Local\Min\User Data
+\AppData\Local\Naver\Naver Whale\User Data
+\AppData\Local\Nichrome\User Data
+\AppData\Local\Orbitum\User Data
+\AppData\Local\QIP Surf\User Data
+\AppData\Local\Slimjet\User Data
+\AppData\Local\Sputnik\Sputnik\User Data
+\AppData\Local\Steam
+\AppData\Local\Tencent\QQBrowser\User Data
+\AppData\Local\Torch\User Data
+\AppData\Local\UCBrowser\User Data_i18n
+\AppData\Local\uCozMedia\Uran\User Data
+\AppData\Local\Uran\User Data
+\AppData\Local\Vivaldi\User Data
+\AppData\Local\Xvast\User Data
+\AppData\Local\Yandex\YandexBrowser\User Data
+
+\AppData\Roaming\8pecxstudios\Cyberfox
+\AppData\Roaming\Avant Profiles
+\AppData\Roaming\Comodo\IceDragon
+\AppData\Roaming\conkeror.mozdev.org\conkeror
+\AppData\Roaming\Falkon\Profiles
+\AppData\Roaming\FlashPeak\SlimBrowser
+\AppData\Roaming\Flock
+\AppData\Roaming\Ghostery Browser\Profiles
+\AppData\Roaming\Hola\chromium_profile
+\AppData\Roaming\K-Meleon
+\AppData\Roaming\kingpinbrowser
+\AppData\Roaming\Lulumi-browser
+\AppData\Roaming\Moonchild Productions\Pale Moon
+\AppData\Roaming\Mozilla\Firefox
+\AppData\Roaming\Mozilla\SeaMonkey
+\AppData\Roaming\NETGATE Technologies\BlackHaw
+\AppData\Roaming\Netscape\Navigator
+\AppData\Roaming\Opera Software\Opera GX Stable
+\AppData\Roaming\Opera Software\Opera Stable
+\AppData\Roaming\Sielo\profiles
+\AppData\Roaming\Thunderbird
+\AppData\Roaming\Undetectable\Profiles
+\AppData\Roaming\Waterfox
+\AppData\Roaming\Waterfox\Profiles
