@@ -1,0 +1,3136 @@
+{
+    "ver": "1.0.0",
+    "tasks": [
+        {
+            "name": "FileZilla",
+            "path": "%appdata%\\FileZilla",
+            "type": "fg-std",
+            "masks": [
+                "*recentservers.xml",
+                "*sitemanager.xml",
+                "*filezilla.xml"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/FileZilla"
+        },
+        {
+            "name": "FileZilla",
+            "path": "%localappdata%\\FileZilla",
+            "type": "fg-std",
+            "masks": [
+                "*recentservers.xml",
+                "*sitemanager.xml",
+                "*filezilla.xml"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/FileZilla"
+        },
+        {
+            "name": "FileZilla",
+            "path": "%commonprogramfiles%\\FileZilla",
+            "type": "fg-std",
+            "masks": [
+                "*recentservers.xml",
+                "*sitemanager.xml",
+                "*filezilla.xml"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/FileZilla"
+        },
+        {
+            "name": "AnyDesk",
+            "path": "%appdata%\\AnyDesk",
+            "type": "fg-std",
+            "masks": [
+                "*.conf"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/AnyDesk"
+        },
+        {
+            "name": "KeePass",
+            "path": "%userprofile%",
+            "type": "fg-std",
+            "masks": [
+                "*.kbdx"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/KeePass"
+        },
+        {
+            "name": "Telegramm",
+            "path": "%appdata%\\TelegramDesktop\\tdata",
+            "type": "fg-std",
+            "masks": [
+                "*s"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Telegramm"
+        },
+        {
+            "name": "Discord",
+            "path": "%appdata%\\Discord\\LocalStorage\\leveldb",
+            "type": "fg-std",
+            "masks": [
+                "*.log",
+                "*.ldb"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Discord"
+        },
+        {
+            "name": "Discord",
+            "path": "%appdata%\\DiscordPTB\\LocalStorage\\leveldb",
+            "type": "fg-std",
+            "masks": [
+                "*.log",
+                "*.ldb"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Discord"
+        },
+        {
+            "name": "Pidguin",
+            "path": "%appdata%\\.purple",
+            "type": "fg-std",
+            "masks": [
+                "*accounts.xml",
+                "*.html"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Pidguin"
+        },
+        {
+            "name": "Psi+",
+            "path": "%appdata%\\Psi",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Psi+"
+        },
+        {
+            "name": "qTox",
+            "path": "%appdata%\\tox",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/qTox"
+        },
+        {
+            "name": "OpenVPN",
+            "path": "%appdata%\\OpenVPNConnect\\profiles",
+            "type": "fg-std",
+            "masks": [
+                "*ovpn"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/OpenVPN"
+        },
+        {
+            "name": "NordVPN",
+            "path": "%localappdata%\\NordVPN",
+            "type": "fg-std",
+            "masks": [
+                "*user.config"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/NordVPN"
+        },
+        {
+            "name": "ProtonVPN",
+            "path": "%localappdata%\\ProtonVPN",
+            "type": "fg-std",
+            "masks": [
+                "*user.config"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/ProtonVPN"
+        },
+        {
+            "name": "Steam",
+            "path": "%localappdata%\\Steam",
+            "type": "fg-std",
+            "masks": [
+                "*.vdf"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Steam"
+        },
+        {
+            "name": "Steam",
+            "path": "%programfiles%\\Steam\\config",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Steam"
+        },
+        {
+            "name": "Uplay",
+            "path": "%localappdata%\\UbisoftGameLauncher",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 1,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Applications/Uplay"
+        },
+        {
+            "name": "Generic",
+            "path": "%appdata%",
+            "type": "fg-std",
+            "masks": [
+                "*wallet.dat"
+            ],
+            "category": 0,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Generic"
+        },
+        {
+            "name": "Generic",
+            "path": "%localappdata%",
+            "type": "fg-std",
+            "masks": [
+                "*wallet.dat"
+            ],
+            "category": 0,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Generic"
+        },
+        {
+            "name": "AuthyDesktop",
+            "path": "%appdata%\\AuthyDesktop\\LocalStorage\\leveldb",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/AuthyDesktop"
+        },
+        {
+            "name": "Anoncoin",
+            "path": "%appdata%\\Anoncoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Anoncoin"
+        },
+        {
+            "name": "Anoncoin",
+            "path": "%localappdata%\\Anoncoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Anoncoin"
+        },
+        {
+            "name": "Armory",
+            "path": "%appdata%\\Armory",
+            "type": "fg-std",
+            "masks": [
+                "*.wallet"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Armory"
+        },
+        {
+            "name": "Atomic",
+            "path": "%appdata%\\atomic\\LocalStorage\\leveldb",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Atomic"
+        },
+        {
+            "name": "Atomic",
+            "path": "%localappdata%\\atomic\\LocalStorage\\leveldb",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Atomic"
+        },
+        {
+            "name": "BBQCoin",
+            "path": "%appdata%\\BBQCoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/BBQCoin"
+        },
+        {
+            "name": "BBQCoin",
+            "path": "%localappdata%\\BBQCoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/BBQCoin"
+        },
+        {
+            "name": "BlockstreamGreen",
+            "path": "%localappdata%\\Blockstream\\Green\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/BlockstreamGreen"
+        },
+        {
+            "name": "Bytecoin",
+            "path": "%appdata%\\bytecoin",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Bytecoin"
+        },
+        {
+            "name": "Bytecoin",
+            "path": "%localappdata%\\bytecoin",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Bytecoin"
+        },
+        {
+            "name": "Bitcoin",
+            "path": "%appdata%\\Bitcoin\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Bitcoin"
+        },
+        {
+            "name": "Bitcoin",
+            "path": "%localappdata%\\Bitcoin\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Bitcoin"
+        },
+        {
+            "name": "BitcoinCoreOld",
+            "path": "%appdata%\\Bitcoin",
+            "type": "fg-std",
+            "masks": [
+                "wallet.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/BitcoinCoreOld"
+        },
+        {
+            "name": "BitcoinCoreOld",
+            "path": "%localappdata%\\Bitcoin",
+            "type": "fg-std",
+            "masks": [
+                "wallet.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/BitcoinCoreOld"
+        },
+        {
+            "name": "Binance",
+            "path": "%appdata%\\Binance",
+            "type": "fg-std",
+            "masks": [
+                "app-store.json",
+                "simple-storage.json",
+                ".finger-print.fp"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Binance"
+        },
+        {
+            "name": "DashCore",
+            "path": "%appdata%\\DashCore",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/DashCore"
+        },
+        {
+            "name": "DashCore",
+            "path": "%localappdata%\\DashCore",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/DashCore"
+        },
+        {
+            "name": "Daedalus",
+            "path": "%localappdata%\\DaedalusMainnet\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "she*.sqlite"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Daedalus"
+        },
+        {
+            "name": "Coinomi",
+            "path": "%localappdata%\\Coinomi\\Coinomi\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*.wallet",
+                "*.config"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Coinomi"
+        },
+        {
+            "name": "Dogecoin",
+            "path": "%localappdata%\\Dogecoin",
+            "type": "fg-std",
+            "masks": [
+                "wallet.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Dogecoin"
+        },
+        {
+            "name": "Devcoin",
+            "path": "%appdata%\\devcoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Devcoin"
+        },
+        {
+            "name": "Devcoin",
+            "path": "%localappdata%\\devcoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Devcoin"
+        },
+        {
+            "name": "Digitalcoin",
+            "path": "%appdata%\\digitalcoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Digitalcoin"
+        },
+        {
+            "name": "Digitalcoin",
+            "path": "%localappdata%\\digitalcoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Digitalcoin"
+        },
+        {
+            "name": "ElectronCash",
+            "path": "%localappdata%\\ElectronCash\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/ElectronCash"
+        },
+        {
+            "name": "Electrum",
+            "path": "%appdata%\\Electrum\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Electrum"
+        },
+        {
+            "name": "Electrum-LTC",
+            "path": "%localappdata%\\Electrum-LTC\\wallets",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Electrum-LTC"
+        },
+        {
+            "name": "Ethereum",
+            "path": "%appdata%\\Ethereum",
+            "type": "fg-std",
+            "masks": [
+                "*keystore"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ethereum"
+        },
+        {
+            "name": "Ethereum",
+            "path": "%localappdata%\\Ethereum",
+            "type": "fg-std",
+            "masks": [
+                "*keystore"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ethereum"
+        },
+        {
+            "name": "Exodus",
+            "path": "%appdata%\\Exodus",
+            "type": "fg-std",
+            "masks": [
+                "exodus.conf.json",
+                "window-state.json"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Exodus"
+        },
+        {
+            "name": "Exodus",
+            "path": "%localappdata%\\Exodus",
+            "type": "fg-std",
+            "masks": [
+                "exodus.conf.json",
+                "window-state.json"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Exodus"
+        },
+        {
+            "name": "Exodus",
+            "path": "%localappdata%\\Exodus\\backups",
+            "type": "fg-std",
+            "masks": [
+                "exodus.conf.json",
+                "window-state.json"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Exodus"
+        },
+        {
+            "name": "Exodus",
+            "path": "%localappdata%\\Exodus\\exodus.wallet",
+            "type": "fg-std",
+            "masks": [
+                "passphrase.json",
+                "seed.seco",
+                "info.seco"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Exodus"
+        },
+        {
+            "name": "Exodus",
+            "path": "%appdata%\\Exodus\\exodus.wallet",
+            "type": "fg-std",
+            "masks": [
+                "passphrase.json",
+                "seed.seco",
+                "info.seco"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Exodus"
+        },
+        {
+            "name": "Florincoin",
+            "path": "%appdata%\\Florincoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Florincoin"
+        },
+        {
+            "name": "Florincoin",
+            "path": "%localappdata%\\Florincoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Florincoin"
+        },
+        {
+            "name": "Franko",
+            "path": "%appdata%\\Franko",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Franko"
+        },
+        {
+            "name": "Franko",
+            "path": "%localappdata%\\Franko",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Franko"
+        },
+        {
+            "name": "Freicoin",
+            "path": "%appdata%\\Freicoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Freicoin"
+        },
+        {
+            "name": "Freicoin",
+            "path": "%localappdata%\\Freicoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Freicoin"
+        },
+        {
+            "name": "Guarda",
+            "path": "%appdata%\\Guarda",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Guarda"
+        },
+        {
+            "name": "Guarda",
+            "path": "%localappdata%\\Guarda",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Guarda"
+        },
+        {
+            "name": "GoldCoinGLD",
+            "path": "%appdata%\\GoldCoinGLD",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/GoldCoinGLD"
+        },
+        {
+            "name": "GoldCoinGLD",
+            "path": "%localappdata%\\GoldCoinGLD",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/GoldCoinGLD"
+        },
+        {
+            "name": "Infinitecoin",
+            "path": "%appdata%\\Infinitecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Infinitecoin"
+        },
+        {
+            "name": "Infinitecoin",
+            "path": "%localappdata%\\Infinitecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Infinitecoin"
+        },
+        {
+            "name": "IOCoin",
+            "path": "%appdata%\\IOCoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/IOCoin"
+        },
+        {
+            "name": "IOCoin",
+            "path": "%localappdata%\\IOCoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/IOCoin"
+        },
+        {
+            "name": "Ixcoin",
+            "path": "%appdata%\\Ixcoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ixcoin"
+        },
+        {
+            "name": "Ixcoin",
+            "path": "%localappdata%\\Ixcoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ixcoin"
+        },
+        {
+            "name": "JaxxDesktop",
+            "path": "%appdata%\\com.liberty.jaxx\\IndexedDB",
+            "type": "fg-std",
+            "masks": [
+                "*.leveldb"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/JaxxDesktop"
+        },
+        {
+            "name": "JaxxOld",
+            "path": "%appdata%\\jaxx\\LocalStorage",
+            "type": "fg-std",
+            "masks": [
+                "file__0.localstorage"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/JaxxOld"
+        },
+        {
+            "name": "JaxxOld",
+            "path": "%appdata%\\jaxx\\LocalStorage",
+            "type": "fg-std",
+            "masks": [
+                "file__0.localstorage"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/JaxxOld"
+        },
+        {
+            "name": "Litecoin",
+            "path": "%appdata%\\Litecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Litecoin"
+        },
+        {
+            "name": "Litecoin",
+            "path": "%localappdata%\\Litecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Litecoin"
+        },
+        {
+            "name": "Ledger",
+            "path": "%appdata%\\LedgerLive",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ledger"
+        },
+        {
+            "name": "Ledger",
+            "path": "%localappdata%\\LedgerLive\\LocalStorage\\leveldb",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ledger"
+        },
+        {
+            "name": "Ledger",
+            "path": "%localappdata%\\LedgerLive\\SessionStorage",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ledger"
+        },
+        {
+            "name": "Ledger",
+            "path": "%localappdata%\\LedgerLive",
+            "type": "fg-std",
+            "masks": [
+                "*"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Ledger"
+        },
+        {
+            "name": "Megacoin",
+            "path": "%appdata%\\Megacoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Megacoin"
+        },
+        {
+            "name": "Megacoin",
+            "path": "%localappdata%\\Megacoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Megacoin"
+        },
+        {
+            "name": "Mincoin",
+            "path": "%appdata%\\Mincoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Mincoin"
+        },
+        {
+            "name": "Mincoin",
+            "path": "%localappdata%\\Mincoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Mincoin"
+        },
+        {
+            "name": "MultiDoge",
+            "path": "%localappdata%\\MultiDoge",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat",
+                "multidoge.wallet"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/MultiDoge"
+        },
+        {
+            "name": "Namecoin",
+            "path": "%appdata%\\Namecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Namecoin"
+        },
+        {
+            "name": "Namecoin",
+            "path": "%localappdata%\\Namecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Namecoin"
+        },
+        {
+            "name": "Primecoin",
+            "path": "%appdata%\\Primecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Primecoin"
+        },
+        {
+            "name": "Primecoin",
+            "path": "%localappdata%\\Primecoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Primecoin"
+        },
+        {
+            "name": "WasabiWallet",
+            "path": "%localappdata%\\WalletWasabi\\Client\\Wallets",
+            "type": "fg-std",
+            "masks": [
+                "*.json"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/WasabiWallet"
+        },
+        {
+            "name": "Raven",
+            "path": "%localappdata%\\Raven",
+            "type": "fg-std",
+            "masks": [
+                "wallet.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Raven"
+        },
+        {
+            "name": "Terracoin",
+            "path": "%appdata%\\Terracoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Terracoin"
+        },
+        {
+            "name": "Terracoin",
+            "path": "%localappdata%\\Terracoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Terracoin"
+        },
+        {
+            "name": "YACoin",
+            "path": "%appdata%\\YACoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/YACoin"
+        },
+        {
+            "name": "YACoin",
+            "path": "%localappdata%\\YACoin",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/YACoin"
+        },
+        {
+            "name": "Zcash",
+            "path": "%appdata%\\Zcash",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Zcash"
+        },
+        {
+            "name": "Zcash",
+            "path": "%localappdata%\\Zcash",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Zcash"
+        },
+        {
+            "name": "Electrum-G",
+            "path": "%localappdata%\\Electrum-G",
+            "type": "fg-std",
+            "masks": [
+                "*wal*.dat"
+            ],
+            "category": 2,
+            "max_depth": 10,
+            "max_fsize": 10,
+            "archive_entry": "Wallets/Electrum-G"
+        },
+        {
+            "name": "GoogleChrome",
+            "path": "%localappdata%\\Google\\Chrome\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChrome"
+        },
+        {
+            "name": "GoogleChromeBeta",
+            "path": "%localappdata%\\Google\\ChromeBeta\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeBeta"
+        },
+        {
+            "name": "GoogleChromeSxS",
+            "path": "%localappdata%\\Google\\ChromeSxS\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeSxS"
+        },
+        {
+            "name": "GoogleChromeDev",
+            "path": "%localappdata%\\Google\\ChromeDev\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeDev"
+        },
+        {
+            "name": "GoogleChromeUnstable",
+            "path": "%localappdata%\\Google\\ChromeUnstable\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeUnstable"
+        },
+        {
+            "name": "GoogleChromeCanary",
+            "path": "%localappdata%\\Google\\ChromeCanary\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeCanary"
+        },
+        {
+            "name": "GoogleChrome(x86)",
+            "path": "%localappdata%\\Google(x86)\\Chrome\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChrome(x86)"
+        },
+        {
+            "name": "GoogleChromeBeta(x86)",
+            "path": "%localappdata%\\Google(x86)\\ChromeBeta\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeBeta(x86)"
+        },
+        {
+            "name": "GoogleChromeSxS(x86)",
+            "path": "%localappdata%\\Google(x86)\\ChromeSxS\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeSxS(x86)"
+        },
+        {
+            "name": "GoogleChromeDev(x86)",
+            "path": "%localappdata%\\Google(x86)\\ChromeDev\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeDev(x86)"
+        },
+        {
+            "name": "GoogleChromeUnstable(x86)",
+            "path": "%localappdata%\\Google(x86)\\ChromeUnstable\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeUnstable(x86)"
+        },
+        {
+            "name": "GoogleChromeCanary(x86)",
+            "path": "%localappdata%\\Google(x86)\\ChromeCanary\\UserData",
+            "type": "chromium",
+            "archive_entry": "GoogleChromeCanary(x86)"
+        },
+        {
+            "name": "Chromium",
+            "path": "%localappdata%\\Chromium\\UserData",
+            "type": "chromium",
+            "archive_entry": "Chromium"
+        },
+        {
+            "name": "MicrosoftEdge",
+            "path": "%localappdata%\\Microsoft\\Edge\\UserData",
+            "type": "chromium",
+            "archive_entry": "MicrosoftEdge"
+        },
+        {
+            "name": "BraveBrowser",
+            "path": "%localappdata%\\BraveSoftware\\Brave-Browser\\UserData",
+            "type": "chromium",
+            "archive_entry": "BraveBrowser"
+        },
+        {
+            "name": "EpicPrivacyBrowser",
+            "path": "%localappdata%\\EpicPrivacyBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "EpicPrivacyBrowser"
+        },
+        {
+            "name": "Amigo",
+            "path": "%localappdata%\\Amigo\\UserData",
+            "type": "chromium",
+            "archive_entry": "Amigo"
+        },
+        {
+            "name": "Vivaldi",
+            "path": "%localappdata%\\Vivaldi\\UserData",
+            "type": "chromium",
+            "archive_entry": "Vivaldi"
+        },
+        {
+            "name": "Kometa",
+            "path": "%localappdata%\\Kometa\\UserData",
+            "type": "chromium",
+            "archive_entry": "Kometa"
+        },
+        {
+            "name": "Orbitum",
+            "path": "%localappdata%\\Orbitum\\UserData",
+            "type": "chromium",
+            "archive_entry": "Orbitum"
+        },
+        {
+            "name": "Mail.RuAtom",
+            "path": "%localappdata%\\Mail.Ru\\Atom\\UserData",
+            "type": "chromium",
+            "archive_entry": "Mail.RuAtom"
+        },
+        {
+            "name": "ComodoDragon",
+            "path": "%localappdata%\\Comodo\\Dragon\\UserData",
+            "type": "chromium",
+            "archive_entry": "ComodoDragon"
+        },
+        {
+            "name": "Torch",
+            "path": "%localappdata%\\Torch\\UserData",
+            "type": "chromium",
+            "archive_entry": "Torch"
+        },
+        {
+            "name": "Comodo",
+            "path": "%localappdata%\\Comodo\\UserData",
+            "type": "chromium",
+            "archive_entry": "Comodo"
+        },
+        {
+            "name": "360ChromeX",
+            "path": "%localappdata%\\360ChromeX\\Chrome\\UserData",
+            "type": "chromium",
+            "archive_entry": "360ChromeX"
+        },
+        {
+            "name": "Slimjet",
+            "path": "%localappdata%\\Slimjet\\UserData",
+            "type": "chromium",
+            "archive_entry": "Slimjet"
+        },
+        {
+            "name": "360Browser",
+            "path": "%localappdata%\\360Chrome\\Chrome\\UserData",
+            "type": "chromium",
+            "archive_entry": "360Browser"
+        },
+        {
+            "name": "360BrowserSE6",
+            "path": "%appdata%\\360se6\\UserData",
+            "type": "chromium",
+            "archive_entry": "360BrowserSE6"
+        },
+        {
+            "name": "360BrowserSE",
+            "path": "%appdata%\\360se\\UserData",
+            "type": "chromium",
+            "archive_entry": "360BrowserSE"
+        },
+        {
+            "name": "360SecureBrowser",
+            "path": "%localappdata%\\360Browser\\Browser\\UserData",
+            "type": "chromium",
+            "archive_entry": "360SecureBrowser"
+        },
+        {
+            "name": "Maxthon3",
+            "path": "%localappdata%\\Maxthon3\\UserData",
+            "type": "chromium",
+            "archive_entry": "Maxthon3"
+        },
+        {
+            "name": "Maxthon5",
+            "path": "%appdata%\\Maxthon5\\Users",
+            "type": "chromium",
+            "archive_entry": "Maxthon5"
+        },
+        {
+            "name": "Maxthon",
+            "path": "%localappdata%\\Maxthon\\UserData",
+            "type": "chromium",
+            "archive_entry": "Maxthon"
+        },
+        {
+            "name": "QQBrowser",
+            "path": "%localappdata%\\Tencent\\QQBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "QQBrowser"
+        },
+        {
+            "name": "K-Meleon",
+            "path": "%localappdata%\\K-Melon\\UserData",
+            "type": "chromium",
+            "archive_entry": "K-Meleon"
+        },
+        {
+            "name": "Xpom",
+            "path": "%localappdata%\\Xpom\\UserData",
+            "type": "chromium",
+            "archive_entry": "Xpom"
+        },
+        {
+            "name": "LenovoBrowser",
+            "path": "%localappdata%\\Lenovo\\SLBrowser",
+            "type": "chromium",
+            "archive_entry": "LenovoBrowser"
+        },
+        {
+            "name": "Xvast",
+            "path": "%localappdata%\\Xvast\\UserData",
+            "type": "chromium",
+            "archive_entry": "Xvast"
+        },
+        {
+            "name": "Go!",
+            "path": "%localappdata%\\Go!\\UserData",
+            "type": "chromium",
+            "archive_entry": "Go!"
+        },
+        {
+            "name": "SaferSecureBrowser",
+            "path": "%localappdata%\\SaferTechnologies\\SecureBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "SaferSecureBrowser"
+        },
+        {
+            "name": "Sputnik",
+            "path": "%localappdata%\\Sputnik\\Sputnik\\UserData",
+            "type": "chromium",
+            "archive_entry": "Sputnik"
+        },
+        {
+            "name": "Nichrome",
+            "path": "%localappdata%\\Nichrome\\UserData",
+            "type": "chromium",
+            "archive_entry": "Nichrome"
+        },
+        {
+            "name": "CocCocBrowser",
+            "path": "%localappdata%\\CocCoc\\Browser\\UserData",
+            "type": "chromium",
+            "archive_entry": "CocCocBrowser"
+        },
+        {
+            "name": "Uran",
+            "path": "%localappdata%\\uCozMedia\\Uran\\UserData",
+            "type": "chromium",
+            "archive_entry": "Uran"
+        },
+        {
+            "name": "Chromodo",
+            "path": "%localappdata%\\Chromodo\\UserData",
+            "type": "chromium",
+            "archive_entry": "Chromodo"
+        },
+        {
+            "name": "YandexBrowser",
+            "path": "%localappdata%\\Yandex\\YandexBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "YandexBrowser"
+        },
+        {
+            "name": "YandexBrowserCanary",
+            "path": "%localappdata%\\Yandex\\YandexBrowserCanary\\UserData",
+            "type": "chromium",
+            "archive_entry": "YandexBrowserCanary"
+        },
+        {
+            "name": "YandexBrowserDev",
+            "path": "%localappdata%\\Yandex\\YandexBrowserDeveloper\\UserData",
+            "type": "chromium",
+            "archive_entry": "YandexBrowserDev"
+        },
+        {
+            "name": "YandexBrowserBeta",
+            "path": "%localappdata%\\Yandex\\YandexBrowserBeta\\UserData",
+            "type": "chromium",
+            "archive_entry": "YandexBrowserBeta"
+        },
+        {
+            "name": "YandexBrowserTech",
+            "path": "%localappdata%\\Yandex\\YandexBrowserTech\\UserData",
+            "type": "chromium",
+            "archive_entry": "YandexBrowserTech"
+        },
+        {
+            "name": "YandexBrowserSxS",
+            "path": "%localappdata%\\Yandex\\YandexBrowserSxS\\UserData",
+            "type": "chromium",
+            "archive_entry": "YandexBrowserSxS"
+        },
+        {
+            "name": "7Star",
+            "path": "%localappdata%\\7Star\\7Star\\UserData",
+            "type": "chromium",
+            "archive_entry": "7Star"
+        },
+        {
+            "name": "Chedot",
+            "path": "%localappdata%\\Chedot\\UserData",
+            "type": "chromium",
+            "archive_entry": "Chedot"
+        },
+        {
+            "name": "CentBrowser",
+            "path": "%localappdata%\\CentBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "CentBrowser"
+        },
+        {
+            "name": "Iridium",
+            "path": "%localappdata%\\Iridium\\UserData",
+            "type": "chromium",
+            "archive_entry": "Iridium"
+        },
+        {
+            "name": "OperaStable",
+            "path": "%appdata%\\OperaSoftware\\OperaStable",
+            "type": "chromium",
+            "archive_entry": "OperaStable"
+        },
+        {
+            "name": "OperaNeon",
+            "path": "%appdata%\\OperaSoftware\\OperaNeon\\UserData",
+            "type": "chromium",
+            "archive_entry": "OperaNeon"
+        },
+        {
+            "name": "OperaCryptoDeveloper",
+            "path": "%appdata%\\OperaSoftware\\OperaCryptoDeveloper",
+            "type": "chromium",
+            "archive_entry": "OperaCryptoDeveloper"
+        },
+        {
+            "name": "OperaGX",
+            "path": "%appdata%\\OperaSoftware\\OperaGXStable",
+            "type": "chromium",
+            "archive_entry": "OperaGX"
+        },
+        {
+            "name": "ElementsBrowser",
+            "path": "%localappdata%\\ElementsBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "ElementsBrowser"
+        },
+        {
+            "name": "Citrio",
+            "path": "%localappdata%\\CatalinaGroup\\Citrio\\UserData",
+            "type": "chromium",
+            "archive_entry": "Citrio"
+        },
+        {
+            "name": "Sleipnir5ChromiumViewer",
+            "path": "%localappdata%\\FenrirInc\\Sleipnir5\\setting\\modules\\ChromiumViewer",
+            "type": "chromium",
+            "archive_entry": "Sleipnir5ChromiumViewer"
+        },
+        {
+            "name": "QIPSurf",
+            "path": "%localappdata%\\QIPSurf\\UserData",
+            "type": "chromium",
+            "archive_entry": "QIPSurf"
+        },
+        {
+            "name": "Liebao",
+            "path": "%localappdata%\\liebao\\UserData",
+            "type": "chromium",
+            "archive_entry": "Liebao"
+        },
+        {
+            "name": "Coowon",
+            "path": "%localappdata%\\Coowon\\Coowon\\UserData",
+            "type": "chromium",
+            "archive_entry": "Coowon"
+        },
+        {
+            "name": "ChromePlus",
+            "path": "%localappdata%\\MapleStudio\\ChromePlus\\UserData",
+            "type": "chromium",
+            "archive_entry": "ChromePlus"
+        },
+        {
+            "name": "RafotechMustang",
+            "path": "%localappdata%\\Rafotech\\Mustang\\UserData",
+            "type": "chromium",
+            "archive_entry": "RafotechMustang"
+        },
+        {
+            "name": "Suhba",
+            "path": "%localappdata%\\Suhba\\UserData",
+            "type": "chromium",
+            "archive_entry": "Suhba"
+        },
+        {
+            "name": "TorBro",
+            "path": "%localappdata%\\TorBro\\Profile",
+            "type": "chromium",
+            "archive_entry": "TorBro"
+        },
+        {
+            "name": "RockMelt",
+            "path": "%localappdata%\\RockMelt\\UserData",
+            "type": "chromium",
+            "archive_entry": "RockMelt"
+        },
+        {
+            "name": "Bromium",
+            "path": "%localappdata%\\Bromium\\UserData",
+            "type": "chromium",
+            "archive_entry": "Bromium"
+        },
+        {
+            "name": "Twinkstar",
+            "path": "%localappdata%\\Twinkstar\\UserData",
+            "type": "chromium",
+            "archive_entry": "Twinkstar"
+        },
+        {
+            "name": "iTopPrivateBrowser",
+            "path": "%localappdata%\\iTopPrivateBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "iTopPrivateBrowser"
+        },
+        {
+            "name": "CCleanerBrowser",
+            "path": "%localappdata%\\CCleanerBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "CCleanerBrowser"
+        },
+        {
+            "name": "AcWebBrowser",
+            "path": "%localappdata%\\AcWebBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "AcWebBrowser"
+        },
+        {
+            "name": "CoolNovo",
+            "path": "%localappdata%\\CoolNovo\\UserData",
+            "type": "chromium",
+            "archive_entry": "CoolNovo"
+        },
+        {
+            "name": "BaiduSpark",
+            "path": "%localappdata%\\BaiduSpark\\UserData",
+            "type": "chromium",
+            "archive_entry": "BaiduSpark"
+        },
+        {
+            "name": "SRWareIron",
+            "path": "%localappdata%\\SRWareIron\\UserData",
+            "type": "chromium",
+            "archive_entry": "SRWareIron"
+        },
+        {
+            "name": "TitanBrowser",
+            "path": "%localappdata%\\TitanBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "TitanBrowser"
+        },
+        {
+            "name": "AVASTBrowser",
+            "path": "%localappdata%\\AVASTSoftware\\Browser\\UserData",
+            "type": "chromium",
+            "archive_entry": "AVASTBrowser"
+        },
+        {
+            "name": "AVGBrowser",
+            "path": "%localappdata%\\AVG\\Browser\\UserData",
+            "type": "chromium",
+            "archive_entry": "AVGBrowser"
+        },
+        {
+            "name": "UCBrowser",
+            "path": "%localappdata%\\UCBrowser\\UserData_i18n",
+            "type": "chromium",
+            "archive_entry": "UCBrowser"
+        },
+        {
+            "name": "URBrowser",
+            "path": "%localappdata%\\URBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "URBrowser"
+        },
+        {
+            "name": "Blisk",
+            "path": "%localappdata%\\Blisk\\UserData",
+            "type": "chromium",
+            "archive_entry": "Blisk"
+        },
+        {
+            "name": "Flock",
+            "path": "%localappdata%\\Flock\\UserData",
+            "type": "chromium",
+            "archive_entry": "Flock"
+        },
+        {
+            "name": "CryptoTabBrowser",
+            "path": "%localappdata%\\CryptoTabBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "CryptoTabBrowser"
+        },
+        {
+            "name": "Sidekick",
+            "path": "%localappdata%\\Sidekick\\UserData",
+            "type": "chromium",
+            "archive_entry": "Sidekick"
+        },
+        {
+            "name": "SwingBrowser",
+            "path": "%localappdata%\\SwingBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "SwingBrowser"
+        },
+        {
+            "name": "Superbird",
+            "path": "%localappdata%\\Superbird\\UserData",
+            "type": "chromium",
+            "archive_entry": "Superbird"
+        },
+        {
+            "name": "SalamWeb",
+            "path": "%localappdata%\\SalamWeb\\UserData",
+            "type": "chromium",
+            "archive_entry": "SalamWeb"
+        },
+        {
+            "name": "GhostBrowser",
+            "path": "%localappdata%\\GhostBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "GhostBrowser"
+        },
+        {
+            "name": "NetboxBrowser",
+            "path": "%localappdata%\\NetboxBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "NetboxBrowser"
+        },
+        {
+            "name": "GarenaPlus",
+            "path": "%localappdata%\\GarenaPlus\\UserData",
+            "type": "chromium",
+            "archive_entry": "GarenaPlus"
+        },
+        {
+            "name": "Kinza",
+            "path": "%localappdata%\\Kinza\\UserData",
+            "type": "chromium",
+            "archive_entry": "Kinza"
+        },
+        {
+            "name": "InsomniacBrowser",
+            "path": "%localappdata%\\InsomniacBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "InsomniacBrowser"
+        },
+        {
+            "name": "ViaSatBrowser",
+            "path": "%localappdata%\\ViaSat\\ViasatBrowser\\UserData",
+            "type": "chromium",
+            "archive_entry": "ViaSatBrowser"
+        },
+        {
+            "name": "NaverWhale",
+            "path": "%localappdata%\\Naver\\NaverWhale\\UserData",
+            "type": "chromium",
+            "archive_entry": "NaverWhale"
+        },
+        {
+            "name": "Falkon",
+            "path": "%localappdata%\\falkon\\profiles",
+            "type": "chromium",
+            "archive_entry": "Falkon"
+        },
+        {
+            "name": "Sogou",
+            "path": "%appdata%\\SogouExplorer\\Webkit",
+            "type": "chromium",
+            "archive_entry": "Sogou"
+        },
+        {
+            "name": "Firefox",
+            "path": "%appdata%\\Mozilla\\Firefox\\Profiles",
+            "type": "gecko",
+            "archive_entry": "Firefox"
+        },
+        {
+            "name": "SeaMonkey",
+            "path": "%appdata%\\Mozilla\\SeaMonkey\\Profiles",
+            "type": "gecko",
+            "archive_entry": "SeaMonkey"
+        },
+        {
+            "name": "Waterfox",
+            "path": "%appdata%\\Waterfox\\Profiles",
+            "type": "gecko",
+            "archive_entry": "Waterfox"
+        },
+        {
+            "name": "WaterfoxClassic",
+            "path": "%appdata%\\Waterfox\\Profiles",
+            "type": "gecko",
+            "archive_entry": "WaterfoxClassic"
+        },
+        {
+            "name": "K-Meleon",
+            "path": "%appdata%\\K-Meleon\\Profiles",
+            "type": "gecko",
+            "archive_entry": "K-Meleon"
+        },
+        {
+            "name": "Thunderbird",
+            "path": "%appdata%\\Thunderbird\\Profiles",
+            "type": "gecko",
+            "archive_entry": "Thunderbird"
+        },
+        {
+            "name": "IceDragon",
+            "path": "%appdata%\\Comodo\\IceDragon\\Profiles",
+            "type": "gecko",
+            "archive_entry": "IceDragon"
+        },
+        {
+            "name": "Cyberfox",
+            "path": "%appdata%\\8pecxstudios\\Cyberfox\\Profiles",
+            "type": "gecko",
+            "archive_entry": "Cyberfox"
+        },
+        {
+            "name": "BlackHawk",
+            "path": "%appdata%\\NETGATETechnologies\\BlackHawk\\Profiles",
+            "type": "gecko",
+            "archive_entry": "BlackHawk"
+        },
+        {
+            "name": "PaleMoon",
+            "path": "%appdata%\\MoonchildProductions\\PaleMoon\\Profiles",
+            "type": "gecko",
+            "archive_entry": "PaleMoon"
+        },
+        {
+            "name": "Basilisk",
+            "path": "%appdata%\\MoonchildProductions\\Basilisk\\Profiles",
+            "type": "gecko",
+            "archive_entry": "Basilisk"
+        },
+        {
+            "name": "BitTube",
+            "path": "%appdata%\\BitTube\\BitTubeBrowser\\Profiles",
+            "type": "gecko",
+            "archive_entry": "BitTube"
+        },
+        {
+            "name": "SlimBrowser",
+            "path": "%appdata%\\FlashPeak\\SlimBrowser\\Profiles",
+            "type": "gecko",
+            "archive_entry": "SlimBrowser"
+        },
+        {
+            "type": "system-info"
+        },
+        {
+            "name": "ImportantFiles",
+            "path": "%userprofile%\\Desktop",
+            "type": "fg-std",
+            "masks": [
+                "*.txt",
+                "*.xml",
+                "*.json",
+                "*.pdf",
+                "*.doc",
+                "*.docm",
+                "*.docx",
+                "*.xls",
+                "*.xlsx",
+                "*.csv",
+                "*.htm",
+                "*.html"
+            ],
+            "category": 0,
+            "max_depth": 3,
+            "max_fsize": 10,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "type": "screenshot"
+        },
+        {
+            "name": "ImportantFiles",
+            "path": "%userprofile%\\Desktop",
+            "type": "fg-std",
+            "masks": [
+                "*2fa*",
+                "*access_key*",
+                "*accesskey*",
+                "*acc*",
+                "*account*",
+                "*address*",
+                "*api*",
+                "*api_key*",
+                "*apikey*",
+                "*aptos*",
+                "*auth*",
+                "*avax*",
+                "*avalanche*",
+                "*backup*",
+                "*binance*",
+                "*bitfinex*",
+                "*bitcoin*",
+                "*bitstamp*",
+                "*blockchain*",
+                "*btc*",
+                "*bybit*",
+                "*coin*",
+                "*coinbase*",
+                "*crypt*",
+                "*crypto*",
+                "*dot*",
+                "*doge*",
+                "*dogecoin*",
+                "*electrum*",
+                "*eth*",
+                "*ethereum*",
+                "*exodus*",
+                "*gateio*",
+                "*gemini*",
+                "*huobi*",
+                "*keplr*",
+                "*key*",
+                "*keys*",
+                "*kraken*",
+                "*kucoin*",
+                "*ledger*",
+                "*litecoin*",
+                "*login*",
+                "*ltc*",
+                "*mail*",
+                "*meta*",
+                "*metamask*",
+                "*mexc*",
+                "*mnemonic*",
+                "*myetherwallet*",
+                "*near*",
+                "*okx*",
+                "*otp*",
+                "*pass*",
+                "*password*",
+                "*phantom*",
+                "*phrase*",
+                "*polkadot*",
+                "*priv_key*",
+                "*privatekey*",
+                "*purse*",
+                "*pwd*",
+                "*recovery*",
+                "*restore*",
+                "*ronin*",
+                "*ripple*",
+                "*safe*",
+                "*secret*",
+                "*seed*",
+                "*sol*",
+                "*solana*",
+                "*sui*",
+                "*token*",
+                "*trust*",
+                "*trezor*",
+                "*tron*",
+                "*trx*",
+                "*twofa*",
+                "*user*",
+                "*username*",
+                "*vault*",
+                "*wallet*",
+                "*xrp*"
+            ],
+            "category": 0,
+            "max_depth": 3,
+            "max_fsize": 8,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "Documents",
+            "path": "%userprofile%\\Documents",
+            "type": "fg-std",
+            "masks": [
+                "*2fa*",
+                "*access_key*",
+                "*accesskey*",
+                "*acc*",
+                "*account*",
+                "*address*",
+                "*api*",
+                "*api_key*",
+                "*apikey*",
+                "*aptos*",
+                "*auth*",
+                "*avax*",
+                "*avalanche*",
+                "*backup*",
+                "*binance*",
+                "*bitfinex*",
+                "*bitcoin*",
+                "*bitstamp*",
+                "*blockchain*",
+                "*btc*",
+                "*bybit*",
+                "*coin*",
+                "*coinbase*",
+                "*crypt*",
+                "*crypto*",
+                "*dot*",
+                "*doge*",
+                "*dogecoin*",
+                "*electrum*",
+                "*eth*",
+                "*ethereum*",
+                "*exodus*",
+                "*gateio*",
+                "*gemini*",
+                "*huobi*",
+                "*keplr*",
+                "*key*",
+                "*keys*",
+                "*kraken*",
+                "*kucoin*",
+                "*ledger*",
+                "*litecoin*",
+                "*login*",
+                "*ltc*",
+                "*mail*",
+                "*meta*",
+                "*metamask*",
+                "*mexc*",
+                "*mnemonic*",
+                "*myetherwallet*",
+                "*near*",
+                "*okx*",
+                "*otp*",
+                "*pass*",
+                "*password*",
+                "*phantom*",
+                "*phrase*",
+                "*polkadot*",
+                "*priv_key*",
+                "*privatekey*",
+                "*purse*",
+                "*pwd*",
+                "*recovery*",
+                "*restore*",
+                "*ronin*",
+                "*ripple*",
+                "*safe*",
+                "*secret*",
+                "*seed*",
+                "*sol*",
+                "*solana*",
+                "*sui*",
+                "*token*",
+                "*trust*",
+                "*trezor*",
+                "*tron*",
+                "*trx*",
+                "*twofa*",
+                "*user*",
+                "*username*",
+                "*vault*",
+                "*wallet*",
+                "*xrp*"
+            ],
+            "category": 0,
+            "max_depth": 1,
+            "max_fsize": 3,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "Downloads",
+            "path": "%userprofile%\\Downloads",
+            "type": "fg-std",
+            "masks": [
+                "*2fa*",
+                "*access_key*",
+                "*accesskey*",
+                "*acc*",
+                "*account*",
+                "*address*",
+                "*api*",
+                "*api_key*",
+                "*apikey*",
+                "*aptos*",
+                "*auth*",
+                "*avax*",
+                "*avalanche*",
+                "*backup*",
+                "*binance*",
+                "*bitfinex*",
+                "*bitcoin*",
+                "*bitstamp*",
+                "*blockchain*",
+                "*btc*",
+                "*bybit*",
+                "*coin*",
+                "*coinbase*",
+                "*crypt*",
+                "*crypto*",
+                "*dot*",
+                "*doge*",
+                "*dogecoin*",
+                "*electrum*",
+                "*eth*",
+                "*ethereum*",
+                "*exodus*",
+                "*gateio*",
+                "*gemini*",
+                "*huobi*",
+                "*keplr*",
+                "*key*",
+                "*keys*",
+                "*kraken*",
+                "*kucoin*",
+                "*ledger*",
+                "*litecoin*",
+                "*login*",
+                "*ltc*",
+                "*mail*",
+                "*meta*",
+                "*metamask*",
+                "*mexc*",
+                "*mnemonic*",
+                "*myetherwallet*",
+                "*near*",
+                "*okx*",
+                "*otp*",
+                "*pass*",
+                "*password*",
+                "*phantom*",
+                "*phrase*",
+                "*polkadot*",
+                "*priv_key*",
+                "*privatekey*",
+                "*purse*",
+                "*pwd*",
+                "*recovery*",
+                "*restore*",
+                "*ronin*",
+                "*ripple*",
+                "*safe*",
+                "*secret*",
+                "*seed*",
+                "*sol*",
+                "*solana*",
+                "*sui*",
+                "*token*",
+                "*trust*",
+                "*trezor*",
+                "*tron*",
+                "*trx*",
+                "*twofa*",
+                "*user*",
+                "*username*",
+                "*vault*",
+                "*wallet*",
+                "*xrp*"
+            ],
+            "category": 0,
+            "max_depth": 1,
+            "max_fsize": 1,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "zen",
+            "path": "%appdata%\\zen\\Profiles",
+            "type": "gecko",
+            "archive_entry": "Zen"
+        },
+        {
+            "name": "D",
+            "path": "D:\\",
+            "type": "fg-std",
+            "masks": [
+                "*2fa*",
+                "*access_key*",
+                "*accesskey*",
+                "*acc*",
+                "*account*",
+                "*address*",
+                "*api*",
+                "*api_key*",
+                "*apikey*",
+                "*aptos*",
+                "*auth*",
+                "*avax*",
+                "*avalanche*",
+                "*backup*",
+                "*binance*",
+                "*bitfinex*",
+                "*bitcoin*",
+                "*bitstamp*",
+                "*blockchain*",
+                "*btc*",
+                "*bybit*",
+                "*coin*",
+                "*coinbase*",
+                "*crypt*",
+                "*crypto*",
+                "*dot*",
+                "*doge*",
+                "*dogecoin*",
+                "*electrum*",
+                "*eth*",
+                "*ethereum*",
+                "*exodus*",
+                "*gateio*",
+                "*gemini*",
+                "*huobi*",
+                "*keplr*",
+                "*key*",
+                "*keys*",
+                "*kraken*",
+                "*kucoin*",
+                "*ledger*",
+                "*litecoin*",
+                "*login*",
+                "*ltc*",
+                "*mail*",
+                "*meta*",
+                "*metamask*",
+                "*mexc*",
+                "*mnemonic*",
+                "*myetherwallet*",
+                "*near*",
+                "*okx*",
+                "*otp*",
+                "*pass*",
+                "*password*",
+                "*phantom*",
+                "*phrase*",
+                "*polkadot*",
+                "*priv_key*",
+                "*privatekey*",
+                "*purse*",
+                "*pwd*",
+                "*recovery*",
+                "*restore*",
+                "*ronin*",
+                "*ripple*",
+                "*safe*",
+                "*secret*",
+                "*seed*",
+                "*sol*",
+                "*solana*",
+                "*sui*",
+                "*token*",
+                "*trust*",
+                "*trezor*",
+                "*tron*",
+                "*trx*",
+                "*twofa*",
+                "*user*",
+                "*username*",
+                "*vault*",
+                "*wallet*",
+                "*xrp*"
+            ],
+            "category": 0,
+            "max_depth": 1,
+            "max_fsize": 3,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "Documents",
+            "path": "%userprofile%\\Documents",
+            "type": "fg-std",
+            "masks": [
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*API*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*E*",
+                "**",
+                "*ID*",
+                "**",
+                "**",
+                "*PW*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*API*",
+                "**",
+                "**",
+                "*2FA*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*BTC*",
+                "**",
+                "*ETH*",
+                "**",
+                "*LTC*",
+                "**",
+                "**",
+                "*XRP*",
+                "**",
+                "*TRX*",
+                "**",
+                "*SOL*",
+                "**",
+                "*DOT*",
+                "**",
+                "*APTOS*",
+                "**",
+                "**",
+                "*AVAX*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*OKX*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*IO*",
+                "*MEXC*",
+                "**",
+                "**",
+                "**",
+                "**"
+            ],
+            "category": 0,
+            "max_depth": 2,
+            "max_fsize": 4,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "Desktop",
+            "path": "%userprofile%\\Desktop",
+            "type": "fg-std",
+            "masks": [
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*API*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*E*",
+                "**",
+                "*ID*",
+                "**",
+                "**",
+                "*PW*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*API*",
+                "**",
+                "**",
+                "*2FA*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*BTC*",
+                "**",
+                "*ETH*",
+                "**",
+                "*LTC*",
+                "**",
+                "**",
+                "*XRP*",
+                "**",
+                "*TRX*",
+                "**",
+                "*SOL*",
+                "**",
+                "*DOT*",
+                "**",
+                "*APTOS*",
+                "**",
+                "**",
+                "*AVAX*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*OKX*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*IO*",
+                "*MEXC*",
+                "**",
+                "**",
+                "**",
+                "**"
+            ],
+            "category": 0,
+            "max_depth": 2,
+            "max_fsize": 4,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "Desktop",
+            "path": "%userprofile%\\Desktop",
+            "type": "fg-std",
+            "masks": [
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Metamask*",
+                "*Trezor*",
+                "*Ledger*",
+                "*Exodus*",
+                "**",
+                "*BTC*",
+                "**",
+                "**",
+                "*ETH*",
+                "**",
+                "*LTC*",
+                "**",
+                "*DOGE*",
+                "**",
+                "*XRP*",
+                "**",
+                "*TRX*",
+                "*Solana*",
+                "*SOL*",
+                "**",
+                "*DOT*",
+                "*Near*",
+                "*Aptos*",
+                "*Sui*",
+                "**",
+                "*Avax*",
+                "*Phantom*",
+                "*Ronin*",
+                "*Keplr*",
+                "*Electrum*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Kraken*",
+                "*OKX*",
+                "**",
+                "*KuCoin*",
+                "*Bybit*",
+                "**",
+                "*Huobi*",
+                "*Bitfinex*",
+                "*Gemini*",
+                "*GateIO*",
+                "*MEXC*",
+                "*Bitstamp*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*API*",
+                "*API*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Trezor*",
+                "*Ledger*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Solana*",
+                "**",
+                "*Near*",
+                "*Aptos*",
+                "*Sui*",
+                "**",
+                "*Phantom*",
+                "*Ronin*",
+                "*Keplr*",
+                "*Electrum*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                ""
+            ],
+            "category": 0,
+            "max_depth": 3,
+            "max_fsize": 4,
+            "archive_entry": "ImportantFiles"
+        },
+        {
+            "name": "Documents",
+            "path": "%userprofile%\\Documents",
+            "type": "fg-std",
+            "masks": [
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Metamask*",
+                "*Trezor*",
+                "*Ledger*",
+                "*Exodus*",
+                "**",
+                "*BTC*",
+                "**",
+                "**",
+                "*ETH*",
+                "**",
+                "*LTC*",
+                "**",
+                "*DOGE*",
+                "**",
+                "*XRP*",
+                "**",
+                "*TRX*",
+                "*Solana*",
+                "*SOL*",
+                "**",
+                "*DOT*",
+                "*Near*",
+                "*Aptos*",
+                "*Sui*",
+                "**",
+                "*Avax*",
+                "*Phantom*",
+                "*Ronin*",
+                "*Keplr*",
+                "*Electrum*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Kraken*",
+                "*OKX*",
+                "**",
+                "*KuCoin*",
+                "*Bybit*",
+                "**",
+                "*Huobi*",
+                "*Bitfinex*",
+                "*Gemini*",
+                "*GateIO*",
+                "*MEXC*",
+                "*Bitstamp*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*API*",
+                "*API*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Trezor*",
+                "*Ledger*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                "*Solana*",
+                "**",
+                "*Near*",
+                "*Aptos*",
+                "*Sui*",
+                "**",
+                "*Phantom*",
+                "*Ronin*",
+                "*Keplr*",
+                "*Electrum*",
+                "**",
+                "**",
+                "**",
+                "**",
+                "**",
+                ""
+            ],
+            "category": 0,
+            "max_depth": 2,
+            "max_fsize": 3,
+            "archive_entry": "ImportantFiles"
+        }
+    ],
+    "browser_ext": {
+        "chromium": [
+            "abkahkcbhngaebpcgfmhkoioedceoigp",
+            "ablbagjepecncofimgjmdpnhnfjiecfm",
+            "abogmiocnneedmmepnohnhlijcjpcifd",
+            "acmacodkjbdgmoleebolmdjonilkdbch",
+            "admmjipmmciaobhojoghlmleefbicajg",
+            "aeachknmefphepccionboohckonoeemg",
+            "aeblfdkhhhdcdjpifhhbdiojplfjncoa",
+            "afbcbjpbpfadlkmhmclhkeeodmamcflc",
+            "aflkmfhebedbjioipglgcbcmnbpgliof",
+            "agoakfejjabomempkjlepdflaleeobhb",
+            "aholpfdialjgjfhomihkjbmgjidlcdno",
+            "aiifbnbfobpmeekipheeijimdpnlpgpp",
+            "aijcbedoijmgnlmjeegjaglmepbmpkpi",
+            "ajkifnllfhikkjbjopkhmjoieikeihjb",
+            "amkmjjmmflddogmhpjloimipbofnfjih",
+            "anokgmphncpekkhclmingpimjmcooifb",
+            "aodkkagnadcbobfpggfnjeongemjbjca",
+            "apnehcjmnengpnmccpaibjmhhoadaico",
+            "bcopgchhojmggmffilplmbdicgaihlkp",
+            "bedogdpgdnifilpgeianmmdabklhfkcn",
+            "bfnaelmomeimhlpmgjnjophhpkkoljpa",
+            "bfogiafebfohielmmehodmfbbebbbpei",
+            "bgpipimickeadkjlklgciifhnalhdjhe",
+            "bhghoamapcdpbohphigoooaddinpkbai",
+            "bhhhlbepdkbapadjdnnojkbgioiodbic",
+            "bifidjkcdpgfnlbcjpdkdcnbiooooblg",
+            "bkgplkpdgidlgmnlhdfakhcjfpfgjjkb",
+            "bkklifkecemccedpkhcebagjpehhabfb",
+            "blnieiiffboillknjnepogjhkgnoapac",
+            "bmhejbnmpamgfnomlahkonpanlkcfabg",
+            "bmikpgodpkclnkgmnpphehdgcimmided",
+            "bnfooenhhgcnhdkdjelgmmkpaemlnoek",
+            "bocpokimicclpaiekenaeelehdjllofo",
+            "bopcbmipnjdcdfflfgjdgdjejmgpoaab",
+            "caljgklbbfbcjjanaijlacgncafpegll",
+            "cgeeodpfagjceefieflmdfphplkenlfk",
+            "chgfefjpcobfbnpmiokfjjaglahmnded",
+            "cihmoadaighcejopammfbmddcmdekcje",
+            "cjelfplplebdjjenllpjcblmjkfcffne",
+            "cjmkndjhnagcfbpiemnkdpomccnjblmj",
+            "cjookpbkjnpkmknedggeecikaponcalb",
+            "cmndjbecilbocjfkibfbifhngkdmjgog",
+            "cnlhokffphohmfcddnibpohmkdfafdli",
+            "cnmamaachppnkjgnildpdmkaakejnhae",
+            "cnncmdhjacpkmjmkcafchppbnpnhdmon",
+            "cphhlgmgameodnhkjdmkpanlelnlohao",
+            "cpmkedoipcpimgecpmgpldfpohjplkpp",
+            "dakjaeligofcdjlcoifkiappabgladep",
+            "dbfoemgnkgieejfkaddieamagdfepnff",
+            "dbgnhckhnppddckangcjbkjnlddbjkna",
+            "didegimhafipceonhjepacocaffmoppf",
+            "djclckkglechooblngghdinmeemkbgci",
+            "dkdedlpgdmmkkfjabffeganieamfklkm",
+            "dlcobpjiigpikoobohmabehhmhfoodbb",
+            "dldjpboieedgcmpkchcjcbijingjcgok",
+            "dmjmllblpcbmniokccdoaiahcdajdjof",
+            "dmkamcknogkgcdfhhbddcghachkejeap",
+            "dngmlblcodfobpdpecaadgfbcggfjfnm",
+            "eajafomhmkipbjmfmhebemolkcicgfmd",
+            "ebfidpplhabeedpnhjnobghokpiioolj",
+            "efbglgofoippbgcjepnhiblaibcnclgk",
+            "egjidjbpglichdcondbcbdnbeeppgdph",
+            "eiaeiblijfjekdanodkjadfinkhbfgcd",
+            "einhphiffjfjogeofkpclobkcgennocm",
+            "ejbalbakoplchlghecdalmeeeajnimhm",
+            "ejbidfepgijlcgahbmbckmnaljagjoll",
+            "ejjladinnckdgjemekebdpeokbikhfci",
+            "eljmjmgjkbmpmfljlmklcfineebidmlo",
+            "ellkdbaphhldpeajbepobaecooaoafpg",
+            "enabgbdfcbaehmbigakijjabdpdnimlg",
+            "eokbbaidfgdndnljmffldfgjklpjkdoi",
+            "epapihdplajcdnnkdeiahlgigofloibg",
+            "fcckkdbjnoikooededlapcalpionmalo",
+            "fcfcfllfndlomdhbehjjcoimbgofdncg",
+            "fdchdcpieegfofnofhgdombfckhbcokj",
+            "fdcnegogpncmfejlfnffnofpngdiejii",
+            "fdfemjpbhpcjeadhbblfifdldedefnhe",
+            "fdjamakpfbbddfjaooikfcpapjohcfmg",
+            "feejiigddaafeojfddjjlmfkabimkell",
+            "ffbceckpkpbcmgiaehlloocglmijnpmp",
+            "ffnbelfdoeiohenkjibnmadjiehjhajb",
+            "fhbohimaelbohpjbbldcngcnapndodjp",
+            "fhilaheimglignddkjgofkcbgekhenbh",
+            "fhmfendgdocmcbmfikdcogofphimnkno",
+            "fihkakfobkmkjojpchpfgcmhfjnmnfpi",
+            "fiikommddbeccaoicoejoniammnalkfa",
+            "fijngjgcjhjmmpcmkeiomlglpeiijkld",
+            "fldfpgipfncgndfolcbkdeeknbbbnhcc",
+            "flpiciilemghbmfalicajoolhkkenfel",
+            "fmhmiaejopepamlcjkncpgpdjichnecm",
+            "fnjhmkhhmkbjkkabndcnnogagogbneec",
+            "fnnegphlobjdpkhecapkijjdkgcjhkib",
+            "fooolghllnmhmmndgjiamiiodkpenpbb",
+            "gaedmjdfmmahhbjefcbgaolhhanlaolb",
+            "gafhhkghbfjjkeiendhlofajokpaflmk",
+            "gdokollfhmnbfckbobkdbakhilldkhcj",
+            "gejiddohjgogedgjnonbofjigllpkmbf",
+            "ghmbeldphafepmbegfdlkpapadhbakde",
+            "gjagmgiddbbciopjhllkdnddhcglnemk",
+            "gjkdbeaiifkpoencioahhcilildpjhgh",
+            "gjlmehlldlphhljhpnlddaodbjjcchai",
+            "gkeelndblnomfmjnophbhfhcjbcnemka",
+            "gmohoglkppnemohbcgjakmgengkeaphi",
+            "gojhcdgcpbpfigcaejpfhfegekdgiblk",
+            "gpnihlnnodeiiaakbikldcihojploeca",
+            "hcflpincpppdclinealmandijcmnkbgn",
+            "hcjhpkgbmechpabifbggldplacolbkoh",
+            "hdkobeeifhdplocklknbnejdelgagbao",
+            "hdokiejnpimakedhajhdlcegeplioahd",
+            "heamnjbnflcikcggoiplibfommfbkjpj",
+            "hfdkpbblioghdghhkdppipefbchgpohn",
+            "hgbeiipamcgbdjhfflifkgehomnmglgk",
+            "hifafgmccdpekplomjjkcfgodnhcellj",
+            "hklhheigdmpoolooomdihmhlpjjdbklf",
+            "hldllnfgjbablcfcdcjldbbfopmohnda",
+            "hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+            "hnebcbhjpeejiclgbohcijljcnjdofek",
+            "hnfanknocfeofbddgcijnmhnfnkdnaad",
+            "hnhobjmcibchnmglfbldbfabcgaknlkj",
+            "hpcbfphmanablmeomioemmamedfffmpd",
+            "hpclkefagolihohboafpheddmmgdffjm",
+            "hpglfhgfnhbgpjdenjgmdgoeiappafln",
+            "ibnejdfjmmkpcnlpebklmnkoeoihofec",
+            "ibpjepoimpcdofeoalokgpjafnjonkpc",
+            "idnnbdplmphpflfnlkomgpfbpcgelopg",
+            "ieldiilncjhfkalnemgjbffmpomcaigi",
+            "ifckdpamphokdglkkdomedpdegcjhjdp",
+            "ifclboecfhkjbpmhgehodcjpciihhmif",
+            "igkpcodhieompeloncfnbekccinhapdb",
+            "ijmpgkjfkbfhoebgogflfebnmejmfbml",
+            "ilgcnhelpchnceeipipijaljkblbcobl",
+            "ilhaljfiglknggcoegeknjghdgampffk",
+            "imlcamfeniaidioeflifonfjeeppblda",
+            "imloifkgjagghnncjkhggdhalmcnfklk",
+            "infeboajgfhgbjpjbeppbkgnabfdkdaf",
+            "inlkhilmjmjomfcpdifpfgllhhlpnbej",
+            "iokeahhehimjnekafflcihljlcjccdbe",
+            "jbdaocneiiinmjbjlgalhcelgbejmnid",
+            "jfdlamikmbghhapbgfoogdffldioobgl",
+            "jgaaimajipbpdogpdglhaphldakikgef",
+            "jhfjfclepacoldmjmkmdlmganfaalklb",
+            "jhgnbkkipaallpehbohjmkbjofjdmeid",
+            "jiepnaheligkibgcjgjepjfppgbcghmp",
+            "jiidiaalihmmhddjgbnbgdfflelocpak",
+            "jnkelfanjkeadonecabehalmbgpfodjm",
+            "jnlgamecbpmbajjfhmmmlhejkemejdma",
+            "jnmbobjmhlngoefaiojfljckilhhlhcj",
+            "jojhfeoedkpkglbfimdfabpdfjaoolaf",
+            "kamfleanhcmjelnhaeljonilnmjpkcjc",
+            "kbdcddcmgoplfockflacnnefaehaiocb",
+            "keenhcnmdmjjhincpilijphpiohdppno",
+            "kfdniefadaanbjodldohaedphafoffoh",
+            "kfmlopbepahlcjbkfnnklglgibbopkbk",
+            "kgdijkcfiglijhaglibaidbipiejjfdp",
+            "kglcipoddmbniebnibibkghfijekllbl",
+            "khhapgacijodhjokkcjmleaempmchlem",
+            "khpkpbbcccdmmclmpigdgddabeilkdpd",
+            "kjmoohlgokccodicjjfebfomlbljgfhk",
+            "kkpllkodjeloidieedojogacfhpaihoh",
+            "klghhnkeealcohjjanjjdaeeggmfmlpl",
+            "klnaejjgbibmhlephnhpmaofohgkpgkd",
+            "kmcfomidfpdkfieipokbalgegidffkal",
+            "kmhcihpebfmpgmihbkipmjlmmioameka",
+            "kmphdnilpmdejikjdnlbcnmnabepfgkh",
+            "kncchdigobghenbbaddojjnnaogfppfj",
+            "kpfopkelmapcoipemfendmdcghnegimn",
+            "kppfdiipphfccemcignhifpjkapfbihd",
+            "lccbohhgfkdikahanoclbdmaolidjdfl",
+            "ldinpeekobnhjjdofggfgjlcehhmanlj",
+            "lfmmjkfllhmfmkcobchabopkcefjkoip",
+            "lgbjhdkjmpgjgcbcdlhkokkckpjmedgc",
+            "lgmpcpglpngdoalbgeoldeajfclnhafa",
+            "lkcjlnjfpbikmcmbachjpdbijejflpcm",
+            "lkpmkhpnhknhmibgnmmhdhgdilepfghe",
+            "lmkncnlpeipongihbffpljgehamdebgi",
+            "lnnnmfcpbkafcpgdilckhmhbkkbpkmid",
+            "lodccjjbdhfakaekdiahmedfbieldgik",
+            "loinekcabhlmhjjbocijdoimmejangoa",
+            "lpfcbjknijpeeillifnkikgncikgfhdo",
+            "lpilbniiabackdjcionkobglmddfbcjo",
+            "mcohilncbfahbmgdjkbpemcciiolgcge",
+            "mdjmfdffdcmnoblignmgpommbefadffd",
+            "mfgccjchihfkkindfppnaooecgfneiii",
+            "mfhbebgoclkghebffdldpobeajmbecfk",
+            "mgffkfbidihjpoaomajlbgchddlicgpn",
+            "mjgkpalnahacmhkikiommfiomhjipgjn",
+            "mkpegjkblkkefacfnmkajcjmabijhclg",
+            "mlhdnjepakdfdaabohjgegnomlgeejep",
+            "mmhlniccooihdimnnjhamobppdhaolme",
+            "mmmjbcfofconkannjonfmjjajpllddbg",
+            "mnfifefkajgofkcjkemidiaecocnkjeh",
+            "momakdpclmaphlamgjcndbgfckjfpemp",
+            "mopnmbcafieddcagagdcbnhejhlodfdd",
+            "naepdomgkenhinolocfifgehidddafch",
+            "nanjmdknhkinifnkgdcggcfnhdaammmj",
+            "nebnhfamliijlghikdgcigoebonmoibm",
+            "nhhldecdfagpbfggphklkaeiocfnaafm",
+            "nhihjlnjgibefgjhobhcphmnckoogdea",
+            "nhnkbkgjikgcigadomkphalanndcapjk",
+            "njimencmbpfibibelblbbabiffimoajp",
+            "nkbihfbeogaeaoehlefnkodbefgpgknn",
+            "nkddgncdjgjfcddamfgcmfnlhccnimig",
+            "nknhiehlklippafakaeklbeglecifhad",
+            "nlbmnnijcnlegkjjpcfjclmcfggfefdm",
+            "nlgbhdfgdhgbiamfdfmbikcdghidoadd",
+            "nngceckbapebfimnlniiiahkandclblb",
+            "nnpmfplkfogfpmcngplhnbdnnilmcdcg",
+            "nopnfnlbinpfoihclomelncopjiioain",
+            "nphplpgoakhhjchkkhmiggakijnkhfnd",
+            "oboonakemofpalcgghocfoadofidjkkk",
+            "odbfpeeihdkbihmopkbjmoonfanlbfcl",
+            "oeljdldpnmdbchonielidgobddffflal",
+            "ojbcfhjmpigfobfclfflafhblgemeidi",
+            "ojggmchlghnjlapmfbnjholfjkiidbch",
+            "omaabbefbmiijedngplfjmnooppbclkk",
+            "onhogfjeacnfoofkfgppdlbmlmnplgbn",
+            "onofpnbbkehpmmoabgpcpmigafmmnjhl",
+            "ookjlbkiijinhpmnjffcofjonbfbgaoc",
+            "opcgpfmipidbgpenhmajoajpbobppdil",
+            "opfgelmcmbiajamepnmloijbpoleiama",
+            "papngmkmknnmfhabbckobgfpihpdgplk",
+            "pcndjhkinnkaohffealmlmhaepkpmgkb",
+            "pdadjkfkgcafgbceimcpbkalnfnepbnk",
+            "pdgbckgdncnhihllonhnjbdoighgpimk",
+            "pdliaogehgdbhbnmkklieghmmjkpigpa",
+            "phkbamefinggmakgklpkljjmgibohnba",
+            "pnbabdldpneocemigmicebglmmfcjccm",
+            "pnlccmojcmeohlpggmfnbbiapkmbliob",
+            "pnndplcbkakcplkjnolgbkdgjikjednm",
+            "pocmplpaccanhmnllbbkpgfliimjljgo",
+            "ppbibelpcjmhbdihakflkdcoccbgbkpo",
+            "ppdadbejkmjnefldpcdjhnkpbjkikoip",
+            "bnfdmghkeppfadphbnkjcicejfepnbfe",
+            "gcmahhkjkpigcpfpmdjnbiakmbdegfeh",
+            "blgcbajigpdfohpgcmbbfnphcgifjopc",
+            "andhndehpcjpmneneealacgnmealilal",
+            "nhccebmfjcbhghphpclcfdkkekheegop",
+            "fopmedgnkfpebgllppeddmmochcookhc",
+            "fdojfgffiecmmppcjnahfgiignlnehap",
+            "jiiigigdinhhgjflhljdkcelcjfmplnd",
+            "pmbjpcmaaladnfpacpmhmnfmpklgbdjb",
+            "opnnmgopaggjpapnoknbphfpjfadbddc",
+            "ajkigpnleboodhdlminnlmldegieilfc",
+            "einnioafmpimabjcddiinlhmijaionap",
+            "cgddkajmbckbjbnondgfcbcojjjdnmji",
+            "dbgibbbeebmbmmhmebogidfbfehejgfo",
+            "bofddndhbegljegmpmnlbhcejofmjgbn",
+            "lgdfffagihonfnkcffpikpifhegcdkge",
+            "fpkhgmpbidmiogeglndfbkegfdlnajnf",
+            "ghlmndacnhlaekppcllcpcjjjomjkjpg",
+            "gjnckgkfmgmibbkoficdidcljeaaaheg",
+            "canipghmckojpianfgiklhbgpfmhjkjg",
+            "hfajfpbjlmembfdlhakjmefnbhjddofb",
+            "mpeengabcnhhjjgleiodimegnkpcenbk",
+            "cgadeiniijaimpdmhfklcphfnglpkmll",
+            "pbpjkcldjiffchgbbndmhojiacbgflha",
+            "aheklkkgnmlknpgogcnhkbenfllfcfjb",
+            "ajcicjlkibolbeaaagejfhnofogocgcj",
+            "hjgoblidjnnnamdkinbichnfbmghmafd",
+            "gfenajajnjjmmdojhdjmnngomkhlnfjl",
+            "dfeccadlilpndjjohbjdblepmjeahlmm",
+            "hkkpjehhcnhgefhbdcgfkeegglpjchdc",
+            "gfenajajnjjmmdojhdjmnngomkhlnfjl",
+            "jbkfoedolllekgbhcbcoahefnbanhhlh",
+            "lfochlioelphaglamdcakfjemolpichk",
+            "lcccdlklhahfmobgpnilndimkankpnkg",
+            "dppgmdbiimibapkepcbdbmkaabgiofem",
+            "emgfgdclgfeldebanedpihppahgngnle",
+            "keokhigifjinncljedmendkbikiakicj",
+            "ljpdiapgjljgaiiilgojopoonfnnpfgj",
+            "bbcinlkgjjkejfdpemiealijmmooekmp",
+            "gehmmocbbkpblljhkekmfhjpfbkclbph",
+            "apenkfbbpmhihehmihndmmcdanacolnh",
+            "niihfokdlimbddhfmngnplgfcgpmlido"
+        ]
+    }
+}
