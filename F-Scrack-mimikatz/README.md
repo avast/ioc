@@ -1,6 +1,6 @@
 # IoC for F-Scrack-mimikatz
 
-Malware analysis and more technical information at <https://decoded.avast.io/ondrejmokos/f-scrack-mimikatz-a-bundle-of-tools/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/f-scrack-mimikatz-a-bundle-of-tools>
 
 
 ### Table of Contents

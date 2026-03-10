@@ -1,6 +1,6 @@
 ## Smarter Coffee firmware
 
-Blog post: https://decoded.avast.io/martinhron/the-fresh-smell-of-ransomed-coffee/
+Blog post: https://www.gendigital.com/blog/insights/research/the-fresh-smell-of-ransomed-coffee-0
 
 
 #### SHA256 as found in Android application versions

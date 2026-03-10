@@ -1,6 +1,6 @@
 # IoC for Almaq
 
-Malware analysis and more technical information at <https://decoded.avast.io/romanalinkeova/what's-new-in-this-year's-almanaq?/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/whats-new-in-this-years-almanaq>
 
 
 ### Table of Contents

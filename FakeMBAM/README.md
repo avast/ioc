@@ -1,6 +1,6 @@
 # IOC for FakeMBAM
 
-Malware analysis and more technical information at <https://decoded.avast.io/janvojtesek/fakembam-backdoor-delivered-through-software-updates/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/fakembam-backdoor-delivered-through-software-updates>
 
 
 ### Table of Contents

@@ -1,6 +1,6 @@
 # IoC for Microcin
 
-Malware analysis and more technical information at <https://decoded.avast.io/luigicamastra/apt-group-planted-backdoors-targeting-high-profile-networks-in-central-asia/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/apt-group-planted-backdoors-targeting-high-profile-networks-in-central-asia>
 
 
 ### Table of Contents

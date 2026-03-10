@@ -1,9 +1,9 @@
 # IoC for Meh part 2
 
-Malware analysis and more technical information at <https://decoded.avast.io/janrubin/meh-2-2/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/meh-2-2>
 
-The technical analysis of the first part of the blogpost series can be found at <https://decoded.avast.io/janrubin/complex-obfuscation-meh/>
-IoCs of the first part of the blogpost series can be found at <https://github.com/avast/ioc/tree/master/Meh>
+The technical analysis of the first part of the blogpost series can be found at <https://www.gendigital.com/blog/insights/research/complex-obfuscation-meh>
+IoCs of the first part of the blogpost series can be found at <https://github.com/gendigitalinc/ioc/tree/master/Meh>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

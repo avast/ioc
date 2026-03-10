@@ -1,6 +1,6 @@
 # IoC for Compromised Philippine Navy Certificate
 
-Malware analysis and more technical informations at <https://decoded.avast.io/threatintel/avast-finds-compromised-philippine-navy-certificate-used-in-remote-access-tool/>
+Malware analysis and more technical informations at <https://www.gendigital.com/blog/insights/research/avast-finds-compromised-philippine-navy-certificate-used-in-remote-access-tool>
 
 
 ### Table of Contents

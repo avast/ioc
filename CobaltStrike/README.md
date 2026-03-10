@@ -1,6 +1,6 @@
 # Cobalt Strike tools and yara rules
 
-More technical informations at <https://decoded.avast.io/threatintel/decoding-cobalt-strike-understanding-payloads/>
+More technical informations at <https://www.gendigital.com/blog/insights/research/decoding-cobalt-strike-understanding-payloads>
 
 ### Table of Contents
 * [api_hashes](api_hashes) - API hash generator, win10 hash list

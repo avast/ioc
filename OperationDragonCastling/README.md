@@ -1,6 +1,6 @@
 # IoC from Operation Dragon Castling
 
-Malware analysis and more technical information at <https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/operation-dragon-castling-apt-group-targeting-betting-companies>
 
 
 ### Table of Contents

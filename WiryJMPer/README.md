@@ -1,6 +1,6 @@
 # IoC for WiryJMPer
 
-Malware analysis and more technical information at <https://decoded.avast.io/adolfstreda/the-tangle-of-wiryjmper's-obfuscation/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/the-tangle-of-wiryjmpers-obfuscation>
 
 
 ### Table of Contents

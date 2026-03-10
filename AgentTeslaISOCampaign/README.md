@@ -1,6 +1,6 @@
 # IoC from Operation Dragon Castling
 
-Malware analysis and more technical information at <https://decoded.avast.io/pavelnovak/agenttesla-is-threatening-businesses-around-the-world-with-a-new-campaign/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/agenttesla-is-threatening-businesses-around-the-world-with-a-new-campaign>
 
 
 ### Table of Contents

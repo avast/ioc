@@ -1,6 +1,6 @@
 # IoC for ViperSoftX and VenomSoftX
 
-Malware analysis and more technical information at <https://decoded.avast.io/janrubin/vipersoftx-hiding-in-system-logs-and-spreading-venomsoftx>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/vipersoftx-hiding-in-system-logs-and-spreading-venomsoftx>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

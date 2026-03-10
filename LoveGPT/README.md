@@ -1,6 +1,6 @@
 # Hashes for LoveGPT
 
-Tool analysis and more technical informations at <https://decoded.avast.io/threatintel/lovegpt-how-single-ladies-looking-for-your-data-upped-their-game-with-chatgpt/>
+Tool analysis and more technical informations at <https://www.gendigital.com/blog/insights/research/love-gpt-how-single-ladies-looking-for-your-data-upped-their-game-with-chatgpt>
 
 
 ### Table of Contents

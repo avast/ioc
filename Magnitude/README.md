@@ -1,6 +1,6 @@
 # IoC for Magnitude Exploit Kit
 
-Malware analysis and more technical information at <https://decoded.avast.io/janvojtesek/magnitude-exploit-kit-still-alive-and-kicking/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/magnitude-exploit-kit-still-alive-and-kicking>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

@@ -1,6 +1,6 @@
 # IOC for Retadup
 
-Malware analysis and more technical information at <https://decoded.avast.io/janvojtesek/putting-an-end-to-retadup-a-malicious-worm-that-infected-hundreds-of-thousands/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/putting-an-end-to-retadup-a-malicious-worm-that-infected-hundreds-of-thousands>
 
 
 ### Table of Contents

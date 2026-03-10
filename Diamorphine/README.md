@@ -1,6 +1,6 @@
 # IoC for Diamorphine
 
-Avast's full new Diamorphine variant report is available at <https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/>
+Gen Threat Labs' full new Diamorphine variant report is available at <https://www.gendigital.com/blog/insights/research/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild>
 
 ### Table of Contents
 * [YARA](#yara)
@@ -17,7 +17,7 @@ import "magic"
 rule diamorphine_sequences
 {
     meta:
-        reference = "https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/"
+        reference = "https://www.gendigital.com/blog/insights/research/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild"
     strings:
         $s00 = "hacked_kill"
 

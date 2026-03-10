@@ -1,6 +1,6 @@
 # IoC for MafiaWare666 ransomware
 
-Malware analysis and more technical information at <https://decoded.avast.io/threatresearch/decrypted-mafiaware666-ransomware/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/decrypted-mafiaware666-ransomware>
 
 Download the free decryptor [here](https://files.avast.com/files/decryptor/avast_decryptor_mafiaware666.exe).
 

@@ -1,6 +1,6 @@
 # IoC for MyKings - clipboard stealer
 
-Malware analysis and more technical information at <https://decoded.avast.io/janrubin/the-king-is-dead-long-live-mykings/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/the-king-is-dead-long-live-mykings>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

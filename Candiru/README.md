@@ -1,6 +1,6 @@
 # IoC for Candiru
 
-Analysis and more technical information at <https://decoded.avast.io/janvojtesek/the-return-of-candiru-zero-days-in-the-middle-east/>
+Analysis and more technical information at <https://www.gendigital.com/blog/insights/research/the-return-of-candiru-zero-days-in-the-middle-east>
 
 ### Table of Contents
 * [Network indicators](#network-indicators)

@@ -1,6 +1,6 @@
 # VB6 Research samples
 
-More technical informations at <https://decoded.avast.io/davidzimmer/reusing-vb6-p-code-functions/>
+More technical informations at <https://www.gendigital.com/blog/insights/research/binary-reuse-of-vb6-p-code-functions>
 
 ### Table of Contents
 

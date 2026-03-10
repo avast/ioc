@@ -1,6 +1,6 @@
 # IoC for Meh
 
-Malware analysis and more technical information at <https://decoded.avast.io/janrubin/complex-obfuscation-meh/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/complex-obfuscation-meh>
 
 
 ### Table of Contents

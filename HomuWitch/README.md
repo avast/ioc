@@ -1,6 +1,6 @@
 # IOC for HomuWitch ransomware
 
-Malware analysis and more technical information at <https://decoded.avast.io/threatresearch/decrypted-homuwitch-ransomware/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/decrypted-homuwitch-ransomware>
 
 
 ### Table of Contents

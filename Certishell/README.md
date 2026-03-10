@@ -1,6 +1,6 @@
 # IOC for Certishell
 
-Malware analysis and more technical informations at <https://decoded.avast.io/danielbenes/warez-users-fell-for-certishell/>
+Malware analysis and more technical informations at <https://www.gendigital.com/blog/insights/research/warez-users-fell-for-certishell>
 
 
 ### Table of Contents

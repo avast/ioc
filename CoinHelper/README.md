@@ -1,6 +1,6 @@
 # IOC for CoinHelper
 
-Malware analysis and more technical informations at <https://decoded.avast.io/janrubin/toss-a-coin-to-your-helper/>
+Malware analysis and more technical informations at <https://www.gendigital.com/blog/insights/research/toss-a-coin-to-your-helper>
 
 
 ### Table of Contents

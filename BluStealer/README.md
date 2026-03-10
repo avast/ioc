@@ -1,6 +1,6 @@
 # IoC for BluStealer
 
-Malware analysis and more technical information at <https://decoded.avast.io/anhho/blustealer/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/blustealer-from-spyex-to-thunderfox>
 
 
 ### Table of Contents

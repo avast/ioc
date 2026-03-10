@@ -1,6 +1,6 @@
 # IoC for NeedleDropper
 
-Malware analysis and more technical information at <https://decoded.avast.io/threatresearch/needledropper/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/needledropper>
 
 ## NeedleDropper samples
 #### SHA-256

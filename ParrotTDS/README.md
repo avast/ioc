@@ -1,6 +1,6 @@
 # IoC for ParrotTDS and related SocGholish campaign
 
-Analysis is available at https://decoded.avast.io/janrubin/parrot-tds-takes-over-web-servers-and-threatens-millions/.
+Analysis is available at https://www.gendigital.com/blog/insights/research/parrot-tds-takes-over-web-servers-and-threatens-millions.
 
 ## Samples (SHA-256)
 #### Binary and related files

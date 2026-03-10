@@ -1,7 +1,7 @@
 # IoC for FudModule
 
 GenDigital's full FudModule v3 report is available at <https://www.gendigital.com/blog/news/innovation/lazarus-fudmodule-v3>
-Avast's full FudModule report is available at <https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/>
+The original FudModule report is available at <https://www.gendigital.com/blog/insights/research/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day>
 
 ### Table of Contents
 * [YARA](#yara)
@@ -14,7 +14,7 @@ Avast's full FudModule report is available at <https://decoded.avast.io/janvojte
 rule fudmodule_v2_sequences
 {
     meta:
-        reference = "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/"
+        reference = "https://www.gendigital.com/blog/insights/research/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day"
     strings:
         $s00 = "overwrite pvmode failed. %X"
         $s01 = "%s\\temp\\tem1245.tmp"

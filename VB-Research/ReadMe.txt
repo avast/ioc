@@ -40,6 +40,6 @@ A brief overview of the technique is as follows:
 
 Note: This code is dependant on this particular version of the vb runtime (msvbvm60.dll)
 
-See the following Avast blog post for more details: https://decoded.avast.io/davidzimmer/scripting-arbitrary-vb6-applications/
+See the following blog post for more details: https://www.gendigital.com/blog/insights/research/scripting-arbitrary-vb6-applications
 
 

@@ -1,6 +1,6 @@
 # IoC for Chaes
 
-Malware analysis and more technical information at <https://decoded.avast.io/anhho/chasing-chaes-kill-chain/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/chasing-chaes-kill-chain>
 
 
 ### Table of Contents

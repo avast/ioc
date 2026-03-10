@@ -1,6 +1,6 @@
 # IoC from Backdoored Client from Mongolian CA MonPass
 
-Malware analysis and more technical information at <https://decoded.avast.io/luigicamastra/backdoored-client-from-mongolian-ca-monpass/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/backdoored-client-from-mongolian-ca-monpass>
 
 
 ### Table of Contents

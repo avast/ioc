@@ -1,6 +1,6 @@
 # IoC for CacheFlow
 
-Malware analysis and more technical information at <https://decoded.avast.io/janvojtesek/backdoored-browser-extensions-hid-malicious-traffic-in-analytics-requests/> 
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/backdoored-browser-extensions-hid-malicious-traffic-in-analytics-requests> 
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

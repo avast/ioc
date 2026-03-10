@@ -1,6 +1,6 @@
 # IOC for Backdoor on US Government Commission Network 
 
-Malware analysis and more technical informations at <https://decoded.avast.io/threatintel/avast-finds-backdoor-on-us-government-commission-network/>
+Malware analysis and more technical informations at <https://www.gendigital.com/blog/insights/research/avast-finds-backdoor-on-us-government-commission-network>
 
 
 ## Samples (SHA-256)

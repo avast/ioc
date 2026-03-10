@@ -1,6 +1,6 @@
 # IoC for CoViper
 
-Malware analysis and more technical information at <https://decoded.avast.io/janrubin/coviper-locking-down-computers-during-lockdown/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/coviper-locking-down-computers-during-lockdown>
 
 
 ### Table of Contents

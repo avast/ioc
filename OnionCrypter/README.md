@@ -1,6 +1,6 @@
 # IoC for OnionCrypter
 
-Malware analysis and more technical information at <https://decoded.avast.io/jakubkaloc/onion-crypter/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/hidden-menace-peeling-back-the-secrets-of-onioncrypter>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

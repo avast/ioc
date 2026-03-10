@@ -1,6 +1,6 @@
 # IoC for Raspberry Robin/Roshtyak
 
-Malware analysis and more technical information at <https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/raspberry-robins-roshtyak-a-little-lesson-in-trickery>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)

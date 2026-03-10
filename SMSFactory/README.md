@@ -6,7 +6,7 @@ SMSFactory has a few versions, each with numerous samples that are nearly identi
 
 The IOCs include several samples from each version as well as C2 servers used to deliver commands.
 
-More technical informations at https://blog.avast.com/smsfactory-android-trojan
+More technical informations at https://newsroom.gendigital.com/2022-06-01-Avast-Researchers-Warn-Users-of-Android-Trojan-SMSFactory
 
 ### Most recent version with SMS and call features
 ```

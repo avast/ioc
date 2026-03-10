@@ -1,6 +1,6 @@
 # IoC for GuptiMiner
 
-Malware analysis and more technical information at <https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/>
+Malware analysis and more technical information at <https://www.gendigital.com/blog/insights/research/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining>
 
 ### Table of Contents
 * [Samples (SHA-256)](#samples-sha-256)
