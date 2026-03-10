@@ -505,7 +505,7 @@ def raw_parser(p):
 
 ### Main
 def main():
-    print('%s\nCS Raw payload parser v%.02f%sAvast Software s.r.o' % (HR,VERSION,' '*33))
+    print('%s\nCS Raw payload parser v%.02f%sGen Threat Labs' % (HR,VERSION,' '*38))
     if len(sys.argv) < 2:
         print('%s\n[!] Please specify input file or directory.' % HR)
         sys.exit()

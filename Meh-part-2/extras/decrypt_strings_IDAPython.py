@@ -1,4 +1,4 @@
-__author__ = "Jan Rubin, Avast Software"
+__author__ = "Jan Rubin, Gen Threat Labs"
 
 from base64 import b64decode
 from functools import reduce

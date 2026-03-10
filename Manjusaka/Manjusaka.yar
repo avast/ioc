@@ -15,8 +15,8 @@ private rule EXE
 rule manjusaka_framework_go_build_id
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 		hash = "955e9bbcdf1cb230c5f079a08995f510a3b96224545e04c1b1f9889d57dd33c1" // ELF v01
 		hash = "f275ca5129399a521c8cd9754b1133ecd2debcfafc928c01df6bd438522c564a" // ELF v02 upx
 		hash = "637f3080526d7d0ad5eb41bf9331fb51aaafd30f2895c00a44ad905154f76d70" // ELF v02 unpacked
@@ -64,8 +64,8 @@ rule manjusaka_framework_go_build_id
 rule manjusaka_payload_encoded_hexstring
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// ELF v01 and v02
 		$s01 = "1f8b08000000000000ff7cdd099c1ae5fd3ff031e620c6038d5aea493df18a24c688372626c1180d468d78d465b34b96357be0ee2612354ab5553caa68ad454d158f2a566b51ab454d2dde"
@@ -95,8 +95,8 @@ rule manjusaka_payload_encoded_hexstring
 rule manjusaka_payload_elf
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 		hash = "0063e5007566e0a7e8bfd73c4628c6d140b332df4f9afbb0adcf0c832dd54c2b" // 01, v02
 		hash = "76eb9af0e2f620016d63d38ddb86f0f3f8f598b54146ad14e6af3d8f347dd365" // v03 (dev)
 		hash = "0a5174b5181fcd6827d9c4a83e9f0423838cbb5a6b23d012c3ae414b31c8b0da" // v03
@@ -124,8 +124,8 @@ rule manjusaka_payload_elf
 rule manjusaka_payload_mz
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 		hash = "6839180bc3a2404e629c108d7e8c8548caf9f8249bbbf658b47c00a15a64758f" // v01
 		hash = "cd0c75638724c0529cc9e7ca0a91d2f5d7221ef2a87b65ded2bc1603736e3b5d" // v02
 		hash = "d5918611b1837308d0c6d19bff4b81b00d4f6a30c1240c00a9e0a9b08dde1412" // v03 (dev)

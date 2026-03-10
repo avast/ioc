@@ -1,8 +1,8 @@
 rule cobaltstrike_raw_payload_dns_stager_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop
 		$h01 = { FC E8 89 00 00 00 60 89 E5 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 }
@@ -28,8 +28,8 @@ rule cobaltstrike_raw_payload_dns_stager_x86
 rule cobaltstrike_raw_payload_smb_stager_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop
 		$h01 = { FC E8 89 00 00 00 60 89 E5 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 }
@@ -59,8 +59,8 @@ rule cobaltstrike_raw_payload_smb_stager_x86
 rule cobaltstrike_raw_payload_tcp_bind_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop
 		$h01 = { FC E8 89 00 00 00 60 89 E5 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 }
@@ -98,8 +98,8 @@ rule cobaltstrike_raw_payload_tcp_bind_x86
 rule cobaltstrike_raw_payload_tcp_bind_x64
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop
 		$h01 = { FC 48 83 E4 F0 E8 C8 00 00 00 41 51 41 50 52 51 56 48 31 D2 65 48 8B 52 }
@@ -135,8 +135,8 @@ rule cobaltstrike_raw_payload_tcp_bind_x64
 rule cobaltstrike_raw_payload_tcp_reverse_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop
 		$h01 = { FC E8 89 00 00 00 60 89 E5 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 }
@@ -166,8 +166,8 @@ rule cobaltstrike_raw_payload_tcp_reverse_x86
 rule cobaltstrike_raw_payload_tcp_reverse_x64
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop
 		$h01 = { FC 48 83 E4 F0 E8 C8 00 00 00 41 51 41 50 52 51 56 48 31 D2 65 48 8B 52 }
@@ -197,8 +197,8 @@ rule cobaltstrike_raw_payload_tcp_reverse_x64
 rule cobaltstrike_raw_payload_http_stager_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop
 		$h01 = { FC E8 89 00 00 00 60 89 E5 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 }
@@ -234,8 +234,8 @@ rule cobaltstrike_raw_payload_http_stager_x86
 rule cobaltstrike_raw_payload_http_stager_x64
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop
 		$h01 = { FC 48 83 E4 F0 E8 C8 00 00 00 41 51 41 50 52 51 56 48 31 D2 65 48 8B 52 }
@@ -266,8 +266,8 @@ rule cobaltstrike_raw_payload_http_stager_x64
 rule cobaltstrike_raw_payload_https_stager_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop
 		$h01 = { FC E8 89 00 00 00 60 89 E5 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 }
@@ -306,8 +306,8 @@ rule cobaltstrike_raw_payload_https_stager_x86
 rule cobaltstrike_raw_payload_https_stager_x64
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop
 		$h01 = { FC 48 83 E4 F0 E8 C8 00 00 00 41 51 41 50 52 51 56 48 31 D2 65 48 8B 52 }
@@ -339,8 +339,8 @@ rule cobaltstrike_raw_payload_https_stager_x64
 rule cobaltstrike_raw_payload_dns_stager_x86_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop utf-16
 		$h01 = { FC 00 E8 00 89 00 00 00 00 00 00 00 60 00 89 00 E5 00 31 00 D2 00 64 00 8B 00 52 00 30 00 8B 00 52 00 0C 00 8B 00 52 00 14 00 8B 00 72 00 28 }
@@ -356,8 +356,8 @@ rule cobaltstrike_raw_payload_dns_stager_x86_utf16
 rule cobaltstrike_raw_payload_smb_stager_x86_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop utf-16
 		$h01 = { FC 00 E8 00 89 00 00 00 00 00 00 00 60 00 89 00 E5 00 31 00 D2 00 64 00 8B 00 52 00 30 00 8B 00 52 00 0C 00 8B 00 52 00 14 00 8B 00 72 00 28 }
@@ -375,8 +375,8 @@ rule cobaltstrike_raw_payload_smb_stager_x86_utf16
 rule cobaltstrike_raw_payload_tcp_bind_x86_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop utf-16
 		$h01 = { FC 00 E8 00 89 00 00 00 00 00 00 00 60 00 89 00 E5 00 31 00 D2 00 64 00 8B 00 52 00 30 00 8B 00 52 00 0C 00 8B 00 52 00 14 00 8B 00 72 00 28 }
@@ -398,8 +398,8 @@ rule cobaltstrike_raw_payload_tcp_bind_x86_utf16
 rule cobaltstrike_raw_payload_tcp_bind_x64_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop utf16
 		$h01 = { FC 00 48 00 83 00 E4 00 F0 00 E8 00 C8 00 00 00 00 00 00 00 41 00 51 00 41 00 50 00 52 00 51 00 56 00 48 00 31 00 D2 00 65 00 48 00 8B 00 52 }
@@ -420,8 +420,8 @@ rule cobaltstrike_raw_payload_tcp_bind_x64_utf16
 rule cobaltstrike_raw_payload_tcp_reverse_x86_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop utf-16
 		$h01 = { FC 00 E8 00 89 00 00 00 00 00 00 00 60 00 89 00 E5 00 31 00 D2 00 64 00 8B 00 52 00 30 00 8B 00 52 00 0C 00 8B 00 52 00 14 00 8B 00 72 00 28 }
@@ -439,8 +439,8 @@ rule cobaltstrike_raw_payload_tcp_reverse_x86_utf16
 rule cobaltstrike_raw_payload_tcp_reverse_x64_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop utf16
 		$h01 = { FC 00 48 00 83 00 E4 00 F0 00 E8 00 C8 00 00 00 00 00 00 00 41 00 51 00 41 00 50 00 52 00 51 00 56 00 48 00 31 00 D2 00 65 00 48 00 8B 00 52 }
@@ -458,8 +458,8 @@ rule cobaltstrike_raw_payload_tcp_reverse_x64_utf16
 rule cobaltstrike_raw_payload_http_stager_x86_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop utf-16
 		$h01 = { FC 00 E8 00 89 00 00 00 00 00 00 00 60 00 89 00 E5 00 31 00 D2 00 64 00 8B 00 52 00 30 00 8B 00 52 00 0C 00 8B 00 52 00 14 00 8B 00 72 00 28 }
@@ -480,8 +480,8 @@ rule cobaltstrike_raw_payload_http_stager_x86_utf16
 rule cobaltstrike_raw_payload_http_stager_x64_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop utf16
 		$h01 = { FC 00 48 00 83 00 E4 00 F0 00 E8 00 C8 00 00 00 00 00 00 00 41 00 51 00 41 00 50 00 52 00 51 00 56 00 48 00 31 00 D2 00 65 00 48 00 8B 00 52 }
@@ -499,8 +499,8 @@ rule cobaltstrike_raw_payload_http_stager_x64_utf16
 rule cobaltstrike_raw_payload_https_stager_x86_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default eop utf-16
 		$h01 = { FC 00 E8 00 89 00 00 00 00 00 00 00 60 00 89 00 E5 00 31 00 D2 00 64 00 8B 00 52 00 30 00 8B 00 52 00 0C 00 8B 00 52 00 14 00 8B 00 72 00 28 }
@@ -522,8 +522,8 @@ rule cobaltstrike_raw_payload_https_stager_x86_utf16
 rule cobaltstrike_raw_payload_https_stager_x64_utf16
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default eop utf-16
 		$h01 = { FC 00 48 00 83 00 E4 00 F0 00 E8 00 C8 00 00 00 00 00 00 00 41 00 51 00 41 00 50 00 52 00 51 00 56 00 48 00 31 00 D2 00 65 00 48 00 8B 00 52 }
@@ -542,8 +542,8 @@ rule cobaltstrike_raw_payload_https_stager_x64_utf16
 rule cobaltstrike_payload_encoded
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 array
 		$s01 = "0xfc, 0xe8, 0x89, 0x00, 0x00, 0x00, 0x60, 0x89, 0xe5, 0x31, 0xd2, 0x64, 0x8b, 0x52, 0x30, 0x8b" ascii wide nocase
@@ -595,8 +595,8 @@ rule cobaltstrike_payload_encoded
 rule cobaltstrike_strike_payload_xored
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		$h01 = { 10 ?? 00 00 ?? ?? ?? 00 ?? ?? ?? ?? 61 61 61 61 }
 	condition:
@@ -615,8 +615,8 @@ rule cobaltstrike_strike_payload_xored
 rule cobaltstrike_beacon_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 default MZ header
 		$h01 = { 4D 5A E8 00 00 00 00 5B 89 DF 52 45 55 89 E5 81 C3 ?? ?? ?? ?? FF D3 68 }
@@ -634,8 +634,8 @@ rule cobaltstrike_beacon_x86
 rule cobaltstrike_beacon_x64
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x64 default MZ header
 		$h01 = { 4D 5A 41 52 55 48 89 E5 48 81 EC 20 00 00 00 48 8D 1D EA FF FF FF 48 89 }
@@ -653,8 +653,8 @@ rule cobaltstrike_beacon_x64
 rule cobaltstrike_beacon_encoded
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 array
 		$s01 = "0x4d, 0x5a, 0xe8, 0x00, 0x00, 0x00, 0x00, 0x5b, 0x89, 0xdf, 0x52, 0x45, 0x55, 0x89, 0xe5, 0x81" ascii wide nocase
@@ -705,8 +705,8 @@ rule cobaltstrike_beacon_encoded
 rule cobaltstrike_beacon_xored_x86
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
 		// x86 xor decrypt loop
         // 52 bytes variant
@@ -728,8 +728,8 @@ rule cobaltstrike_beacon_xored_x86
 rule cobaltstrike_beacon_xored_x64
 {
 	meta:
-		author = "Avast Threat Intel Team"
-		source = "https://github.com/avast/ioc"
+		author = "Gen Threat Labs"
+		source = "https://github.com/gendigitalinc/ioc"
 	strings:
         // x64 xor decrypt loop
 		$h01 = { FC 4883E4F0 EB33 5D 8B4500 4883C504 8B4D00 31C1 4883C504 55 8B5500 31C2 895500 31D0 4883C504 83E904 31D2 39D1 7402 EBE7 58 FC 4883E4F0 FFD0 E8C8FFFFFF }

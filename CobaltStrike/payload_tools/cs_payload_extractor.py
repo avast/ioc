@@ -265,7 +265,7 @@ def extract_payload(p):
 
 ### Main
 def main():
-    print('%s\nCS Payload extractor v%.02f%sAvast Software s.r.o\n%s' % (HR,VERSION,' '*34,HR))
+    print('%s\nCS Payload extractor v%.02f%sGen Threat Labs\n%s' % (HR,VERSION,' '*39,HR))
     if len(sys.argv) < 2:
         print('%s\n[!] Please specify input file or directory.' % HR)
         sys.exit()
