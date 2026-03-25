@@ -1,0 +1,54 @@
+# Desktop wallets
+Exodus
+Atomic
+Electrum
+Monero
+Ethereum
+Bitcoin Core
+WalletWasabi
+Daedalus
+MyEtherWallet
+AtomicDEX
+
+# Messaging / gaming
+Discord (+ PTB, Canary, Lightcord)
+Steam
+Telegram
+
+# VPN clients
+OpenVPN
+WireGuard
+NordVPN
+ProtonVPN
+ExpressVPN
+Surfshark
+Windscribe
+PIA
+
+# FTP / remote access
+FileZilla
+WinSCP
+MobaXterm
+mRemoteNG
+Total Commander
+
+# Email
+Thunderbird
+Outlook
+
+# Password managers (desktop)
+Bitwarden
+1Password
+Dashlane
+RoboForm
+NordPass
+LastPass
+Enpass
+
+# Games
+Battle.net
+Origin/EA
+Ubisoft Connect
+GOG Galaxy
+Rockstar Games
+Minecraft

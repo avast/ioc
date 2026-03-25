@@ -1,0 +1,35 @@
+# Stealer C2 domains (REST API — /api/auth, /api/upload/*, /api/stream/*)
+gogenbydet[.]cc
+technologytorg[.]com
+attackzombie[.]com
+evasivestars[.]com
+safeguss[.]com
+sinixproduction[.]com
+startbuldingship[.]com
+findyour-dreams[.]com
+wulingyuanparkzone[.]com
+new-app-techno[.]com
+bbcplay[.]top
+playbergs[.]info
+avanpost-fi[.]digital
+si-dodgei[.]digital
+
+# Stealer C2 domains (machine_api — /api/machine/set-files-r)
+quick-neo[.]com
+50elk[.]com
+
+# GRAB binary TCP protocol (port 50443)
+bk.tara[.]net[.]bd
+raketa.tara[.]net[.]bd
+
+# Loader delivery infrastructure (PowerShell stagers + XOR-encrypted loaders)
+j0o[.]pw
+t4e[.]pw
+re3[.]pw
+
+# ClickFix clipboard attack hosting
+# Pattern: n-*-script.googleusercontent.com/blank
+
+# IP addresses
+84.200.125.231
+190.92.174.248

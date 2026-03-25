@@ -1,0 +1,36 @@
+# Chromium-based browsers (25)
+Chrome|%LOCALAPPDATA%\Google\Chrome\User Data
+Edge|%LOCALAPPDATA%\Microsoft\Edge\User Data
+Brave|%LOCALAPPDATA%\BraveSoftware\Brave-Browser\User Data
+Opera|%LOCALAPPDATA%\Opera Software\Opera Stable
+OperaGX|%LOCALAPPDATA%\Opera Software\Opera GX Stable
+Vivaldi|%LOCALAPPDATA%\Vivaldi\User Data
+Yandex|%LOCALAPPDATA%\Yandex\YandexBrowser\User Data
+Chromium|%LOCALAPPDATA%\Chromium\User Data
+CocCoc|%LOCALAPPDATA%\CocCoc\Browser\User Data
+Cent|%LOCALAPPDATA%\CentBrowser\User Data
+7Star|%LOCALAPPDATA%\7Star\7Star\User Data
+Sputnik|%LOCALAPPDATA%\Sputnik\Sputnik\User Data
+Kometa|%LOCALAPPDATA%\Kometa\User Data
+Amigo|%LOCALAPPDATA%\Amigo\User Data
+Torch|%LOCALAPPDATA%\Torch\User Data
+Orbitum|%LOCALAPPDATA%\Orbitum\User Data
+Comodo|%LOCALAPPDATA%\Comodo\Dragon\User Data
+Maxthon|%LOCALAPPDATA%\Maxthon5\Users
+UCBrowser|%LOCALAPPDATA%\UCBrowser\User Data_i18n
+QQBrowser|%LOCALAPPDATA%\Tencent\QQBrowser\User Data
+Slimjet|%LOCALAPPDATA%\Slimjet\User Data
+Epic|%LOCALAPPDATA%\Epic Privacy Browser\User Data
+Iridium|%LOCALAPPDATA%\Iridium\User Data
+CryptoTab|%LOCALAPPDATA%\CryptoTab Browser\User Data
+Atom|%LOCALAPPDATA%\Mail.Ru\Atom\User Data
+
+# Firefox-family browsers (8)
+Firefox|%APPDATA%\Mozilla\Firefox|firefox.exe
+Waterfox|%APPDATA%\Waterfox|waterfox.exe
+LibreWolf|%APPDATA%\LibreWolf|librewolf.exe
+PaleMoon|%APPDATA%\Moonchild Productions\Pale Moon|palemoon.exe
+SeaMonkey|%APPDATA%\Mozilla\SeaMonkey|seamonkey.exe
+Thunderbird|%APPDATA%\Thunderbird|thunderbird.exe
+IceCat|%APPDATA%\Mozilla\icecat|icecat.exe
+Cyberfox|%APPDATA%\8pecxstudios\Cyberfox|cyberfox.exe
